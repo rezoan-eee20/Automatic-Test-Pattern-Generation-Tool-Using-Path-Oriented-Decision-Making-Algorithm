@@ -1,0 +1,1000 @@
+*  combinational logic example "c2670"
+*-------------------------------------------------------------
+*
+*
+*  total number of lines in the netlist ..............  2670
+*  simplistically reduced equivalent fault set size =   2747
+*        lines from primary input  gates .......   233
+*        lines from primary output gates .......   140
+*        lines from interior gate outputs ......  1129
+*        lines from **   454 ** fanout stems ...  1244
+*
+*        avg_fanin  =  1.64,     max_fanin  =  5
+*        avg_fanout =  2.74,     max_fanout = 11
+*
+*
+*
+*
+*
+    1 1        inpt    1   0      >sa1
+    2 2        inpt    1   0      >sa1
+    3 3        inpt    1   0      >sa1
+    4 4        inpt    1   0      >sa1
+    5 5        inpt    1   0      >sa1
+    6 6        inpt    1   0      >sa1
+    7 7        inpt    1   0      >sa1
+    8 8        inpt    2   0 >sa0 >sa1
+  358 9        from 8
+  359 10       from 8
+   11 11       inpt    2   0 >sa0 >sa1
+  360 12       from 11            >sa1
+  361 13       from 11            >sa1
+   14 14       inpt    1   0      >sa1
+   15 15       inpt    1   0      >sa1
+   16 16       inpt    2   0 >sa0 >sa1
+  362 17       from 16
+  363 18       from 16
+   19 19       inpt    1   0      >sa1
+   20 20       inpt    1   0      >sa1
+   21 21       inpt    1   0      >sa1
+   22 22       inpt    1   0      >sa1
+   23 23       inpt    1   0      >sa1
+   24 24       inpt    1   0      >sa1
+   25 25       inpt    1   0      >sa1
+   26 26       inpt    1   0      >sa1
+   27 27       inpt    1   0      >sa1
+   28 28       inpt    1   0      >sa1
+   29 29       inpt    2   0 >sa0 >sa1
+  364 30       from 29
+  365 31       from 29
+   32 32       inpt    1   0      >sa1
+   33 33       inpt    1   0      >sa1
+   34 34       inpt    1   0      >sa1
+   35 35       inpt    1   0      >sa1
+   36 36       inpt    1   0      >sa1
+   37 37       inpt    2   0 >sa0 >sa1
+  366 38       from 37            >sa1
+  367 39       from 37            >sa1
+   40 40       inpt    2   0 >sa0 >sa1
+  368 41       from 40            >sa1
+  369 42       from 40            >sa1
+   43 43       inpt    1   0      >sa1
+   44 44       inpt    2   0 >sa0 >sa1
+  370 45       from 44
+  371 46       from 44            >sa1
+   47 47       inpt    1   0      >sa1
+   48 48       inpt    1   0      >sa1
+   49 49       inpt    1   0      >sa1
+   50 50       inpt    1   0      >sa1
+   51 51       inpt    1   0      >sa1
+   52 52       inpt    1   0      >sa1
+   53 53       inpt    1   0      >sa1
+   54 54       inpt    1   0      >sa1
+   55 55       inpt    1   0      >sa1
+   56 56       inpt    1   0      >sa1
+   57 57       inpt    2   0 >sa0 >sa1
+  372 58       from 57
+  373 59       from 57            >sa1
+   60 60       inpt    1   0      >sa1
+   61 61       inpt    1   0      >sa1
+   62 62       inpt    1   0      >sa1
+   63 63       inpt    1   0      >sa1
+   64 64       inpt    1   0      >sa1
+   65 65       inpt    1   0      >sa1
+   66 66       inpt    1   0      >sa1
+   67 67       inpt    1   0      >sa1
+   68 68       inpt    1   0      >sa1
+   69 69       inpt    2   0 >sa0 >sa1
+  374 70       from 69
+  375 71       from 69            >sa1
+   72 72       inpt    1   0      >sa1
+   73 73       inpt    1   0      >sa1
+   74 74       inpt    1   0      >sa1
+   75 75       inpt    1   0      >sa1
+   76 76       inpt    1   0      >sa1
+   77 77       inpt    1   0      >sa1
+   78 78       inpt    1   0      >sa1
+   79 79       inpt    1   0      >sa1
+   80 80       inpt    1   0      >sa1
+   81 81       inpt    1   0      >sa1
+   82 82       inpt    2   0 >sa0 >sa1
+  376 83       from 82
+  377 84       from 82            >sa1
+   85 85       inpt    1   0      >sa1
+   86 86       inpt    1   0      >sa1
+   87 87       inpt    1   0      >sa1
+   88 88       inpt    1   0      >sa1
+   89 89       inpt    1   0      >sa1
+   90 90       inpt    1   0      >sa1
+   91 91       inpt    1   0      >sa1
+   92 92       inpt    1   0      >sa1
+   93 93       inpt    1   0      >sa1
+   94 94       inpt    1   0      >sa1
+   95 95       inpt    1   0      >sa1
+   96 96       inpt    2   0 >sa0 >sa1
+  378 97       from 96
+  379 98       from 96            >sa1
+   99 99       inpt    1   0      >sa1
+  100 100      inpt    1   0      >sa1
+  101 101      inpt    1   0      >sa1
+  102 102      inpt    1   0      >sa1
+  103 103      inpt    1   0      >sa1
+  104 104      inpt    1   0      >sa1
+  105 105      inpt    1   0      >sa1
+  106 106      inpt    1   0      >sa1
+  107 107      inpt    1   0      >sa1
+  108 108      inpt    2   0 >sa0 >sa1
+  380 109      from 108
+  381 110      from 108           >sa1
+  111 111      inpt    1   0      >sa1
+  112 112      inpt    1   0      >sa1
+  113 113      inpt    1   0      >sa1
+  114 114      inpt    1   0      >sa1
+  115 115      inpt    1   0      >sa1
+  116 116      inpt    1   0      >sa1
+  117 117      inpt    1   0      >sa1
+  118 118      inpt    1   0      >sa1
+  119 119      inpt    1   0      >sa1
+  120 120      inpt    2   0 >sa0 >sa1
+  382 121      from 120           >sa1
+  383 122      from 120
+  123 123      inpt    1   0      >sa1
+  124 124      inpt    1   0      >sa1
+  125 125      inpt    1   0      >sa1
+  126 126      inpt    1   0      >sa1
+  127 127      inpt    1   0      >sa1
+  128 128      inpt    1   0      >sa1
+  129 129      inpt    1   0      >sa1
+  130 130      inpt    1   0      >sa1
+  131 131      inpt    1   0      >sa1
+  132 132      inpt    2   0 >sa0 >sa1
+  384 133      from 132
+  385 134      from 132           >sa1
+  135 135      inpt    1   0      >sa1
+  136 136      inpt    1   0      >sa1
+  137 137      inpt    1   0      >sa1
+  138 138      inpt    1   0      >sa1
+  139 139      inpt    1   0      >sa1
+  140 140      inpt    1   0      >sa1
+  141 141      inpt    1   0      >sa1
+  142 142      inpt    1   0      >sa1
+  143 169      inpt    0   0 >sa0 >sa1
+  144 174      inpt    0   0 >sa0 >sa1
+  145 177      inpt    0   0 >sa0 >sa1
+  146 178      inpt    0   0 >sa0 >sa1
+  147 179      inpt    0   0 >sa0 >sa1
+  148 180      inpt    0   0 >sa0 >sa1
+  149 181      inpt    0   0 >sa0 >sa1
+  150 182      inpt    0   0 >sa0 >sa1
+  151 183      inpt    0   0 >sa0 >sa1
+  152 184      inpt    0   0 >sa0 >sa1
+  153 185      inpt    0   0 >sa0 >sa1
+  154 186      inpt    0   0 >sa0 >sa1
+  155 189      inpt    0   0 >sa0 >sa1
+  156 190      inpt    0   0 >sa0 >sa1
+  157 191      inpt    0   0 >sa0 >sa1
+  158 192      inpt    0   0 >sa0 >sa1
+  159 193      inpt    0   0 >sa0 >sa1
+  160 194      inpt    0   0 >sa0 >sa1
+  161 195      inpt    0   0 >sa0 >sa1
+  162 196      inpt    0   0 >sa0 >sa1
+  163 197      inpt    0   0 >sa0 >sa1
+  164 198      inpt    0   0 >sa0 >sa1
+  165 199      inpt    0   0 >sa0 >sa1
+  166 200      inpt    0   0 >sa0 >sa1
+  167 201      inpt    0   0 >sa0 >sa1
+  168 202      inpt    0   0 >sa0 >sa1
+  169 203      inpt    0   0 >sa0 >sa1
+  170 204      inpt    0   0 >sa0 >sa1
+  171 205      inpt    0   0 >sa0 >sa1
+  172 206      inpt    0   0 >sa0 >sa1
+  173 207      inpt    0   0 >sa0 >sa1
+  174 208      inpt    0   0 >sa0 >sa1
+  175 209      inpt    0   0 >sa0 >sa1
+  176 210      inpt    0   0 >sa0 >sa1
+  177 211      inpt    0   0 >sa0 >sa1
+  178 212      inpt    0   0 >sa0 >sa1
+  179 213      inpt    0   0 >sa0 >sa1
+  180 214      inpt    0   0 >sa0 >sa1
+  181 215      inpt    0   0 >sa0 >sa1
+  182 239      inpt    0   0 >sa0 >sa1
+  183 240      inpt    0   0 >sa0 >sa1
+  184 241      inpt    0   0 >sa0 >sa1
+  185 242      inpt    0   0 >sa0 >sa1
+  186 243      inpt    0   0 >sa0 >sa1
+  187 244      inpt    0   0 >sa0 >sa1
+  188 245      inpt    0   0 >sa0 >sa1
+  189 246      inpt    0   0 >sa0 >sa1
+  190 247      inpt    0   0 >sa0 >sa1
+  191 248      inpt    0   0 >sa0 >sa1
+  192 249      inpt    0   0 >sa0 >sa1
+  193 250      inpt    0   0 >sa0 >sa1
+  194 251      inpt    0   0 >sa0 >sa1
+  195 252      inpt    0   0 >sa0 >sa1
+  196 253      inpt    0   0 >sa0 >sa1
+  197 254      inpt    0   0 >sa0 >sa1
+  198 255      inpt    0   0 >sa0 >sa1
+  199 256      inpt    0   0 >sa0 >sa1
+  200 257      inpt    0   0 >sa0 >sa1
+  201 262      inpt    0   0 >sa0 >sa1
+  202 263      inpt    0   0 >sa0 >sa1
+  203 264      inpt    0   0 >sa0 >sa1
+  204 265      inpt    0   0 >sa0 >sa1
+  205 266      inpt    0   0 >sa0 >sa1
+  206 267      inpt    0   0 >sa0 >sa1
+  207 268      inpt    0   0 >sa0 >sa1
+  208 269      inpt    0   0 >sa0 >sa1
+  209 270      inpt    0   0 >sa0 >sa1
+  210 271      inpt    0   0 >sa0 >sa1
+  211 272      inpt    0   0 >sa0 >sa1
+  212 273      inpt    0   0 >sa0 >sa1
+  213 274      inpt    0   0 >sa0 >sa1
+  214 275      inpt    0   0 >sa0 >sa1
+  215 276      inpt    0   0 >sa0 >sa1
+  216 277      inpt    0   0 >sa0 >sa1
+  217 278      inpt    0   0 >sa0 >sa1
+  218 279      inpt    0   0 >sa0 >sa1
+  219 452      inpt    4   0 >sa0 >sa1
+  220 f01350   from 452
+  399 453      from 452
+  222 f03335   from 452
+  223 f04409   from 452
+  224 483      inpt    2   0 >sa0 >sa1
+  393 485      from 483           >sa1
+  394 484      from 483           >sa1
+  227 543      inpt    2   0 >sa0 >sa1
+  403 544      from 543
+  404 545      from 543
+  230 559      inpt    1   0
+  231 567      inpt    2   0 >sa0 >sa1
+  396 232      from 567           >sa1
+  407 568      from 567           >sa1
+  234 651      inpt    2   0 >sa0 >sa1
+  409 652      from 651
+  410 653      from 651
+  237 661      inpt    3   0 >sa0 >sa1
+  397 662      from 661           >sa1
+  402 479      from 661
+  411 663      from 661           >sa1
+  241 860      inpt    4   0 >sa0 >sa1
+  386 863      from 860           >sa1
+  387 861      from 860           >sa1
+  388 862      from 860           >sa1
+  412 864      from 860
+  246 868      inpt    6   0 >sa0 >sa1
+  413 869      from 868           >sa1
+  414 870      from 868           >sa1
+  415 871      from 868           >sa1
+  416 872      from 868           >sa1
+  417 873      from 868           >sa1
+  418 874      from 868
+  253 1083     inpt    2   0 >sa0 >sa1
+  254 f01369   from 1083
+  255 f02367   from 1083
+  256 1341     inpt    2   0 >sa0 >sa1
+  421 1342     from 1341
+  422 1343     from 1341
+  259 1348     inpt    2   0 >sa0 >sa1
+  423 1349     from 1348
+  424 1350     from 1348
+  262 1384     inpt    1   0
+  263 1956     inpt    2   0 >sa0 >sa1
+  438 1957     from 1956
+  439 1958     from 1956
+  266 1961     inpt    2   0 >sa0 >sa1
+  440 1962     from 1961
+  441 1963     from 1961
+  269 1966     inpt    2   0 >sa0 >sa1
+  442 1967     from 1966
+  443 1968     from 1966
+  272 1971     inpt    2   0 >sa0 >sa1
+  444 1972     from 1971
+  445 1973     from 1971
+  275 1976     inpt    2   0 >sa0 >sa1
+  446 1977     from 1976
+  447 1978     from 1976
+  278 1981     inpt    2   0 >sa0 >sa1
+  448 1982     from 1981
+  449 1983     from 1981
+  281 1986     inpt    2   0 >sa0 >sa1
+  450 1987     from 1986
+  451 1988     from 1986
+  284 1991     inpt    2   0 >sa0 >sa1
+  452 1992     from 1991
+  453 1993     from 1991
+  287 1996     inpt    2   0 >sa0 >sa1
+  454 1997     from 1996
+  455 1998     from 1996
+  290 2066     inpt    3   0 >sa0 >sa1
+  291 f01411   from 2066
+  292 f02337   from 2066
+  293 f03384   from 2066
+  294 2067     inpt    2   0 >sa0 >sa1
+  459 2068     from 2067
+  460 2069     from 2067
+  297 2072     inpt    3   0 >sa0 >sa1
+  392 2073     from 2072          >sa1
+  461 2074     from 2072
+  462 2075     from 2072
+  301 2078     inpt    3   0 >sa0 >sa1
+  391 2080     from 2078          >sa1
+  463 2079     from 2078
+  464 2081     from 2078
+  305 2084     inpt    3   0 >sa0 >sa1
+  390 2086     from 2084          >sa1
+  465 2085     from 2084
+  466 2087     from 2084
+  309 2090     inpt    3   0 >sa0 >sa1
+  389 2092     from 2090          >sa1
+  467 2091     from 2090
+  468 2093     from 2090
+  313 2096     inpt    2   0 >sa0 >sa1
+  469 2097     from 2096
+  470 2098     from 2096
+  316 2100     inpt    2   0 >sa0 >sa1
+  471 2101     from 2100
+  472 2102     from 2100
+  319 2104     inpt    2   0 >sa0 >sa1
+  426 1393     from 2104
+  435 1630     from 2104
+  322 2105     inpt    2   0 >sa0 >sa1
+  427 1417     from 2105
+  436 1654     from 2105
+  325 2106     inpt    2   0 >sa0 >sa1
+  395 1390     from 2106          >sa1
+  406 1392     from 2106          >sa1
+  328 2427     inpt    2   0 >sa0 >sa1
+  429 2429     from 2427          >sa1
+  473 2428     from 2427
+  331 2430     inpt    2   0 >sa0 >sa1
+  428 2431     from 2430          >sa1
+  474 2432     from 2430
+  334 2435     inpt    2   0 >sa0 >sa1
+  431 2437     from 2435          >sa1
+  475 2436     from 2435
+  337 2438     inpt    2   0 >sa0 >sa1
+  430 2439     from 2438          >sa1
+  476 2440     from 2438
+  340 2443     inpt    2   0 >sa0 >sa1
+  433 2445     from 2443          >sa1
+  477 2444     from 2443
+  343 2446     inpt    2   0 >sa0 >sa1
+  432 2447     from 2446          >sa1
+  478 2448     from 2446
+  346 2451     inpt    2   0 >sa0 >sa1
+  479 2452     from 2451
+  480 2453     from 2451          >sa1
+  349 2454     inpt    2   0 >sa0 >sa1
+  481 2455     from 2454          >sa1
+  482 2456     from 2454
+  352 2474     inpt    2   0 >sa0 >sa1
+  434 2475     from 2474          >sa1
+  483 2476     from 2474
+  355 2678     inpt    2   0 >sa0 >sa1
+  437 2679     from 2678          >sa1
+  484 2680     from 2678
+  398 350      buff    0   1 >sa0 >sa1
+   220
+  400 335      buff    0   1 >sa0 >sa1
+   222
+  401 409      buff    0   1 >sa0 >sa1
+   223
+  405 546      and     1   2
+     1     3
+  408 560      not     1   1      >sa1
+   230
+  419 369      buff    0   1 >sa0 >sa1
+   254
+  420 367      buff    0   1 >sa0 >sa1
+   255
+  425 1385     not     1   1      >sa1
+   262
+  456 411      buff    0   1 >sa0 >sa1
+   291
+  457 337      buff    0   1 >sa0 >sa1
+   292
+  458 384      buff    0   1 >sa0 >sa1
+   293
+  485 157      and     1   4
+   389   390   391   392
+  486 547      not     1   1      >sa1
+   405
+  487 218      not     0   1 >sa0 >sa1
+   370
+  488 219      not     0   1 >sa0 >sa1
+   384
+  489 220      not     0   1 >sa0 >sa1
+   376
+  490 221      not     0   1 >sa0 >sa1
+   378
+  491 235      not     0   1 >sa0 >sa1
+   374
+  492 236      not     0   1 >sa0 >sa1
+   383
+  493 237      not     0   1 >sa0 >sa1
+   372
+  494 238      not     0   1 >sa0 >sa1
+   380
+  495 258      and     1   3
+     2    15   397
+  496 480      buff    2   1 >sa0 >sa1
+   402
+  794 482      from 480           >sa1
+  795 481      from 480           >sa1
+  499 486      and     1   2
+   366   367
+  500 654      buff    2   1 >sa0 >sa1
+   399
+  793 172      from 654           >sa1
+  502 f02391   from 654
+  503 655      buff    2   1 >sa0 >sa1
+   358
+  806 656      from 655
+  807 657      from 655
+  506 658      buff    2   1 >sa0 >sa1
+   359
+  808 659      from 658
+  809 660      from 658
+  509 772      buff   11   1 >sa0 >sa1
+   403
+  812 773      from 772           >sa1
+  813 774      from 772           >sa1
+  814 775      from 772           >sa1
+  815 776      from 772           >sa1
+  816 777      from 772           >sa1
+  817 778      from 772           >sa1
+  818 779      from 772           >sa1
+  819 780      from 772           >sa1
+  820 781      from 772           >sa1
+  821 782      from 772           >sa1
+  822 783      from 772
+  521 795      buff   11   1 >sa0 >sa1
+   409
+  823 796      from 795           >sa1
+  824 797      from 795           >sa1
+  825 798      from 795           >sa1
+  826 799      from 795           >sa1
+  827 800      from 795           >sa1
+  828 801      from 795           >sa1
+  829 802      from 795           >sa1
+  830 803      from 795           >sa1
+  831 804      from 795           >sa1
+  832 805      from 795           >sa1
+  833 806      from 795
+  533 865      not     3   1 >sa0 >sa1
+   412
+  789 866      from 865           >sa1
+  790 867      from 865           >sa1
+  791 151      from 865      >sa0
+  537 875      not     5   1 >sa0 >sa1
+   418
+  834 876      from 875           >sa1
+  835 877      from 875           >sa1
+  836 878      from 875           >sa1
+  837 879      from 875           >sa1
+  838 880      from 875           >sa1
+  543 882      and     1   2 >sa0
+   361   415
+  544 1251     and     2   4 >sa0 >sa1
+   385   377   379   371
+  804 557      from 1251          >sa1
+  845 1252     from 1251
+  547 1254     and     2   4 >sa0 >sa1
+   382   373   381   375
+  803 556      from 1254          >sa1
+  846 1255     from 1254
+  550 1261     buff   11   1 >sa0 >sa1
+   404
+  847 1262     from 1261          >sa1
+  848 1263     from 1261          >sa1
+  849 1264     from 1261          >sa1
+  850 1265     from 1261          >sa1
+  851 1266     from 1261          >sa1
+  852 1267     from 1261          >sa1
+  853 1268     from 1261          >sa1
+  854 1269     from 1261          >sa1
+  855 1270     from 1261          >sa1
+  856 1271     from 1261          >sa1
+  857 1272     from 1261
+  562 1284     buff   11   1 >sa0 >sa1
+   410
+  858 1285     from 1284          >sa1
+  859 1286     from 1284          >sa1
+  860 1287     from 1284          >sa1
+  861 1288     from 1284          >sa1
+  862 1289     from 1284          >sa1
+  863 1290     from 1284          >sa1
+  864 1291     from 1284          >sa1
+  865 1292     from 1284          >sa1
+  866 1293     from 1284          >sa1
+  867 1294     from 1284          >sa1
+  868 1295     from 1284
+  574 1344     not     3   1 >sa0 >sa1
+   422
+  811 1345     from 1344          >sa1
+  840 1346     from 1344          >sa1
+  869 1347     from 1344
+  578 1351     not     3   1 >sa0 >sa1
+   424
+  870 1352     from 1351          >sa1
+  871 1353     from 1351          >sa1
+  872 1354     from 1351
+  582 1394     buff   11   1 >sa0 >sa1
+   426
+  878 1395     from 1394          >sa1
+  879 1396     from 1394          >sa1
+  880 1397     from 1394          >sa1
+  881 1398     from 1394          >sa1
+  882 1399     from 1394          >sa1
+  883 1400     from 1394          >sa1
+  884 1401     from 1394          >sa1
+  885 1402     from 1394          >sa1
+  886 1403     from 1394          >sa1
+  887 1404     from 1394          >sa1
+  888 1405     from 1394
+  594 1418     buff   11   1 >sa0 >sa1
+   427
+  889 1419     from 1418          >sa1
+  890 1420     from 1418          >sa1
+  891 1421     from 1418          >sa1
+  892 1422     from 1418          >sa1
+  893 1423     from 1418          >sa1
+  894 1424     from 1418          >sa1
+  895 1425     from 1418          >sa1
+  896 1426     from 1418          >sa1
+  897 1427     from 1418          >sa1
+  898 1428     from 1418          >sa1
+  899 1429     from 1418
+  606 2433     not     1   1      >sa1
+   473
+  607 2434     not     1   1      >sa1
+   474
+  608 2441     not     1   1      >sa1
+   475
+  609 2442     not     1   1      >sa1
+   476
+  610 2449     not     1   1      >sa1
+   477
+  611 2450     not     1   1      >sa1
+   478
+  612 2478     not     1   1      >sa1
+   483
+  613 1631     buff   11   1 >sa0 >sa1
+   435
+  916 1632     from 1631          >sa1
+  917 1633     from 1631          >sa1
+  918 1634     from 1631          >sa1
+  919 1635     from 1631          >sa1
+  920 1636     from 1631          >sa1
+  921 1637     from 1631          >sa1
+  922 1638     from 1631          >sa1
+  923 1639     from 1631          >sa1
+  924 1640     from 1631          >sa1
+  925 1641     from 1631          >sa1
+  926 1642     from 1631
+  625 1655     buff   11   1 >sa0 >sa1
+   436
+  927 1656     from 1655          >sa1
+  928 1657     from 1655          >sa1
+  929 1658     from 1655          >sa1
+  930 1659     from 1655          >sa1
+  931 1660     from 1655          >sa1
+  932 1661     from 1655          >sa1
+  933 1662     from 1655          >sa1
+  934 1663     from 1655          >sa1
+  935 1664     from 1655          >sa1
+  936 1665     from 1655          >sa1
+  937 1666     from 1655
+  637 1710     buff    5   1 >sa0 >sa1
+   362
+  938 1711     from 1710          >sa1
+  939 1712     from 1710          >sa1
+  940 1713     from 1710          >sa1
+  941 1714     from 1710          >sa1
+  942 1715     from 1710
+  643 1721     buff    6   1 >sa0 >sa1
+   363
+  943 1722     from 1721          >sa1
+  944 1723     from 1721          >sa1
+  945 1724     from 1721          >sa1
+  946 1725     from 1721          >sa1
+  947 1726     from 1721          >sa1
+  948 1727     from 1721
+  650 2682     not     1   1      >sa1
+   484
+  651 1955     and     3   2 >sa0 >sa1
+     7   411
+  796 1391     from 1955          >sa1
+  797 222      from 1955
+  798 233      from 1955          >sa1
+  655 1959     not     3   1 >sa0 >sa1
+   439
+  875 1372     from 1959          >sa1
+  913 1618     from 1959          >sa1
+  974 1960     from 1959
+  659 1964     not     3   1 >sa0 >sa1
+   441
+  877 1376     from 1964          >sa1
+  915 1622     from 1964          >sa1
+  975 1965     from 1964
+  663 1969     not     3   1 >sa0 >sa1
+   443
+  955 1857     from 1969          >sa1
+  965 1919     from 1969          >sa1
+  976 1970     from 1969
+  667 1974     not     3   1 >sa0 >sa1
+   445
+  957 1862     from 1974          >sa1
+  967 1924     from 1974          >sa1
+  977 1975     from 1974
+  671 1979     not     3   1 >sa0 >sa1
+   447
+  958 1865     from 1979          >sa1
+  968 1927     from 1979          >sa1
+  978 1980     from 1979
+  675 1984     not     3   1 >sa0 >sa1
+   449
+  959 1867     from 1984          >sa1
+  969 1929     from 1984          >sa1
+  979 1985     from 1984
+  679 1989     not     3   1 >sa0 >sa1
+   451
+  960 1869     from 1989          >sa1
+  970 1931     from 1989          >sa1
+  980 1990     from 1989
+  683 1994     not     3   1 >sa0 >sa1
+   453
+  961 1871     from 1994          >sa1
+  971 1933     from 1994          >sa1
+  981 1995     from 1994
+  687 1999     not     5   1 >sa0 >sa1
+   455
+  810 1366     from 1999          >sa1
+  839 1612     from 1999          >sa1
+  962 1873     from 1999          >sa1
+  972 1935     from 1999          >sa1
+  982 2000     from 1999
+  693 2001     buff    5   1 >sa0 >sa1
+   364
+  983 2002     from 2001          >sa1
+  984 2003     from 2001          >sa1
+  985 2004     from 2001          >sa1
+  986 2005     from 2001          >sa1
+  987 2006     from 2001
+  699 2012     buff    5   1 >sa0 >sa1
+   365
+  988 2013     from 2012          >sa1
+  989 2014     from 2012          >sa1
+  990 2015     from 2012          >sa1
+  991 2016     from 2012          >sa1
+  992 2017     from 2012
+  705 2070     not     5   1 >sa0 >sa1
+   460
+  873 1367     from 2070          >sa1
+  911 1613     from 2070          >sa1
+  963 1875     from 2070          >sa1
+  973 1937     from 2070          >sa1
+  993 2071     from 2070
+  711 2076     not     3   1 >sa0 >sa1
+   462
+  874 1370     from 2076          >sa1
+  912 1616     from 2076          >sa1
+  994 2077     from 2076
+  715 2082     not     3   1 >sa0 >sa1
+   464
+  876 1374     from 2082          >sa1
+  914 1620     from 2082          >sa1
+  995 2083     from 2082
+  719 2088     not     3   1 >sa0 >sa1
+   466
+  954 1855     from 2088          >sa1
+  964 1917     from 2088          >sa1
+  996 2089     from 2088
+  723 2094     not     3   1 >sa0 >sa1
+   468
+  956 1860     from 2094          >sa1
+  966 1922     from 2094          >sa1
+  997 2095     from 2094
+  727 2099     not     2   1 >sa0 >sa1
+   470
+  841 1211     from 2099          >sa1
+  843 1224     from 2099          >sa1
+  730 2103     not     2   1 >sa0 >sa1
+   472
+  842 1216     from 2103          >sa1
+  844 1231     from 2103          >sa1
+  733 2457     not     1   1      >sa1
+   479
+  734 2458     not     1   1      >sa1
+   482
+  735 2461     buff    2   1 >sa0 >sa1
+   423
+ 1000 2462     from 2461
+ 1001 2463     from 2461          >sa1
+  738 2464     buff    2   1 >sa0 >sa1
+   421
+ 1002 2465     from 2464          >sa1
+ 1003 2466     from 2464
+  741 2471     buff    2   1 >sa0 >sa1
+   438
+  906 2473     from 2471          >sa1
+ 1004 2472     from 2471
+  744 2479     buff    2   1 >sa0 >sa1
+   442
+  908 2481     from 2479          >sa1
+ 1005 2480     from 2479
+  747 2482     buff    2   1 >sa0 >sa1
+   440
+  907 2483     from 2482          >sa1
+ 1006 2484     from 2482
+  750 2487     buff    2   1 >sa0 >sa1
+   446
+  910 2489     from 2487          >sa1
+ 1007 2488     from 2487
+  753 2490     buff    2   1 >sa0 >sa1
+   444
+  909 2491     from 2490          >sa1
+ 1008 2492     from 2490
+  756 2495     buff    2   1 >sa0 >sa1
+   450
+ 1009 2496     from 2495
+ 1010 2497     from 2495          >sa1
+  759 2498     buff    2   1 >sa0 >sa1
+   448
+ 1011 2499     from 2498          >sa1
+ 1012 2500     from 2498
+  762 2505     buff    2   1 >sa0 >sa1
+   454
+ 1013 2506     from 2505
+ 1014 2507     from 2505          >sa1
+  765 2508     buff    2   1 >sa0 >sa1
+   452
+ 1015 2509     from 2508          >sa1
+ 1016 2510     from 2508
+  768 2675     buff    2   1 >sa0 >sa1
+   459
+  949 2677     from 2675          >sa1
+ 1017 2676     from 2675
+  771 2683     buff    2   1 >sa0 >sa1
+   463
+  951 2685     from 2683          >sa1
+ 1018 2684     from 2683
+  774 2686     buff    2   1 >sa0 >sa1
+   461
+  950 2687     from 2686          >sa1
+ 1019 2688     from 2686
+  777 2691     buff    2   1 >sa0 >sa1
+   467
+  953 2693     from 2691          >sa1
+ 1020 2692     from 2691
+  780 2694     buff    2   1 >sa0 >sa1
+   465
+  952 2695     from 2694          >sa1
+ 1021 2696     from 2694
+  783 2699     buff    2   1 >sa0 >sa1
+   471
+ 1022 2700     from 2699
+ 1023 2701     from 2699          >sa1
+  786 2702     buff    2   1 >sa0 >sa1
+   469
+ 1024 2703     from 2702          >sa1
+ 1025 2704     from 2702
+  792 158      not     0   1 >sa0 >sa1
+   485
+  799 259      not     0   1 >sa0 >sa1
+   495
+  800 487      not     2   1 >sa0 >sa1
+   499
+ 1030 488      from 487           >sa1
+ 1031 489      from 487           >sa1
+  805 391      buff    0   1 >sa0 >sa1
+   502
+  900 1475     nand    1   2      >sa1
+   428   606
+  901 1476     nand    1   2      >sa1
+   429   607
+  902 1484     nand    1   2      >sa1
+   430   608
+  903 1485     nand    1   2      >sa1
+   431   609
+  904 1493     nand    1   2      >sa1
+   432   610
+  905 1494     nand    1   2      >sa1
+   433   611
+  998 2459     nand    1   2      >sa1
+   481   733
+  999 2460     nand    1   2      >sa1
+   480   734
+ 1026 173      and     0   2 >sa0 >sa1
+    94   793
+ 1027 216      and     1   2
+   395   796
+ 1028 223      not     0   1 >sa0 >sa1
+   797
+ 1029 234      nand    0   2 >sa0 >sa1
+   396   798
+ 1032 1253     not     1   1      >sa1
+   845
+ 1033 1256     not     1   1      >sa1
+   846
+ 1034 558      and     2   2 >sa0 >sa1
+   803   804
+ 1270 260      from 558
+ 1036 f02325   from 558
+ 1037 748      buff    4   1 >sa0 >sa1
+   806
+ 1271 520      from 748           >sa1
+ 1272 526      from 748           >sa1
+ 1273 532      from 748           >sa1
+ 1274 538      from 748           >sa1
+ 1042 784      not    10   1 >sa0 >sa1
+   822
+ 1282 785      from 784           >sa1
+ 1283 786      from 784           >sa1
+ 1284 787      from 784           >sa1
+ 1285 788      from 784           >sa1
+ 1286 789      from 784           >sa1
+ 1287 790      from 784           >sa1
+ 1288 791      from 784           >sa1
+ 1289 792      from 784           >sa1
+ 1290 793      from 784           >sa1
+ 1291 794      from 784           >sa1
+ 1053 807      not    10   1 >sa0 >sa1
+   833
+ 1292 808      from 807           >sa1
+ 1293 809      from 807           >sa1
+ 1294 810      from 807           >sa1
+ 1295 811      from 807           >sa1
+ 1296 812      from 807           >sa1
+ 1297 813      from 807           >sa1
+ 1298 814      from 807           >sa1
+ 1299 815      from 807           >sa1
+ 1300 816      from 807           >sa1
+ 1301 817      from 807           >sa1
+ 1064 821      and     1   3 >sa0
+    80   815   826
+ 1065 825      and     1   3 >sa0
+    68   813   824
+ 1066 829      and     1   3 >sa0
+    79   821   831
+ 1067 833      and     1   3 >sa0
+    78   819   829
+ 1068 837      and     1   3 >sa0
+    77   817   832
+ 1069 881      and     1   2 >sa0
+   360   834
+ 1070 994      buff    4   1 >sa0 >sa1
+   807
+ 1278 694      from 994           >sa1
+ 1279 700      from 994           >sa1
+ 1280 706      from 994           >sa1
+ 1281 712      from 994           >sa1
+ 1075 1273     not    10   1 >sa0 >sa1
+   857
+ 1303 1274     from 1273          >sa1
+ 1304 1275     from 1273          >sa1
+ 1305 1276     from 1273          >sa1
+ 1306 1277     from 1273          >sa1
+ 1307 1278     from 1273          >sa1
+ 1308 1279     from 1273          >sa1
+ 1309 1280     from 1273          >sa1
+ 1310 1281     from 1273          >sa1
+ 1311 1282     from 1273          >sa1
+ 1312 1283     from 1273          >sa1
+ 1086 1296     not    10   1 >sa0 >sa1
+   868
+ 1313 1297     from 1296          >sa1
+ 1314 1298     from 1296          >sa1
+ 1315 1299     from 1296          >sa1
+ 1316 1300     from 1296          >sa1
+ 1317 1301     from 1296          >sa1
+ 1318 1302     from 1296          >sa1
+ 1319 1303     from 1296          >sa1
+ 1320 1304     from 1296          >sa1
+ 1321 1305     from 1296          >sa1
+ 1322 1306     from 1296          >sa1
+ 1097 1310     and     1   3 >sa0
+    76   850   861
+ 1098 1314     and     1   3 >sa0
+    75   848   859
+ 1099 1318     and     1   3 >sa0
+    74   856   866
+ 1100 1322     and     1   3 >sa0
+    73   854   864
+ 1101 1326     and     1   3 >sa0
+    72   852   867
+ 1102 1406     not    10   1 >sa0 >sa1
+   888
+ 1323 1407     from 1406          >sa1
+ 1324 1408     from 1406          >sa1
+ 1325 1409     from 1406          >sa1
+ 1326 1410     from 1406          >sa1
+ 1327 1411     from 1406          >sa1
+ 1328 1412     from 1406          >sa1
+ 1329 1413     from 1406          >sa1
+ 1330 1414     from 1406          >sa1
+ 1331 1415     from 1406          >sa1
+ 1332 1416     from 1406          >sa1
+ 1113 1430     not    10   1 >sa0 >sa1
+   899
+ 1333 1431     from 1430          >sa1
+ 1334 1432     from 1430          >sa1
+ 1335 1433     from 1430          >sa1
+ 1336 1434     from 1430          >sa1
+ 1337 1435     from 1430          >sa1
+ 1338 1436     from 1430          >sa1
+ 1339 1437     from 1430          >sa1
+ 1340 1438     from 1430          >sa1
+ 1341 1439     from 1430          >sa1
+ 1342 1440     from 1430          >sa1
+ 1124 1444     and     1   3 >sa0
+   114   881   892
+ 1125 1448     and     1   3 >sa0
+   113   879   890
+ 1126 1452     and     1   3 >sa0
+   112   887   897
+ 1127 1456     and     1   3 >sa0
+   111   885   895
+ 1128 1460     and     1   2 >sa0
+   883   898
+ 1129 1477     nand    3   2 >sa0 >sa1
+   900   901
+ 1343 1478     from 1477          >sa1
+ 1344 1479     from 1477          >sa1
+ 1345 1480     from 1477
+ 1133 1486     nand    3   2 >sa0 >sa1
+   902   903
+ 1346 1487     from 1486          >sa1
+ 1347 1488     from 1486          >sa1
+ 1348 1489     from 1486
+ 1137 1495     nand    2   2 >sa0 >sa1
+   904   905
+ 1349 1496     from 1495
+ 1350 1497     from 1495
+ 1140 2477     not     1   1      >sa1
+  1004
+ 1141 1499     nand    1   2      >sa1
+   906   612
+ 1142 2485     not     1   1      >sa1
+  1005
+ 1143 2486     not     1   1      >sa1
+  1006
+ 1144 2493     not     1   1      >sa1
+  1007
+ 1145 2494     not     1   1      >sa1
+  1008
+ 1146 1643     not    10   1 >sa0 >sa1
+   926
+ 1366 1644     from 1643          >sa1
+ 1367 1645     from 1643          >sa1
+ 1368 1646     from 1643          >sa1
+ 1369 1647     from 1643          >sa1
+ 1370 1648     from 1643          >sa1
+ 1371 1649     from 1643          >sa1
+ 1372 1650     from 1643          >sa1
+ 1373 1651     from 1643          >sa1
+ 1374 1652     from 1643          >sa1
+ 1375 1653     from 1643          >sa1
+ 1157 1667     not    10   1 >sa0 >sa1
+   937
+ 1376 1668     from 1667          >sa1
+ 1377 1669     from 1667          >sa1
+ 1378 1670     from 1667          >sa1
+ 1379 1671     from 1667          >sa1
+ 1380 1672     from 1667          >sa1
+ 1381 1673     from 1667          >sa1
+ 1382 1674     from 1667          >sa1
+ 1383 1675     from 1667          >sa1
+ 1384 1676     from 1667          >sa1
+ 1385 1677     from 1667          >sa1
+ 1168 1681     and     1   3 >sa0
+   118   919   930
+ 1169 1685     and     1   3 >sa0
+   107   917   928
+ 1170 1689     and     1   3 >sa0
+   117   925   935
+ 1171 1693     and     1   3 >sa0
+   116   923   933
+ 1172 1697     and     1   3 >sa0
+   115   921   936
+ 1173 1716     not     4   1 >sa0 >sa1

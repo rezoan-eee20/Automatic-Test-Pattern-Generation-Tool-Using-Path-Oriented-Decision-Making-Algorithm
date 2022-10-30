@@ -1,0 +1,7611 @@
+Fault:1 SA:0
+1xxxxxxxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:1 SA:1
+0xxxxxxxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:4 SA:0
+x1xxxxxxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:4 SA:1
+x0xxxxxxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:7 SA:0
+xx1xxxxxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:7 SA:1
+xx0xxxxxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:10 SA:0
+xxx1xxxxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:10 SA:1
+xxx0xxxxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:13 SA:0
+xxxx1xxxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:13 SA:1
+xxxx0xxxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:16 SA:0
+xxxxx1xxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:16 SA:1
+xxxxx0xxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:19 SA:0
+xxxxxx1xxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:19 SA:1
+xxxxxx0xxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:22 SA:0
+xxxxxxx1xxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:22 SA:1
+xxxxxxx0xxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:25 SA:0
+xxxxxxxx1xxxxxxxx1xxxxx1xxxxxxxxx
+Fault:25 SA:1
+xxxxxxxx0xxxxxxxx1xxxxx1xxxxxxxxx
+Fault:28 SA:0
+xxxxxxxxx1xxxxxxx1xxxxx1xxxxxxxxx
+Fault:28 SA:1
+xxxxxxxxx0xxxxxxx1xxxxx1xxxxxxxxx
+Fault:31 SA:0
+xxxxxxxxxx1xxxxxx1xxxxx1xxxxxxxxx
+Fault:31 SA:1
+xxxxxxxxxx0xxxxxx1xxxxx1xxxxxxxxx
+Fault:34 SA:0
+xxxxxxxxxxx1xxxxx1xxxxx1xxxxxxxxx
+Fault:34 SA:1
+xxxxxxxxxxx0xxxxx1xxxxx1xxxxxxxxx
+Fault:37 SA:0
+xxxxxxxxxxxx1xxxx1xxxxx1xxxxxxxxx
+Fault:37 SA:1
+xxxxxxxxxxxx0xxxx1xxxxx1xxxxxxxxx
+Fault:40 SA:0
+xxxxxxxxxxxxx1xxx1xxxxx1xxxxxxxxx
+Fault:40 SA:1
+xxxxxxxxxxxxx0xxx1xxxxx1xxxxxxxxx
+Fault:43 SA:0
+xxxxxxxxxxxxxx1xx1xxxxx1xxxxxxxxx
+Fault:43 SA:1
+xxxxxxxxxxxxxx0xx1xxxxx1xxxxxxxxx
+Fault:46 SA:0
+xxxxxxxxxxxxxxx1x1xxxxx1xxxxxxxxx
+Fault:46 SA:1
+xxxxxxxxxxxxxxx0x1xxxxx1xxxxxxxxx
+Fault:49 SA:0
+1xxxxxxxxxxxxxxx1000xxx01100xx110
+Fault:49 SA:1
+1xxxxxxxxxxxxxxx0000xxx01100xx110
+Fault:53 SA:0
+x1xx1xx11x1xx1110100xxx00000xx110
+Fault:53 SA:1
+x1xx1xx11x1xx1110000xxx00000xx110
+Fault:56 SA:0
+xx1xx1x1x1x1xx1x1010xx1x11x0xx1x0
+Fault:56 SA:1
+xx1xx1x1x1x1xx1x1000xx1x11x0xx1x0
+Fault:60 SA:0
+xxx1xx1x00xx11x10001xx1x0000xx1x0
+Fault:60 SA:1
+xxx1xx1x00xx11x10000xx1x0000xx1x0
+Fault:63 SA:0
+1101111011xxxx110xxx1xxxxxxx1xxx0
+Fault:63 SA:1
+1101111011xxxx110xxx0xxxxxxx1xxx0
+Fault:66 SA:0
+1101xxxxx1110110xxxxx1xx0xxxx1xx0
+Fault:66 SA:1
+1101xxxxx1110110xxxxx0xx0xxxx1xx0
+Fault:69 SA:0
+xx1xx1x1x1x1xx1xxx11xx11xxxxxx0x0
+Fault:69 SA:1
+xx1xx1x1x1x1xx1xxx11xx01xxxxxx0x0
+Fault:72 SA:0
+110111101100101011010x11xxx1xx010
+Fault:72 SA:1
+110111101100101011010x10xxx1xx010
+Fault:76 SA:0
+0xxxxxxxxxxxxxxx1000xx0x11000x1x1
+Fault:76 SA:1
+0xxxxxxxxxxxxxxx1000xx0x01000x1x1
+Fault:79 SA:0
+0xxxxxxxxxxxxxxx1000xx0x11000x1x1
+Fault:79 SA:1
+0xxxxxxxxxxxxxxx1000xx0x10000x1x1
+Fault:82 SA:0
+0xxxxxxxxxxxxxxx1000xx0x11100x1x1
+Fault:82 SA:1
+0xxxxxxxxxxxxxxx1000xx0x11000x1x1
+Fault:85 SA:0
+0xxxxxxxxxxxxxxx1000xx0x11010x1x1
+Fault:85 SA:1
+0xxxxxxxxxxxxxxx1000xx0x11000x1x1
+Fault:88 SA:0
+11011110xxxxxxxx10001x0x11001x1x1
+Fault:88 SA:1
+11011110xxxxxxxx10001x0x11000x1x1
+Fault:91 SA:0
+xxxxxxxx111110101010x10x0010x11x1
+Fault:91 SA:1
+xxxxxxxx111110101010x10x0010x01x1
+Fault:94 SA:0
+11011110111111111000000111000x1x1
+Fault:94 SA:1
+11011110111111111000000111000x0x1
+Fault:99 SA:0
+1011111000111101011111101011xx010
+Fault:99 SA:1
+1011111000111101011111101011xx000
+Fault:104 SA:0
+1101111011111111101000011110xx011
+Fault:104 SA:1
+1101111011111111101000011110xx010
+Fault:112 SA:0
+xxx1xx1x00xx11x1xx11xx1xxxxxxx110
+Fault:112 SA:1
+Fault:113 SA:0
+1xxxxxxxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:113 SA:1
+0xxxxxxxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:114 SA:0
+11101101x11101110xxxx0xxx0xxxx01x
+Fault:114 SA:1
+01101101x11101110xxxx0xxx0xxxx01x
+Fault:115 SA:0
+x1xxxxxxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:115 SA:1
+x0xxxxxxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:116 SA:0
+111x1111101xx111x0xxxxxxxx1xxx01x
+Fault:116 SA:1
+101x1111101xx111x0xxxxxxxx1xxx01x
+Fault:117 SA:0
+xx1xxxxxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:117 SA:1
+xx0xxxxxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:118 SA:0
+11101111x1110110xx0xx0xxxxxxxx0x0
+Fault:118 SA:1
+11001111x1110110xx0xx0xxxxxxxx0x0
+Fault:119 SA:0
+xxx1xxxxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:119 SA:1
+xxx0xxxxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:120 SA:0
+1101111101110101x1x000x1xxxxxxxx0
+Fault:120 SA:1
+1100111101110101x1x000x1xxxxxxxx0
+Fault:121 SA:0
+xxxx1xxxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:121 SA:1
+xxxx0xxxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:122 SA:0
+110011111111011110xxxxx0x0xxxxxx0
+Fault:122 SA:1
+110001111111011110xxxxx0x0xxxxxx0
+Fault:123 SA:0
+xxxxx1xxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:123 SA:1
+xxxxx0xxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:124 SA:0
+10101111x1110x111x0xxxx0x0xxxxxx0
+Fault:124 SA:1
+10101011x1110x111x0xxxx0x0xxxxxx0
+Fault:125 SA:0
+xxxxxx1xxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:125 SA:1
+xxxxxx0xxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:126 SA:0
+11011110011101111xxxxxx0x0xxxxxx0
+Fault:126 SA:1
+11011100011101111xxxxxx0x0xxxxxx0
+Fault:127 SA:0
+xxxxxxx1xxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:127 SA:1
+xxxxxxx0xxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:128 SA:0
+110111111111x111x00x0xxxxxxxxx0x0
+Fault:128 SA:1
+110111101111x111x00x0xxxxxxxxx0x0
+Fault:129 SA:0
+xxxxxxxx1xxxxxxxx1xxxxx1xxxxxxxxx
+Fault:129 SA:1
+xxxxxxxx0xxxxxxxx1xxxxx1xxxxxxxxx
+Fault:130 SA:0
+1111100111110111x0x00xxxxxxxxx0x0
+Fault:130 SA:1
+1111100101110111x0x00xxxxxxxxx0x0
+Fault:131 SA:0
+xxxxxxxxx1xxxxxxx1xxxxx1xxxxxxxxx
+Fault:131 SA:1
+xxxxxxxxx0xxxxxxx1xxxxx1xxxxxxxxx
+Fault:132 SA:0
+1111011111111011xx01001xxxxxxxxx0
+Fault:132 SA:1
+1111011110111011xx01001xxxxxxxxx0
+Fault:133 SA:0
+xxxxxxxxxx1xxxxxx1xxxxx1xxxxxxxxx
+Fault:133 SA:1
+xxxxxxxxxx0xxxxxx1xxxxx1xxxxxxxxx
+Fault:134 SA:0
+1110110110111111x0xxx0xxxxxxxx0x0
+Fault:134 SA:1
+1110110110011111x0xxx0xxxxxxxx0x0
+Fault:135 SA:0
+xxxxxxxxxxx1xxxxx1xxxxx1xxxxxxxxx
+Fault:135 SA:1
+xxxxxxxxxxx0xxxxx1xxxxx1xxxxxxxxx
+Fault:136 SA:0
+1111110111111010xx0xx0xxxxx1xx01x
+Fault:136 SA:1
+1111110111101010xx0xx0xxxxx1xx01x
+Fault:137 SA:0
+xxxxxxxxxxxx1xxxx1xxxxx1xxxxxxxxx
+Fault:137 SA:1
+xxxxxxxxxxxx0xxxx1xxxxx1xxxxxxxxx
+Fault:138 SA:0
+1111101x00111111xxx0xxxxxxxxxx0x0
+Fault:138 SA:1
+1111101x00110111xxx0xxxxxxxxxx0x0
+Fault:139 SA:0
+xxxxxxxxxxxxx1xxx1xxxxx1xxxxxxxxx
+Fault:139 SA:1
+xxxxxxxxxxxxx0xxx1xxxxx1xxxxxxxxx
+Fault:140 SA:0
+1111xx0x11111101x1xxx0x0xxxxxx1x0
+Fault:140 SA:1
+1111xx0x11111001x1xxx0x0xxxxxx1x0
+Fault:141 SA:0
+xxxxxxxxxxxxxx1xx1xxxxx1xxxxxxxxx
+Fault:141 SA:1
+xxxxxxxxxxxxxx0xx1xxxxx1xxxxxxxxx
+Fault:142 SA:0
+1110110111111111x00x00xxxxxxxx0x0
+Fault:142 SA:1
+1110110111111101x00x00xxxxxxxx0x0
+Fault:143 SA:0
+xxxxxxxxxxxxxxx1x1xxxxx1xxxxxxxxx
+Fault:143 SA:1
+xxxxxxxxxxxxxxx0x1xxxxx1xxxxxxxxx
+Fault:144 SA:0
+1111110111111111x0x1011xxxxxxx0x0
+Fault:144 SA:1
+1111110111111110x0x1011xxxxxxx0x0
+Fault:145 SA:0
+1xxx110xx1110x111xxxxxx0x0xxxxxx0
+Fault:145 SA:1
+1xxx110xx1110x110xxxxxx0x0xxxxxx0
+Fault:146 SA:0
+1101111011xxxx111000xx0111000x111
+Fault:146 SA:1
+1101111011xxxx110000xx011110x0111
+Fault:147 SA:0
+1101111011000110100101111011xx000
+Fault:147 SA:1
+1101111011000110000101111011xx000
+Fault:148 SA:0
+x1xx1xx11x1xx111x1xxxxx0xxxxxx0x0
+Fault:148 SA:1
+x1xx1xx11x1xx111x0xxxxx0xxxxxx0x0
+Fault:149 SA:0
+1101111010000101010100111111xx000
+Fault:149 SA:1
+1101111010000101000100111111xx000
+Fault:150 SA:0
+xx1xx1x1x1x1xx1xxx1xxx1xxxxxxx0x0
+Fault:150 SA:1
+xx1xx1x1x1x1xx1xxx0xxx1xxxxxxx0x0
+Fault:151 SA:0
+xxx1xx1x00xx01x11010xx0x10000x111
+Fault:151 SA:1
+xxx1xx1x00xx01x11000xx0x11000x111
+Fault:152 SA:0
+01110110101101010010100x1111xx000
+Fault:152 SA:1
+01110110101101010000100x1111xx000
+Fault:153 SA:0
+xxx1xx1x00xx11x1xxx1xx1xxxxxxx0x0
+Fault:153 SA:1
+xxx1xx1x00xx11x1xxx0xx1xxxxxxx0x0
+Fault:154 SA:0
+01110110101101010011100x1111xx000
+Fault:154 SA:1
+01110110101101010010100x1111xx000
+Fault:155 SA:0
+1101111011xxxx110xxx1xxxxxxxxxxx0
+Fault:155 SA:1
+1101111011xxxx110xxx0xxxxxxxxxxx0
+Fault:156 SA:0
+11111110xxxxxxxxxxxx1xxxxxxx1xxx1
+Fault:156 SA:1
+11111110xxxxxxxxxxxx0xxxxxxx1xxx1
+Fault:157 SA:0
+1101xxxxx1110110xxxxx1xx0xxxxxxx0
+Fault:157 SA:1
+1101xxxxx1110110xxxxx0xx0xxxxxxx0
+Fault:158 SA:0
+xxxxxxxx11111011xxxxx1xxxxxxx1xx1
+Fault:158 SA:1
+xxxxxxxx11111011xxxxx0xxxxxxx1xx1
+Fault:159 SA:0
+11111110xxxxxxxxxxxx1xxxxxxx1xxx1
+Fault:159 SA:1
+xxxxxxxxxxxxxxxxxxxx1xxxxxxx0xxx1
+Fault:160 SA:0
+xxxxxxxx11111011xxxxx1xxxxxxx1xx1
+Fault:160 SA:1
+xxxxxxxxxxxxxxxxxxxxx1xxxxxxx0xx1
+Fault:161 SA:0
+xx1xx1x1x1x11x1xxx11xx1xxxxxxx0x0
+Fault:161 SA:1
+xx1xx1x1x1x1xx1xxx11xx0xxxxxxxxx0
+Fault:162 SA:0
+1101111011111111001100110011xx010
+Fault:162 SA:1
+1101111011111111001100010010xx010
+Fault:163 SA:0
+1xxx110xx1110x1111xxxxx1xxxxxxxx0
+Fault:163 SA:1
+1xxx110xx1110x1111xxxxx0x0xxxxxx0
+Fault:164 SA:0
+0xxxxxxxxxxxxxxx1000xx111100001x1
+Fault:164 SA:1
+0xxxxxxxxxxxxxxx1000xx101100001x1
+Fault:165 SA:0
+1101111011000110111000011111xx010
+Fault:165 SA:1
+1101111011100110110101101111xx010
+Fault:166 SA:0
+1110xxxxx11101101000xx0x11000x111
+Fault:166 SA:1
+1110xxxxx11101101000xx0x01100x111
+Fault:167 SA:0
+1100111101110110111000001111xx000
+Fault:167 SA:1
+1100111101110110111000000111xx000
+Fault:168 SA:0
+1xxx110xx1110x111000xx0x11000x111
+Fault:168 SA:1
+1xxx110xx1110x111000xx0x10100x111
+Fault:169 SA:0
+1111110011111111000111101111xx010
+Fault:169 SA:1
+1111110011111111000111101011xx010
+Fault:170 SA:0
+x1xx1xx11x1xx1111000xx0x10100x111
+Fault:170 SA:1
+x1xx1xx11x1xx1111000xx0x11000x111
+Fault:171 SA:0
+0111101101110111000110111111xx010
+Fault:171 SA:1
+0111101101110111000110111101xx010
+Fault:172 SA:0
+xx1xx1x1x1x1xx1x1000xx0x10010x111
+Fault:172 SA:1
+xx1xx1x1x1x1xx1x1000xx0x11000x111
+Fault:173 SA:0
+0111010001111111000111111111xx010
+Fault:173 SA:1
+0111010001111111000111111110xx010
+Fault:174 SA:0
+11011110111111111000xx0111000x1x1
+Fault:174 SA:1
+1101111011111111101000011110xx010
+Fault:175 SA:0
+11011110111110111010xx010010x01x1
+Fault:175 SA:1
+1101111011111011101000011010xx010
+Fault:176 SA:0
+11011110xxxxxxxx1000xx0x11001x1x1
+Fault:176 SA:1
+11011110xxxxxxxxxxxxxx0xxxxx0x1x1
+Fault:177 SA:0
+xxxxxxxx111110101010xx0x0010x11x1
+Fault:177 SA:1
+xxxxxxxx11111010xxxxxx0xxxxxx01x1
+Fault:178 SA:0
+11011110111100111000xx0x11000x111
+Fault:178 SA:1
+1101111011111111101000011110xx010
+Fault:179 SA:0
+1101111011110010101100101111xx110
+Fault:179 SA:1
+1101111011110010101100101000xx010
+Fault:180 SA:0
+0xxxxxxxxxxxxxxx1000xx0x1100001x1
+Fault:180 SA:1
+11011110111111111010xx011110000x1
+Fault:181 SA:0
+xxxxxxxxxx0xxxxx1111xx101110x01x1
+Fault:181 SA:1
+0111111110011101111110101111xx010
+Fault:182 SA:0
+1101111011111011100000011000xx010
+Fault:182 SA:1
+1101111011111011100000011011xx000
+Fault:183 SA:0
+1101111011xxxx100xxxxxxxxxxxxxx11
+Fault:183 SA:1
+1101111011xxxx100xxxxxxxxxxxxxx01
+Fault:184 SA:0
+1011111000111101101110101001xx010
+Fault:184 SA:1
+xxx1xx1x00xx11x1xx11xx1xxxxxxx100
+Fault:185 SA:0
+11111110xxxxxxxxxxxx00xxxxxxxxxx1
+Fault:185 SA:1
+11111110xxxxxxxxx1xx00x1xxxxxxxx0
+Fault:186 SA:0
+111111111111111111111110x0xxxx011
+Fault:186 SA:1
+111111111111111111111110x0xxxxxx0
+Fault:187 SA:0
+11011110xxxxxxxxxxxxxx0xxxxx001x1
+Fault:187 SA:1
+1101111011111010x1xxxx0xxxxx00100
+Fault:188 SA:0
+1101111011xxxx100xxxxxxxxxxxxxx01
+Fault:188 SA:1
+1101111011xxxx10xxxx0xxxxxxxxxx00
+Fault:189 SA:0
+xxx1xx1x00xx01x1xx1xxx0xxxxxxxx01
+Fault:189 SA:1
+xxx1xx1x00xx11x1xx11xx1xxxxxxx100
+Fault:190 SA:0
+01101101x11101110xxxx0xxx0xxxx01x
+Fault:190 SA:1
+11101101x11101110xxxx0xxx0xxxx01x
+Fault:194 SA:0
+101x1111101xx111x0xxxxxxxx1xxx01x
+Fault:194 SA:1
+111x1111101xx111x0xxxxxxxx1xxx01x
+Fault:197 SA:0
+11001111x1110110xx0xx0xxxxxxxx0x0
+Fault:197 SA:1
+11101111x1110110xx0xx0xxxxxxxx0x0
+Fault:201 SA:0
+1100111101110101x1x000x1xxxxxxxx0
+Fault:201 SA:1
+1101111101110101x1x000x1xxxxxxxx0
+Fault:206 SA:0
+110001111111011110xxxxx0x0xxxxxx0
+Fault:206 SA:1
+110011111111011110xxxxx0x0xxxxxx0
+Fault:209 SA:0
+10101011x1110x111x0xxxx0x0xxxxxx0
+Fault:209 SA:1
+10101111x1110x111x0xxxx0x0xxxxxx0
+Fault:212 SA:0
+11011100011101111xxxxxx0x0xxxxxx0
+Fault:212 SA:1
+11011110011101111xxxxxx0x0xxxxxx0
+Fault:216 SA:0
+110111101111x111x00x0xxxxxxxxx0x0
+Fault:216 SA:1
+110111111111x111x00x0xxxxxxxxx0x0
+Fault:220 SA:0
+1111100101110111x0x00xxxxxxxxx0x0
+Fault:220 SA:1
+1111100111110111x0x00xxxxxxxxx0x0
+Fault:225 SA:0
+1111011110111011xx01001xxxxxxxxx0
+Fault:225 SA:1
+1111011111111011xx01001xxxxxxxxx0
+Fault:229 SA:0
+1110110110011111x0xxx0xxxxxxxx0x0
+Fault:229 SA:1
+1110110110111111x0xxx0xxxxxxxx0x0
+Fault:232 SA:0
+1111110111101010xx0xx0xxxxx1xx01x
+Fault:232 SA:1
+1111110111111010xx0xx0xxxxx1xx01x
+Fault:235 SA:0
+1111101x00110111xxx0xxxxxxxxxx0x0
+Fault:235 SA:1
+1111101x00111111xxx0xxxxxxxxxx0x0
+Fault:239 SA:0
+1111xx0x11111001x1xxx0x0xxxxxx1x0
+Fault:239 SA:1
+1111xx0x11111101x1xxx0x0xxxxxx1x0
+Fault:243 SA:0
+1110110111111101x00x00xxxxxxxx0x0
+Fault:243 SA:1
+1110110111111111x00x00xxxxxxxx0x0
+Fault:247 SA:0
+1111110111111110x0x1011xxxxxxx0x0
+Fault:247 SA:1
+1111110111111111x0x1011xxxxxxx0x0
+Fault:251 SA:0
+11111110xxxxxxxxxxxx0xxxxxxxxxxx1
+Fault:251 SA:1
+11111110xxxxxxxxxxxx1xxxxxxx1xxx1
+Fault:252 SA:0
+xxxxxxxxxxxxxxxxxxxxx0xxxxxxx0xx1
+Fault:252 SA:1
+xxxxxxxx11111011xxxxx1xxxxxxx1xx1
+Fault:253 SA:0
+1xxx110xx1110x1111xxxxx0x0xxxxxx0
+Fault:253 SA:1
+1xxx110xx1110x1111xxxxx1xxxxxxxx0
+Fault:256 SA:0
+1101111011100110110101101111xx010
+Fault:256 SA:1
+1101111011000110111000011111xx010
+Fault:257 SA:0
+xx1xx1x1x1x11x1xxx11xx1xxxxxxx0x0
+Fault:257 SA:1
+xx1xx1x1x1x1xx1xxx11xx0xxxxxxxxx0
+Fault:260 SA:0
+1101111011111111001100110011xx010
+Fault:260 SA:1
+1101111011111111001100010010xx010
+Fault:263 SA:0
+1100111101110110111000000111xx000
+Fault:263 SA:1
+1100111101110110111000001111xx000
+Fault:266 SA:0
+1111110011111111000111101011xx010
+Fault:266 SA:1
+1111110011111111000111101111xx010
+Fault:269 SA:0
+0111101101110111000110111101xx010
+Fault:269 SA:1
+0111101101110111000110111111xx010
+Fault:272 SA:0
+0111010001111111000111111110xx010
+Fault:272 SA:1
+0111010001111111000111111111xx010
+Fault:275 SA:0
+1101111011111111101000011110xx010
+Fault:275 SA:1
+11011110111111111000xx0111000x1x1
+Fault:276 SA:0
+1101111011111011101000011010xx010
+Fault:276 SA:1
+11011110111110111010xx010010x01x1
+Fault:277 SA:0
+11011110xxxxxxxxxxxxxx0xxxxx0x1x1
+Fault:277 SA:1
+11011110xxxxxxxx1000xx0x11001x1x1
+Fault:280 SA:0
+xxxxxxxx11111010xxxxxx0xxxxxx01x1
+Fault:280 SA:1
+xxxxxxxx111110101010xx0x0010x11x1
+Fault:283 SA:0
+11011110111100111000xx0x11000x111
+Fault:283 SA:1
+1101111011111111101000011110xx010
+Fault:290 SA:0
+1101111011110010101100101000xx010
+Fault:290 SA:1
+1101111011110010101100101111xx110
+Fault:297 SA:0
+0xxxxxxxxxxxxxxx1000xx0x1100001x1
+Fault:297 SA:1
+11011110111111111010xx011110000x1
+Fault:300 SA:0
+0111111110011101111110101111xx010
+Fault:300 SA:1
+xxxxxxxxxx0xxxxx1111xx101110x01x1
+Fault:303 SA:0
+1101111011111011100000011000xx010
+Fault:303 SA:1
+1101111011111011100000011011xx000
+Fault:306 SA:0
+1101111011xxxx100xxxxxxxxxxxxxx01
+Fault:306 SA:1
+1101111011xxxx100xxxxxxxxxxxxxx11
+Fault:313 SA:0
+xxx1xx1x00xx11x1xx11xx1xxxxxxx100
+Fault:313 SA:1
+1011111000111101101110101001xx010
+Fault:316 SA:0
+11111110xxxxxxxxxxxx00xxxxxxxxxx1
+Fault:316 SA:1
+11111110xxxxxxxxx1xx00x1xxxxxxxx0
+Fault:319 SA:0
+111111111111111111111110x0xxxxxx0
+Fault:319 SA:1
+111111111111111111111110x0xxxx011
+Fault:326 SA:0
+11011110xxxxxxxxxxxxxx0xxxxx001x1
+Fault:326 SA:1
+1101111011111010x1xxxx0xxxxx00100
+Fault:331 SA:0
+1101111011xxxx100xxxxxxxxxxxxxx01
+Fault:331 SA:1
+1101111011xxxx10xxxx0xxxxxxxxxx00
+Fault:338 SA:0
+xxx1xx1x00xx11x1xx11xx1xxxxxxx100
+Fault:338 SA:1
+xxx1xx1x00xx01x1xx1xxx0xxxxxxxx01
+Fault:343 SA:0
+1xxxxxxxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:343 SA:1
+0xxxxxxxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:346 SA:0
+x1xxxxxxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:346 SA:1
+x0xxxxxxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:349 SA:0
+xx1xxxxxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:349 SA:1
+xx0xxxxxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:352 SA:0
+xxx1xxxxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:352 SA:1
+xxx0xxxxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:355 SA:0
+xxxx1xxxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:355 SA:1
+xxxx0xxxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:358 SA:0
+xxxxx1xxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:358 SA:1
+xxxxx0xxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:361 SA:0
+xxxxxx1xxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:361 SA:1
+xxxxxx0xxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:364 SA:0
+xxxxxxx1xxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:364 SA:1
+xxxxxxx0xxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:367 SA:0
+xxxxxxxx1xxxxxxxx1xxxxx1xxxxxxxxx
+Fault:367 SA:1
+xxxxxxxx0xxxxxxxx1xxxxx1xxxxxxxxx
+Fault:370 SA:0
+xxxxxxxxx1xxxxxxx1xxxxx1xxxxxxxxx
+Fault:370 SA:1
+xxxxxxxxx0xxxxxxx1xxxxx1xxxxxxxxx
+Fault:373 SA:0
+xxxxxxxxxx1xxxxxx1xxxxx1xxxxxxxxx
+Fault:373 SA:1
+xxxxxxxxxx0xxxxxx1xxxxx1xxxxxxxxx
+Fault:376 SA:0
+xxxxxxxxxxx1xxxxx1xxxxx1xxxxxxxxx
+Fault:376 SA:1
+xxxxxxxxxxx0xxxxx1xxxxx1xxxxxxxxx
+Fault:379 SA:0
+xxxxxxxxxxxx1xxxx1xxxxx1xxxxxxxxx
+Fault:379 SA:1
+xxxxxxxxxxxx0xxxx1xxxxx1xxxxxxxxx
+Fault:382 SA:0
+xxxxxxxxxxxxx1xxx1xxxxx1xxxxxxxxx
+Fault:382 SA:1
+xxxxxxxxxxxxx0xxx1xxxxx1xxxxxxxxx
+Fault:385 SA:0
+xxxxxxxxxxxxxx1xx1xxxxx1xxxxxxxxx
+Fault:385 SA:1
+xxxxxxxxxxxxxx0xx1xxxxx1xxxxxxxxx
+Fault:388 SA:0
+xxxxxxxxxxxxxxx1x1xxxxx1xxxxxxxxx
+Fault:388 SA:1
+xxxxxxxxxxxxxxx0x1xxxxx1xxxxxxxxx
+Fault:391 SA:0
+1xxxxxxxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:391 SA:1
+0xxxxxxxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:392 SA:0
+x1xxxxxxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:392 SA:1
+x0xxxxxxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:393 SA:0
+xx1xxxxxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:393 SA:1
+xx0xxxxxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:394 SA:0
+xxx1xxxxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:394 SA:1
+xxx0xxxxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:395 SA:0
+xxxx1xxxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:395 SA:1
+xxxx0xxxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:396 SA:0
+xxxxx1xxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:396 SA:1
+xxxxx0xxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:397 SA:0
+xxxxxx1xxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:397 SA:1
+xxxxxx0xxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:398 SA:0
+xxxxxxx1xxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:398 SA:1
+xxxxxxx0xxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:399 SA:0
+xxxxxxxx1xxxxxxxx1xxxxx1xxxxxxxxx
+Fault:399 SA:1
+xxxxxxxx0xxxxxxxx1xxxxx1xxxxxxxxx
+Fault:400 SA:0
+xxxxxxxxx1xxxxxxx1xxxxx1xxxxxxxxx
+Fault:400 SA:1
+xxxxxxxxx0xxxxxxx1xxxxx1xxxxxxxxx
+Fault:401 SA:0
+xxxxxxxxxx1xxxxxx1xxxxx1xxxxxxxxx
+Fault:401 SA:1
+xxxxxxxxxx0xxxxxx1xxxxx1xxxxxxxxx
+Fault:402 SA:0
+xxxxxxxxxxx1xxxxx1xxxxx1xxxxxxxxx
+Fault:402 SA:1
+xxxxxxxxxxx0xxxxx1xxxxx1xxxxxxxxx
+Fault:403 SA:0
+xxxxxxxxxxxx1xxxx1xxxxx1xxxxxxxxx
+Fault:403 SA:1
+xxxxxxxxxxxx0xxxx1xxxxx1xxxxxxxxx
+Fault:404 SA:0
+xxxxxxxxxxxxx1xxx1xxxxx1xxxxxxxxx
+Fault:404 SA:1
+xxxxxxxxxxxxx0xxx1xxxxx1xxxxxxxxx
+Fault:405 SA:0
+xxxxxxxxxxxxxx1xx1xxxxx1xxxxxxxxx
+Fault:405 SA:1
+xxxxxxxxxxxxxx0xx1xxxxx1xxxxxxxxx
+Fault:406 SA:0
+xxxxxxxxxxxxxxx1x1xxxxx1xxxxxxxxx
+Fault:406 SA:1
+xxxxxxxxxxxxxxx0x1xxxxx1xxxxxxxxx
+Fault:407 SA:0
+1101111011xxxx100xxxxxxxxxxxxxx01
+Fault:407 SA:1
+1101111011xxxx100xxxxxxxxxxxxxx11
+Fault:408 SA:0
+1101111011xxxx100xxxxxxxxxxxxxx01
+Fault:408 SA:1
+1101111011xxxx10xxxx0xxxxxxxxxx00
+Fault:409 SA:0
+1111xxxxx1110110xxxxxxxx0xxxxxx01
+Fault:409 SA:1
+1111xxxxx1110110xxxxxxxx0xxxxxx11
+Fault:410 SA:0
+1111xxxxx1110110xxxxxxxx0xxxxxx01
+Fault:410 SA:1
+1111xxxxx1110110xxxxx0xxxxxxxxx00
+Fault:411 SA:0
+1xxx110xx1111x11xxxxxxxxx0xxxxx01
+Fault:411 SA:1
+1xxx110xx1111x11xxxxxxxxx0xxxxx11
+Fault:412 SA:0
+1xxx110xx1111x11xxxxxxxxx0xxxxx01
+Fault:412 SA:1
+1xxx110xx1111x110xxxxxxxxxxxxxx00
+Fault:413 SA:0
+x1xx1xx10x1xx111xxxxxxxxxx0xxxx01
+Fault:413 SA:1
+x1xx1xx10x1xx111xxxxxxxxxx0xxxx11
+Fault:414 SA:0
+x1xx1xx10x1xx111xxxxxxxxxx0xxxx01
+Fault:414 SA:1
+x1xx1xx10x1xx111x0xxxxxxxxxxxxx00
+Fault:415 SA:0
+xx1xx1x0x1x1xx1xxxxxxxxxxxx0xxx01
+Fault:415 SA:1
+xx1xx1x0x1x1xx1xxxxxxxxxxxx0xxx11
+Fault:416 SA:0
+xx1xx1x0x1x1xx1xxxxxxxxxxxx0xxx01
+Fault:416 SA:1
+xx1xx1x0x1x1xx1xxx0xxxxxxxxxxxx00
+Fault:417 SA:0
+xxx1xx1x10xx01x1xx0xxxxxxxxxxxx01
+Fault:417 SA:1
+xxx1xx1x10xx01x1xx0xxxxxxxxxxxx11
+Fault:418 SA:0
+xxx1xx1x10xx01x1xx0xxxxxxxxxxxx01
+Fault:418 SA:1
+xxx1xx1x10xx11x1xxx1xx1xxxxxxxx00
+Fault:419 SA:0
+xxx1xx1x00xx11x1xx11xx1xxxxxxx100
+Fault:419 SA:1
+xxx1xx1x00xx01x1xx1xxx0xxxxxxxx01
+Fault:420 SA:0
+xxx1xx1x00xx11x1xx11xx1xxxxxxx100
+Fault:420 SA:1
+Fault:421 SA:0
+xxx1xx1x00xx11x1xx11xx1xxxxxxx100
+Fault:421 SA:1
+Fault:422 SA:0
+xxx1xx1x00xx11x1xx11xx1xxxxxxx110
+Fault:422 SA:1
+xxx1xx1x00xx01x1x11xxx01xxxxxxx11
+Fault:423 SA:0
+0111111001110010xxxx00xxxxxxxx0x0
+Fault:423 SA:1
+1111111001110010xxxx00xxxxxxxx0x0
+Fault:424 SA:0
+0xxx110xx1110x110xxxxxxxx0xxxxx1x
+Fault:424 SA:1
+1xxx110xx1110x110xxxxxxxx0xxxxx1x
+Fault:425 SA:0
+0101110011111111001111101111xx010
+Fault:425 SA:1
+1111110011111111000111101111xx010
+Fault:426 SA:0
+1011111001110010xxxx00xxxxxxxx0x0
+Fault:426 SA:1
+1111111001110010xxxx00xxxxxxxx0x0
+Fault:427 SA:0
+x0xx1xx11x1xx111x0xxxxxxxx1xxx01x
+Fault:427 SA:1
+x1xx1xx11x1xx111x0xxxxxxxx1xxx01x
+Fault:428 SA:0
+1100xxxxx1110110xxxxx0xx1xxxxx01x
+Fault:428 SA:1
+1110xxxxx1110110xxxxx0xx1xxxxx01x
+Fault:429 SA:0
+1101111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:429 SA:1
+1111111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:430 SA:0
+xx0xx1x1x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:430 SA:1
+xx1xx1x1x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:431 SA:0
+1100111111xxxx11x1xx0xx1xxxxxxxx0
+Fault:431 SA:1
+1101111111xxxx11x1xx0xx1xxxxxxxx0
+Fault:432 SA:0
+1100111101110110111000001111xx000
+Fault:432 SA:1
+1101110101110110011000001111xx000
+Fault:433 SA:0
+1110xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:433 SA:1
+1111xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:434 SA:0
+xxx0xx1x01xx11x1xxx1xx1xxxxxxx0x0
+Fault:434 SA:1
+xxx1xx1x01xx11x1xxx1xx1xxxxxxx0x0
+Fault:435 SA:0
+11010110x1110x111xxxxxx0x0xxxxxx0
+Fault:435 SA:1
+11011110x1110x111xxxxxx0x0xxxxxx0
+Fault:436 SA:0
+x1xx0xx11x1xx111x0xxxxxxxx1xxx01x
+Fault:436 SA:1
+x1xx1xx11x1xx111x0xxxxxxxx1xxx01x
+Fault:437 SA:0
+11011010x1110x111xxxxxx0x0xxxxxx0
+Fault:437 SA:1
+11011110x1110x111xxxxxx0x0xxxxxx0
+Fault:438 SA:0
+xx1xx0x1x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:438 SA:1
+xx1xx1x1x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:439 SA:0
+1101110011xxxx11x1xx0xx1xxxxxxxx0
+Fault:439 SA:1
+1101111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:440 SA:0
+0xxx110xx1110x110xxxxxxxx0xxxxx1x
+Fault:440 SA:1
+0xxx111xx1110x110xxxxxxxx0xxxxx1x
+Fault:441 SA:0
+xxx1xx0x01xx11x1xxx1xx1xxxxxxx0x0
+Fault:441 SA:1
+xxx1xx1x01xx11x1xxx1xx1xxxxxxx0x0
+Fault:442 SA:0
+1101111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:442 SA:1
+1101111111xxxx11x1xx0xx1xxxxxxxx0
+Fault:443 SA:0
+x1xx1xx01x1xx111x0xxxxxxxx1xxx01x
+Fault:443 SA:1
+x1xx1xx11x1xx111x0xxxxxxxx1xxx01x
+Fault:444 SA:0
+xx1xx1x0x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:444 SA:1
+xx1xx1x1x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:445 SA:0
+1101111001xxxx110xxx0xxxxxxxxx01x
+Fault:445 SA:1
+1101111011xxxx110xxx0xxxxxxxxx01x
+Fault:446 SA:0
+xxxxxxxx01111110x1xxxxx1xxxxxxxx0
+Fault:446 SA:1
+xxxxxxxx11111110x1xxxxx1xxxxxxxx0
+Fault:447 SA:0
+x1xx1xx10x1xx111x0xxxxxxxx1xxx01x
+Fault:447 SA:1
+x1xx1xx11x1xx111x0xxxxxxxx1xxx01x
+Fault:448 SA:0
+xxx1xx1x00xx11x1xxx1xx1xxxxxxx0x0
+Fault:448 SA:1
+xxx1xx1x10xx11x1xxx1xx1xxxxxxx0x0
+Fault:449 SA:0
+11111100101110111xxx00x0x0xxxxxx0
+Fault:449 SA:1
+11111100111110111xxx00x0x0xxxxxx0
+Fault:450 SA:0
+xx1xx1x1x0x1xx1xxx0xxxxxxxx1xx01x
+Fault:450 SA:1
+xx1xx1x1x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:451 SA:0
+xxx1xx1x00xx11x1xxx1xx1xxxxxxx0x0
+Fault:451 SA:1
+xxx1xx1x01xx11x1xxx1xx1xxxxxxx0x0
+Fault:452 SA:0
+1111110x110110101xxxx0x0x0xxxxxx0
+Fault:452 SA:1
+1111110x111110101xxxx0x0x0xxxxxx0
+Fault:453 SA:0
+x1xx1xx11x0xx111x0xxxxxxxx1xxx01x
+Fault:453 SA:1
+x1xx1xx11x1xx111x0xxxxxxxx1xxx01x
+Fault:454 SA:0
+1111110x111010101xxxx0x0x0xxxxxx0
+Fault:454 SA:1
+1111110x111110101xxxx0x0x0xxxxxx0
+Fault:455 SA:0
+xx1xx1x1x1x0xx1xxx0xxxxxxxx1xx01x
+Fault:455 SA:1
+xx1xx1x1x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:456 SA:0
+xxxxxxxx11110010x1xxxxx1xxxxxxxx0
+Fault:456 SA:1
+xxxxxxxx11111010x1xxxxx1xxxxxxxx0
+Fault:457 SA:0
+1100110xx11101111xxxx0x0x0xxxxxx0
+Fault:457 SA:1
+1100110xx11111111xxxx0x0x0xxxxxx0
+Fault:458 SA:0
+xxx1xx1x00xx01x1xx10xx0xxxxxxx01x
+Fault:458 SA:1
+xxx1xx1x00xx11x1xx10xx0xxxxxxx01x
+Fault:459 SA:0
+1101xxxxx1110010xxxxx0xx0xxxxx01x
+Fault:459 SA:1
+1101xxxxx1110110xxxxx0xx0xxxxx01x
+Fault:460 SA:0
+xxxxxxxx11111010x1xxxxx1xxxxxxxx0
+Fault:460 SA:1
+xxxxxxxx11111110x1xxxxx1xxxxxxxx0
+Fault:461 SA:0
+x1x11x11101x1011x0x1xx1xxxxxxx0x0
+Fault:461 SA:1
+x1x11x11101x1111x0x1xx1xxxxxxx0x0
+Fault:462 SA:0
+11111100111110011xxx00x0x0xxxxxx0
+Fault:462 SA:1
+11111100111110111xxx00x0x0xxxxxx0
+Fault:463 SA:0
+x1xx1xx11x1xx101x0xxxxxxxx1xxx01x
+Fault:463 SA:1
+x1xx1xx11x1xx111x0xxxxxxxx1xxx01x
+Fault:464 SA:0
+xx1xx1x1x1x1xx0xxx0xxxxxxxx1xx01x
+Fault:464 SA:1
+xx1xx1x1x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:465 SA:0
+1111110011110x101xxx0xx0x0xxxxxx0
+Fault:465 SA:1
+1111110011110x111xxx0xx0x0xxxxxx0
+Fault:466 SA:0
+1111xxxx11111010xxxxx0xxxxxxxx0x0
+Fault:466 SA:1
+1111xxxx11111011xxxxx0xxxxxxxx0x0
+Fault:467 SA:0
+x1x11x11101x1110x0x1xx1xxxxxxx0x0
+Fault:467 SA:1
+x1x11x11101x1111x0x1xx1xxxxxxx0x0
+Fault:468 SA:0
+1xxx110xx1110x111xxxxxx0x0xxxxxx0
+Fault:468 SA:1
+1xxx110xx1110x111xxxxxx1x0xxxxxx0
+Fault:469 SA:0
+x1xx1xx11x1xx111x1xxxxx0xxxxxx0x0
+Fault:469 SA:1
+x1xx1xx11x1xx111x1xxxxx1xxxxxxxx0
+Fault:470 SA:0
+xx1xx1x1x1x1xx1xxx1xxx1xxxxxxx0x0
+Fault:470 SA:1
+xx1xx1x1x1x1xx1xxx1xxx0xxxxxxx0x0
+Fault:471 SA:0
+xxx1xx1x00xx11x1xxx1xx1xxxxxxx0x0
+Fault:471 SA:1
+xxx1xx1x00xx11x1xxx1xx0xxxxxxxxx0
+Fault:472 SA:0
+0xxxxxxxxxxxxxxx1000xx111100001x1
+Fault:472 SA:1
+0xxxxxxxxxxxxxxx1000xx011100001x1
+Fault:473 SA:0
+0111111110111101001101100111xx010
+Fault:473 SA:1
+01110110101101010011000x0111xx010
+Fault:474 SA:0
+1101111011xxxx110xxx1xxxxxxxxxxx0
+Fault:474 SA:1
+1101111011xxxx110xxx1xxxxxxxxx011
+Fault:475 SA:0
+1101xxxxx1110110xxxxx1xx0xxxxxxx0
+Fault:475 SA:1
+1101xxxxx1110110xxxxx1xx0xxxxx011
+Fault:476 SA:0
+1xxx110xx1110x111xxxxxx0x0xxxxxx0
+Fault:476 SA:1
+1xxx110xx1110x111xxxxxx0x0xxxx011
+Fault:477 SA:0
+1101111011000110100101111011xx000
+Fault:477 SA:1
+1101111011xxxx1010000x110000xx110
+Fault:478 SA:0
+1100111101110110111000001111xx000
+Fault:478 SA:1
+1100xxxxx11101100000x0111000xx110
+Fault:479 SA:0
+1111110011111111000111101111xx010
+Fault:479 SA:1
+1xxx110xx1111x110000xx110100xx110
+Fault:480 SA:0
+0111101101110111000110111111xx010
+Fault:480 SA:1
+x1xx1xx10x1xx1110000xx110010xx110
+Fault:481 SA:0
+0111010001111111000111111111xx010
+Fault:481 SA:1
+xx1xx1x0x1x1xx1x0000xx110001xx110
+Fault:482 SA:0
+1111011010111101000100111111xx010
+Fault:482 SA:1
+xxx1xx1x10xx11x10011xx100000xx110
+Fault:483 SA:0
+1100111101110110101000010111xx010
+Fault:483 SA:1
+1100111101110110101000011111xx010
+Fault:484 SA:0
+1100111101110110111000000111xx000
+Fault:484 SA:1
+1100111101110110111000001111xx000
+Fault:485 SA:0
+1111110011111111000111101011xx010
+Fault:485 SA:1
+1111110011111111000111101111xx010
+Fault:486 SA:0
+1011110011111111010011x01011xx000
+Fault:486 SA:1
+1011110011111111010011x01111xx000
+Fault:487 SA:0
+0110100101111111100011011001xx010
+Fault:487 SA:1
+0110100101111111100011011011xx010
+Fault:488 SA:0
+01111011011101110001101x1101xx000
+Fault:488 SA:1
+01111011011101110001101x1111xx000
+Fault:489 SA:0
+0111010001111111100010011110xx010
+Fault:489 SA:1
+0111010001111111100010011111xx010
+Fault:490 SA:0
+01110100011111110001111x1110xx000
+Fault:490 SA:1
+01110100011111110001111x1111xx000
+Fault:491 SA:0
+11011110xxxxxxxxxxxxxxxxxxxx0xxx1
+Fault:491 SA:1
+11011110xxxxxxxxx1xxxxx1xxxx0xxx0
+Fault:492 SA:0
+11011110xxxxxxxxxxxxxxxxxxxx0xxx1
+Fault:492 SA:1
+11011110xxxxxxxxxxxx1xxxxxxx1xxx1
+Fault:493 SA:0
+xxxxxxxx11111010xxxxxxxxxxxxx0xx1
+Fault:493 SA:1
+xxxxxxxx11111010x1xxxxx1xxxxx0xx0
+Fault:494 SA:0
+xxxxxxxx11111010xxxxxxxxxxxxx0xx1
+Fault:494 SA:1
+xxxxxxxx11111010xxxxx1xxxxxxx1xx1
+Fault:495 SA:0
+0xxxxxxxxxxxxxxx1000xx0x11000x1x1
+Fault:495 SA:1
+0xxxxxxxxxxxxxxx1000xx0x11001x1x1
+Fault:496 SA:0
+xxxxxxxx0xxxxxxx1010xx0x0010x01x1
+Fault:496 SA:1
+xxxxxxxx0xxxxxxx1010xx0x0010x11x1
+Fault:497 SA:0
+1101111011xxxx111000xx0x11000x111
+Fault:497 SA:1
+1101111011111111101000011110xx010
+Fault:498 SA:0
+1110xxxxx11101101000xx0x11000x111
+Fault:498 SA:1
+1101111011111111101000011110xx010
+Fault:499 SA:0
+1xxx110xx1110x111000xx0x11000x111
+Fault:499 SA:1
+1101111011111111101000011110xx010
+Fault:500 SA:0
+x1xx1xx11x1xx1111000xx0x10100x111
+Fault:500 SA:1
+1101111011111111101000011110xx010
+Fault:501 SA:0
+xx1xx1x1x1x1xx1x1000xx0x10010x111
+Fault:501 SA:1
+1101111011111111101000011011xx010
+Fault:502 SA:0
+xxx1xx1x00xx01x11010xx0x10000x111
+Fault:502 SA:1
+1101111011111111101000011110xx010
+Fault:503 SA:0
+0xxxxxxxxxxxxxxx1000xx0x11000x1x1
+Fault:503 SA:1
+11011110111111111010xx0111100x0x1
+Fault:504 SA:0
+xxxxxxxx0xxxxxxx1010xx0x0010x01x1
+Fault:504 SA:1
+11011110111110111010xx011010x00x1
+Fault:505 SA:0
+0111111110111101001101100111xx010
+Fault:505 SA:1
+0xxxxxxxxxxxxxxx1011xx1011000x1x1
+Fault:506 SA:0
+1101111011100110110101101111xx010
+Fault:506 SA:1
+xxxxxxxxxx0xxxxx1100xxx01110x01x1
+Fault:507 SA:0
+1101111011111011100000011000xx010
+Fault:507 SA:1
+Fault:508 SA:0
+1101111011111111101000011110xx010
+Fault:508 SA:1
+1101111011111111101000011110xx000
+Fault:509 SA:0
+11111110xxxxxxxxxxxx0xxxxxxxxxxx1
+Fault:509 SA:1
+11111110xxxxxxxxx1xx0xx1xxxxxxxx0
+Fault:510 SA:0
+xxxxxxxxxxxxxxxxxxxxx0xxxxxxx0xx1
+Fault:510 SA:1
+xxxxxxxx11111011x1xxx0x1xxxxxxxx0
+Fault:511 SA:0
+x1xx1xx11x1xx111x1xxxxx0xxxxxx0x0
+Fault:511 SA:1
+x1xx1xx11x1xx111x1xxxxx0xx1xxx011
+Fault:512 SA:0
+xx1xx1x1x1x1xx1xxx1xxx1xxxxxxx0x0
+Fault:512 SA:1
+xx1xx1x1x1x1xx1xxx1xxx1xxxx1xx011
+Fault:513 SA:0
+xxx1xx1x00xx11x1xxx1xx1xxxxxxx0x0
+Fault:513 SA:1
+xxx1xx1x00xx11x1xxx1xx1xxxxxxx011
+Fault:514 SA:0
+0xxxxxxxxxxxxxxx1000xx0x11000x1x1
+Fault:514 SA:1
+0xxxxxxxxxxxxxxx1000xx0x11000x100
+Fault:515 SA:0
+xxxxxxxx0xxxxxxx1010xx0x0010x01x1
+Fault:515 SA:1
+xxxxxxxx0xxxxxxx1010xx0x0010x0100
+Fault:516 SA:0
+1101111011111011100000011000xx010
+Fault:516 SA:1
+Fault:517 SA:0
+1101111011111111101000011110xx010
+Fault:517 SA:1
+11011110111111111010xx01111011011
+Fault:518 SA:0
+1101111011111111101000011110xx010
+Fault:518 SA:1
+0111111011111111101000011011xx010
+Fault:519 SA:0
+1101111011111111101000011000xx010
+Fault:519 SA:1
+1011111011111111101000011011xx010
+Fault:520 SA:0
+1011111011111111101000011000xx010
+Fault:520 SA:1
+1101111011111111101000011011xx010
+Fault:521 SA:0
+11011110111111111010000110000x1x1
+Fault:521 SA:1
+11001111111110111010000110000x1x1
+Fault:522 SA:0
+1101111011111011100000011110xx010
+Fault:522 SA:1
+1101010011111011101000011100xx010
+Fault:523 SA:0
+1101111011111011100000011101xx010
+Fault:523 SA:1
+1101100011111011101000011100xx010
+Fault:524 SA:0
+1101111011111011101000011100xx010
+Fault:524 SA:1
+1101100011111011100000011101xx010
+Fault:525 SA:0
+1100111111111111100000011010xx010
+Fault:525 SA:1
+1101111011111011100000011011xx010
+Fault:526 SA:0
+1101111011111011101000011010xx010
+Fault:526 SA:1
+1101111001110010100000011010xx010
+Fault:527 SA:0
+1101111011111111101000011101x01x1
+Fault:527 SA:1
+1101111010111110101000011101x01x1
+Fault:528 SA:0
+1101111011110110101000011110xx010
+Fault:528 SA:1
+1101111011011110100000011100xx010
+Fault:529 SA:0
+1101111011110110101000011101xx010
+Fault:529 SA:1
+1101111011101110100000011100xx010
+Fault:530 SA:0
+1101111011101110101000011101xx010
+Fault:530 SA:1
+1101111011110110100000011100xx010
+Fault:531 SA:0
+1101111011110110100000011010xx010
+Fault:531 SA:1
+1101111011110010101001011000xx010
+Fault:532 SA:0
+1101111011111111101000011101xx010
+Fault:532 SA:1
+1101111011111100100000011111x01x1
+Fault:533 SA:0
+1101111011111111101000011110x01x1
+Fault:533 SA:1
+1101111011111100101000011101xx010
+Fault:534 SA:0
+0111111011111111101000011011xx010
+Fault:534 SA:1
+1101111011111111101000011110xx010
+Fault:535 SA:0
+1011111011111111101000011011xx010
+Fault:535 SA:1
+1101111011111111101000011000xx010
+Fault:536 SA:0
+1101111011111111101000011011xx010
+Fault:536 SA:1
+1011111011111111101000011000xx010
+Fault:537 SA:0
+11001111111110111010000110000x1x1
+Fault:537 SA:1
+11011110111111111010000110000x1x1
+Fault:538 SA:0
+1101010011111011101000011100xx010
+Fault:538 SA:1
+1101111011111011100000011110xx010
+Fault:539 SA:0
+1101100011111011101000011100xx010
+Fault:539 SA:1
+1101111011111011100000011101xx010
+Fault:540 SA:0
+1101100011111011100000011101xx010
+Fault:540 SA:1
+1101111011111011101000011100xx010
+Fault:541 SA:0
+1101111011111011100000011011xx010
+Fault:541 SA:1
+1100111111111111100000011010xx010
+Fault:542 SA:0
+1101111001110010100000011010xx010
+Fault:542 SA:1
+1101111011111011101000011010xx010
+Fault:543 SA:0
+1101111010111110101000011101x01x1
+Fault:543 SA:1
+1101111011111111101000011101x01x1
+Fault:544 SA:0
+1101111011011110100000011100xx010
+Fault:544 SA:1
+1101111011110110101000011110xx010
+Fault:545 SA:0
+1101111011101110100000011100xx010
+Fault:545 SA:1
+1101111011110110101000011101xx010
+Fault:546 SA:0
+1101111011110110100000011100xx010
+Fault:546 SA:1
+1101111011101110101000011101xx010
+Fault:547 SA:0
+1101111011110010101001011000xx010
+Fault:547 SA:1
+1101111011110110100000011010xx010
+Fault:548 SA:0
+1101111011111100100000011111x01x1
+Fault:548 SA:1
+1101111011111111101000011101xx010
+Fault:549 SA:0
+1101111011111100101000011101xx010
+Fault:549 SA:1
+1101111011111111101000011110x01x1
+Fault:550 SA:0
+1101111011xxxx100xxx0xxxxxxxxxx1x
+Fault:550 SA:1
+1101111011xxxx100xxxxxxxxxxxxxx01
+Fault:551 SA:0
+1111xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:551 SA:1
+1111xxxxx1110110xxxxxxxx0xxxxxx01
+Fault:552 SA:0
+1xxx110xx1111x110xxxxxxxx0xxxxx1x
+Fault:552 SA:1
+1xxx110xx1111x11xxxxxxxxx0xxxxx01
+Fault:553 SA:0
+x1xx1xx10x1xx111x0xxxxxxxx0xxxx1x
+Fault:553 SA:1
+x1xx1xx10x1xx111xxxxxxxxxx0xxxx01
+Fault:554 SA:0
+xx1xx1x0x1x1xx1xxx0xxxxxxxx0xxx1x
+Fault:554 SA:1
+xx1xx1x0x1x1xx1xxxxxxxxxxxx0xxx01
+Fault:555 SA:0
+xxx1xx1x10xx11x1xx01xx1xxxxxxxx10
+Fault:555 SA:1
+xxx1xx1x10xx01x1xx0xxxxxxxxxxxx01
+Fault:556 SA:0
+0111111001110010xxxx00xxxxxxxx0x0
+Fault:556 SA:1
+1111111001110010xxxx00xxxxxxxx0x0
+Fault:559 SA:0
+1011111001110010xxxx00xxxxxxxx0x0
+Fault:559 SA:1
+1111111001110010xxxx00xxxxxxxx0x0
+Fault:562 SA:0
+11010110x1110x111xxxxxx0x0xxxxxx0
+Fault:562 SA:1
+11011110x1110x111xxxxxx0x0xxxxxx0
+Fault:565 SA:0
+11011010x1110x111xxxxxx0x0xxxxxx0
+Fault:565 SA:1
+11011110x1110x111xxxxxx0x0xxxxxx0
+Fault:568 SA:0
+11111100101110111xxx00x0x0xxxxxx0
+Fault:568 SA:1
+11111100111110111xxx00x0x0xxxxxx0
+Fault:571 SA:0
+11111100111110011xxx00x0x0xxxxxx0
+Fault:571 SA:1
+11111100111110111xxx00x0x0xxxxxx0
+Fault:574 SA:0
+1101111011xxxx110xxx1xxxxxxxxxxx0
+Fault:574 SA:1
+1101111011xxxx110xxx0xxxxxxxxx01x
+Fault:577 SA:0
+1101111001xxxx110xxx0xxxxxxxxx01x
+Fault:577 SA:1
+1101111011xxxx110xxx0xxxxxxxxx01x
+Fault:580 SA:0
+1111110x110110101xxxx0x0x0xxxxxx0
+Fault:580 SA:1
+1111110x111110101xxxx0x0x0xxxxxx0
+Fault:583 SA:0
+1111110x111010101xxxx0x0x0xxxxxx0
+Fault:583 SA:1
+1111110x111110101xxxx0x0x0xxxxxx0
+Fault:586 SA:0
+1101xxxxx1110110xxxxx1xx0xxxxxxx0
+Fault:586 SA:1
+1101xxxxx1110110xxxxx0xx0xxxxx01x
+Fault:589 SA:0
+1101xxxxx1110010xxxxx0xx0xxxxx01x
+Fault:589 SA:1
+1101xxxxx1110110xxxxx0xx0xxxxx01x
+Fault:592 SA:0
+1xxx110xx1110x111xxxxxx0x0xxxxxx0
+Fault:592 SA:1
+1xxx110xx1110x110xxxxxxxx0xxxx01x
+Fault:595 SA:0
+x1x11x11101x1110x0x1xx1xxxxxxx0x0
+Fault:595 SA:1
+x1x11x11101x1111x0x1xx1xxxxxxx0x0
+Fault:598 SA:0
+x1x11x11101x1011x0x1xx1xxxxxxx0x0
+Fault:598 SA:1
+x1x11x11101x1111x0x1xx1xxxxxxx0x0
+Fault:601 SA:0
+11011110xxxxxxxxx1xxxxx1xxxxxxxx0
+Fault:601 SA:1
+11011110xxxxxxxxxxxxxxxxxxxx0xxx1
+Fault:602 SA:0
+xxxxxxxx11111010x1xxxxx1xxxxxxxx0
+Fault:602 SA:1
+xxxxxxxx11111010xxxxxxxxxxxxx0xx1
+Fault:603 SA:0
+0xxxxxxxxxxxxxxx1000xx0x1100001x1
+Fault:603 SA:1
+0xxxxxxxxxxxxxxx1000xx111100001x1
+Fault:608 SA:0
+0xxxxxxxxxxxxxxx1011xx0x11000x1x1
+Fault:608 SA:1
+0111111110111101001101100111xx010
+Fault:612 SA:0
+xxxxxxxxxx0xxxxx1100xx011110x01x1
+Fault:612 SA:1
+1101111011100110110101101111xx010
+Fault:616 SA:0
+1100111111xxxx11x1xx0xx1xxxxxxxx0
+Fault:616 SA:1
+1101111111xxxx11x1xx0xx1xxxxxxxx0
+Fault:619 SA:0
+1101111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:619 SA:1
+1101111111xxxx11x1xx0xx1xxxxxxxx0
+Fault:622 SA:0
+xxxxxxxx01111110x1xxxxx1xxxxxxxx0
+Fault:622 SA:1
+xxxxxxxx11111110x1xxxxx1xxxxxxxx0
+Fault:625 SA:0
+xxxxxxxx11111010x1xxxxx1xxxxxxxx0
+Fault:625 SA:1
+xxxxxxxx11111110x1xxxxx1xxxxxxxx0
+Fault:628 SA:0
+0xxx110xx1110x110xxxxxxxx0xxxxx1x
+Fault:628 SA:1
+1xxx110xx1110x110xxxxxxxx0xxxxx1x
+Fault:631 SA:0
+0101110011111111001111101111xx010
+Fault:631 SA:1
+1111110011111111000111101111xx010
+Fault:634 SA:0
+x0xx1xx11x1xx111x0xxxxxxxx1xxx01x
+Fault:634 SA:1
+x1xx1xx11x1xx111x0xxxxxxxx1xxx01x
+Fault:637 SA:0
+x1xx1xx11x0xx111x0xxxxxxxx1xxx01x
+Fault:637 SA:1
+x1xx1xx11x1xx111x0xxxxxxxx1xxx01x
+Fault:640 SA:0
+xx0xx1x1x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:640 SA:1
+xx1xx1x1x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:643 SA:0
+xx1xx1x1x1x1xx1xxx1xxx1xxxxxxx0x0
+Fault:643 SA:1
+xx1xx1x1x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:646 SA:0
+xx1xx1x1x1x0xx1xxx0xxxxxxxx1xx01x
+Fault:646 SA:1
+xx1xx1x1x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:649 SA:0
+xxx0xx1x01xx11x1xxx1xx1xxxxxxx0x0
+Fault:649 SA:1
+xxx1xx1x01xx11x1xxx1xx1xxxxxxx0x0
+Fault:652 SA:0
+xxx1xx1x00xx01x1xx10xx0xxxxxxx01x
+Fault:652 SA:1
+xxx1xx1x00xx11x1xx10xx0xxxxxxx01x
+Fault:655 SA:0
+xxx1xx1x00xx11x1xxx1xx1xxxxxxx0x0
+Fault:655 SA:1
+xxx1xx1x00xx11x1xx10xx0xxxxxxx01x
+Fault:658 SA:0
+1100111101110110101000010111xx010
+Fault:658 SA:1
+1100111101110110101000011111xx010
+Fault:661 SA:0
+1100111101110110111000000111xx000
+Fault:661 SA:1
+1100111101110110111000001111xx000
+Fault:664 SA:0
+1111110011111111000111101011xx010
+Fault:664 SA:1
+1111110011111111000111101111xx010
+Fault:667 SA:0
+1011110011111111010011x01011xx000
+Fault:667 SA:1
+1011110011111111010011x01111xx000
+Fault:670 SA:0
+0110100101111111100011011001xx010
+Fault:670 SA:1
+0110100101111111100011011011xx010
+Fault:673 SA:0
+01111011011101110001101x1101xx000
+Fault:673 SA:1
+01111011011101110001101x1111xx000
+Fault:676 SA:0
+0111010001111111100010011110xx010
+Fault:676 SA:1
+0111010001111111100010011111xx010
+Fault:679 SA:0
+01110100011111110001111x1110xx000
+Fault:679 SA:1
+01110100011111110001111x1111xx000
+Fault:682 SA:0
+11111110xxxxxxxxxxxx0xxxxxxxxxxx1
+Fault:682 SA:1
+11111110xxxxxxxxx1xx1xx1xxxx1xxxx
+Fault:685 SA:0
+xxxxxxxxxxxxxxxxxxxxx0xxxxxxx0xx1
+Fault:685 SA:1
+xxxxxxxx11111011x1xxx1x1xxxxx1xxx
+Fault:688 SA:0
+1100xxxxx1110110xxxxx0xx1xxxxx01x
+Fault:688 SA:1
+1110xxxxx1110110xxxxx0xx1xxxxx01x
+Fault:691 SA:0
+1101111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:691 SA:1
+1111111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:694 SA:0
+1101110011xxxx11x1xx0xx1xxxxxxxx0
+Fault:694 SA:1
+1101111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:697 SA:0
+0xxx110xx1110x110xxxxxxxx0xxxxx1x
+Fault:697 SA:1
+0xxx111xx1110x110xxxxxxxx0xxxxx1x
+Fault:700 SA:0
+1111110011110x101xxx0xx0x0xxxxxx0
+Fault:700 SA:1
+1111110011110x111xxx0xx0x0xxxxxx0
+Fault:703 SA:0
+1111xxxx11111010xxxxx0xxxxxxxx0x0
+Fault:703 SA:1
+1111xxxx11111011xxxxx0xxxxxxxx0x0
+Fault:706 SA:0
+xxxxxxxx11110010x1xxxxx1xxxxxxxx0
+Fault:706 SA:1
+xxxxxxxx11111010x1xxxxx1xxxxxxxx0
+Fault:709 SA:0
+1100110xx11101111xxxx0x0x0xxxxxx0
+Fault:709 SA:1
+1100110xx11111111xxxx0x0x0xxxxxx0
+Fault:712 SA:0
+1100111101110110111000001111xx000
+Fault:712 SA:1
+1101110101110110011000001111xx000
+Fault:715 SA:0
+1110xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:715 SA:1
+1111xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:718 SA:0
+x1xx0xx11x1xx111x0xxxxxxxx1xxx01x
+Fault:718 SA:1
+x1xx1xx11x1xx111x0xxxxxxxx1xxx01x
+Fault:721 SA:0
+x1xx1xx01x1xx111x0xxxxxxxx1xxx01x
+Fault:721 SA:1
+x1xx1xx11x1xx111x0xxxxxxxx1xxx01x
+Fault:724 SA:0
+x1xx1xx11x1xx111x1xxxxx0xxxxxx0x0
+Fault:724 SA:1
+x1xx1xx11x1xx111x0xxxxxxxx1xxx01x
+Fault:727 SA:0
+x1xx1xx11x1xx101x0xxxxxxxx1xxx01x
+Fault:727 SA:1
+x1xx1xx11x1xx111x0xxxxxxxx1xxx01x
+Fault:730 SA:0
+x1xx1xx10x1xx111x0xxxxxxxx1xxx01x
+Fault:730 SA:1
+x1xx1xx11x1xx111x0xxxxxxxx1xxx01x
+Fault:733 SA:0
+xxx1xx1x00xx11x1xxx1xx1xxxxxxx0x0
+Fault:733 SA:1
+xxx1xx1x10xx11x1xxx1xx1xxxxxxx0x0
+Fault:736 SA:0
+xx1xx0x1x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:736 SA:1
+xx1xx1x1x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:739 SA:0
+xx1xx1x0x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:739 SA:1
+xx1xx1x1x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:742 SA:0
+xx1xx1x1x0x1xx1xxx0xxxxxxxx1xx01x
+Fault:742 SA:1
+xx1xx1x1x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:745 SA:0
+xx1xx1x1x1x1xx0xxx0xxxxxxxx1xx01x
+Fault:745 SA:1
+xx1xx1x1x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:748 SA:0
+xxx1xx0x01xx11x1xxx1xx1xxxxxxx0x0
+Fault:748 SA:1
+xxx1xx1x01xx11x1xxx1xx1xxxxxxx0x0
+Fault:751 SA:0
+xxx1xx1x00xx11x1xxx1xx1xxxxxxx0x0
+Fault:751 SA:1
+xxx1xx1x01xx11x1xxx1xx1xxxxxxx0x0
+Fault:754 SA:0
+11111110xxxxxxxxxxxx0xxxxxxxxxxx1
+Fault:754 SA:1
+11111110xxxxxxxxx1xx1xx1xxxx1xxxx
+Fault:755 SA:0
+xxxxxxxxxxxxxxxxxxxxx0xxxxxxx0xx1
+Fault:755 SA:1
+xxxxxxxx11111011x1xxx1x1xxxxx1xxx
+Fault:756 SA:0
+0110xxxxx1110110xxxxx0xx1xxxxx01x
+Fault:756 SA:1
+1110xxxxx1110110xxxxx0xx1xxxxx01x
+Fault:757 SA:0
+0111111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:757 SA:1
+1111111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:758 SA:0
+1010xxxxx1110110xxxxx0xx1xxxxx01x
+Fault:758 SA:1
+1110xxxxx1110110xxxxx0xx1xxxxx01x
+Fault:759 SA:0
+1011111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:759 SA:1
+1111111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:760 SA:0
+1101011011xxxx11x1xx0xx1xxxxxxxx0
+Fault:760 SA:1
+1101111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:761 SA:0
+0xxx011xx1110x110xxxxxxxx0xxxxx1x
+Fault:761 SA:1
+0xxx111xx1110x110xxxxxxxx0xxxxx1x
+Fault:762 SA:0
+1101101011xxxx11x1xx0xx1xxxxxxxx0
+Fault:762 SA:1
+1101111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:763 SA:0
+0xxx101xx1110x110xxxxxxxx0xxxxx1x
+Fault:763 SA:1
+0xxx111xx1110x110xxxxxxxx0xxxxx1x
+Fault:764 SA:0
+1101111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:764 SA:1
+1101111111xxxx11x1xx0xx1xxxxxxxx0
+Fault:765 SA:0
+1100111111xxxx11x1xx0xx1xxxxxxxx0
+Fault:765 SA:1
+1101111111xxxx11x1xx0xx1xxxxxxxx0
+Fault:766 SA:0
+1111110010110x111xxx0xx0x0xxxxxx0
+Fault:766 SA:1
+1111110011110x111xxx0xx0x0xxxxxx0
+Fault:767 SA:0
+1111xxxx10111011xxxxx0xxxxxxxx0x0
+Fault:767 SA:1
+1111xxxx11111011xxxxx0xxxxxxxx0x0
+Fault:768 SA:0
+1111110011110x011xxx0xx0x0xxxxxx0
+Fault:768 SA:1
+1111110011110x111xxx0xx0x0xxxxxx0
+Fault:769 SA:0
+1111xxxx11111001xxxxx0xxxxxxxx0x0
+Fault:769 SA:1
+1111xxxx11111011xxxxx0xxxxxxxx0x0
+Fault:770 SA:0
+1101111011xxxx110xxx1xxxxxxxxxxx0
+Fault:770 SA:1
+1101111011xxxx110xxx0xxxxxxxxxx1x
+Fault:771 SA:0
+1101111011000011100111111111xx000
+Fault:771 SA:1
+1101111011000011100101111111xx000
+Fault:772 SA:0
+1101111001xxxx110xxx0xxxxxxxxxx1x
+Fault:772 SA:1
+1101111011xxxx110xxx0xxxxxxxxxx1x
+Fault:773 SA:0
+1101111001000111100100111111xx000
+Fault:773 SA:1
+1101111011000011100101111111xx000
+Fault:774 SA:0
+xxxxxxxx11011010x1xxxxx1xxxxxxxx0
+Fault:774 SA:1
+xxxxxxxx11111010x1xxxxx1xxxxxxxx0
+Fault:775 SA:0
+1100110xx10111111xxxx0x0x0xxxxxx0
+Fault:775 SA:1
+1100110xx11111111xxxx0x0x0xxxxxx0
+Fault:776 SA:0
+xxxxxxxx11101010x1xxxxx1xxxxxxxx0
+Fault:776 SA:1
+xxxxxxxx11111010x1xxxxx1xxxxxxxx0
+Fault:777 SA:0
+1100110xx11011111xxxx0x0x0xxxxxx0
+Fault:777 SA:1
+1100110xx11111111xxxx0x0x0xxxxxx0
+Fault:778 SA:0
+1101110101110110011001001111xx000
+Fault:778 SA:1
+1101110101110110011000001111xx000
+Fault:779 SA:0
+1111xxxxx1110110xxxxx1xx0xxxxxxx0
+Fault:779 SA:1
+1111xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:780 SA:0
+1101110111110010011010001111xx000
+Fault:780 SA:1
+1101110101110110011000001111xx000
+Fault:781 SA:0
+1111xxxxx1110010xxxxx0xx0xxxxxx1x
+Fault:781 SA:1
+1111xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:782 SA:0
+xxxxxxxx11111010x1xxxxx1xxxxxxxx0
+Fault:782 SA:1
+xxxxxxxx11111110x1xxxxx1xxxxxxxx0
+Fault:783 SA:0
+xxxxxxxx01111110x1xxxxx1xxxxxxxx0
+Fault:783 SA:1
+xxxxxxxx11111110x1xxxxx1xxxxxxxx0
+Fault:784 SA:0
+1xxx110xx1110x111xxxxxx0x0xxxxxx0
+Fault:784 SA:1
+1xxx110xx1110x110xxxxxxxx0xxxxx1x
+Fault:785 SA:0
+1111110011111111100111101111xx010
+Fault:785 SA:1
+1111110011111111000111101111xx010
+Fault:786 SA:0
+0101110011111111001111101111xx010
+Fault:786 SA:1
+1111110011111111000111101111xx010
+Fault:787 SA:0
+x1xx1xx11x1xx110x0xxxxxxxx1xxx01x
+Fault:787 SA:1
+x1xx1xx11x1xx111x0xxxxxxxx1xxx01x
+Fault:788 SA:0
+xxx1xx1x10xx11x0xxx1xx1xxxxxxx0x0
+Fault:788 SA:1
+xxx1xx1x10xx11x1xxx1xx1xxxxxxx0x0
+Fault:789 SA:0
+x1xx1xx11x1xx011x0xxxxxxxx1xxx01x
+Fault:789 SA:1
+x1xx1xx11x1xx111x0xxxxxxxx1xxx01x
+Fault:790 SA:0
+xxx1xx1x10xx10x1xxx1xx1xxxxxxx0x0
+Fault:790 SA:1
+xxx1xx1x10xx11x1xxx1xx1xxxxxxx0x0
+Fault:791 SA:0
+xx1xx1x1x1x1xx1xxx1xxx1xxxxxxx0x0
+Fault:791 SA:1
+xx1xx1x1x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:792 SA:0
+xxx0xx1x01xx11x1xxx1xx1xxxxxxx0x0
+Fault:792 SA:1
+xxx1xx1x01xx11x1xxx1xx1xxxxxxx0x0
+Fault:793 SA:0
+xxx1xx1x00xx11x1xxx1xx1xxxxxxx0x0
+Fault:793 SA:1
+xxx1xx1x00xx11x1xx10xx0xxxxxxx01x
+Fault:794 SA:0
+xxx1xx1x00xx01x1xx10xx0xxxxxxx01x
+Fault:794 SA:1
+xxx1xx1x00xx11x1xx10xx0xxxxxxx01x
+Fault:795 SA:0
+1101111011xxxx111000xx0111000x111
+Fault:795 SA:1
+Fault:796 SA:0
+xxx1xx1x00xx01x11010xx0x10000x111
+Fault:796 SA:1
+Fault:797 SA:0
+1101111010000101010100111111xx000
+Fault:797 SA:1
+1101111010110111010100101101xx010
+Fault:798 SA:0
+01110110101101010011100x1111xx000
+Fault:798 SA:1
+1111011000111101010110101111xx000
+Fault:799 SA:0
+1101111011000110100101111011xx000
+Fault:799 SA:1
+1101111011100110110100101011xx000
+Fault:800 SA:0
+01110110101101010010100x1111xx000
+Fault:800 SA:1
+0111111110111101001111111111xx010
+Fault:801 SA:0
+1100111101110110111000000111xx000
+Fault:801 SA:1
+1100111101110110111000001111xx000
+Fault:802 SA:0
+1100111101110110101000010111xx010
+Fault:802 SA:1
+1100111101110110101000011111xx010
+Fault:803 SA:0
+1011110011111111010011x01011xx000
+Fault:803 SA:1
+1011110011111111010011x01111xx000
+Fault:804 SA:0
+1111110011111111000111101011xx010
+Fault:804 SA:1
+1111110011111111000111101111xx010
+Fault:805 SA:0
+01111011011101110001101x1101xx000
+Fault:805 SA:1
+01111011011101110001101x1111xx000
+Fault:806 SA:0
+0110100101111111100011011001xx010
+Fault:806 SA:1
+0110100101111111100011011011xx010
+Fault:807 SA:0
+01110100011111110001111x1110xx000
+Fault:807 SA:1
+01110100011111110001111x1111xx000
+Fault:808 SA:0
+0111010001111111100010011110xx010
+Fault:808 SA:1
+0111010001111111100010011111xx010
+Fault:809 SA:0
+0xxxxxxxxxxxxxxx1000xx0x11000x1x1
+Fault:809 SA:1
+0xxxxxxxxxxxxxxx1000xx1111000x1x1
+Fault:810 SA:0
+1101111011111011100000011000xx010
+Fault:810 SA:1
+1101111011111011101000111001xx010
+Fault:811 SA:0
+1101111011111111101000011110xx010
+Fault:811 SA:1
+1101111011111111101000111011xx010
+Fault:812 SA:0
+xxxxxxxx0xxxxxxx1010xx0x0010x01x1
+Fault:812 SA:1
+xxxxxxxx0xxxxxxx1010xx110010x01x1
+Fault:813 SA:0
+1100xxxxx1110110xxxxx0xx1xxxxx01x
+Fault:813 SA:1
+1110xxxxx1110110xxxxx0xx1xxxxx01x
+Fault:814 SA:0
+1101111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:814 SA:1
+1111111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:815 SA:0
+1101110011xxxx11x1xx0xx1xxxxxxxx0
+Fault:815 SA:1
+1101111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:816 SA:0
+0xxx110xx1110x110xxxxxxxx0xxxxx1x
+Fault:816 SA:1
+0xxx111xx1110x110xxxxxxxx0xxxxx1x
+Fault:817 SA:0
+1100111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:817 SA:1
+1101111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:818 SA:0
+1100111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:818 SA:1
+1100111111xxxx11x1xx0xx1xxxxxxxx0
+Fault:819 SA:0
+1111110011110x101xxx0xx0x0xxxxxx0
+Fault:819 SA:1
+1111110011110x111xxx0xx0x0xxxxxx0
+Fault:820 SA:0
+1111xxxx11111010xxxxx0xxxxxxxx0x0
+Fault:820 SA:1
+1111xxxx11111011xxxxx0xxxxxxxx0x0
+Fault:821 SA:0
+xxxxxxxx11110010x1xxxxx1xxxxxxxx0
+Fault:821 SA:1
+xxxxxxxx11111010x1xxxxx1xxxxxxxx0
+Fault:822 SA:0
+1100110xx11101111xxxx0x0x0xxxxxx0
+Fault:822 SA:1
+1100110xx11111111xxxx0x0x0xxxxxx0
+Fault:823 SA:0
+1100111101110110111000001111xx000
+Fault:823 SA:1
+1101110101110110011000001111xx000
+Fault:824 SA:0
+1110xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:824 SA:1
+1111xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:825 SA:0
+xxxxxxxx01111010x1xxxxx1xxxxxxxx0
+Fault:825 SA:1
+xxxxxxxx11111010x1xxxxx1xxxxxxxx0
+Fault:826 SA:0
+xxxxxxxx01111010x1xxxxx1xxxxxxxx0
+Fault:826 SA:1
+xxxxxxxx01111110x1xxxxx1xxxxxxxx0
+Fault:827 SA:0
+0xxx110xx1110x110xxxxxxxx0xxxxx1x
+Fault:827 SA:1
+1xxx110xx1110x110xxxxxxxx0xxxxx1x
+Fault:828 SA:0
+0xxx110xx1110x111xxxxxx0x0xxxxxx0
+Fault:828 SA:1
+1xxx110xx1110x111xxxxxx0x0xxxxxx0
+Fault:829 SA:0
+0101110011111111101111101111xx010
+Fault:829 SA:1
+1111110011111111100111101111xx010
+Fault:830 SA:0
+x0xx1xx01x1xx111x0xxxxxxxx1xxx01x
+Fault:830 SA:1
+x1xx1xx01x1xx111x0xxxxxxxx1xxx01x
+Fault:831 SA:0
+x0xx1xx11x1xx111x0xxxxxxxx1xxx01x
+Fault:831 SA:1
+x1xx1xx11x1xx111x0xxxxxxxx1xxx01x
+Fault:832 SA:0
+x1xx1xx01x1xx111x0xxxxxxxx1xxx01x
+Fault:832 SA:1
+x1xx1xx11x1xx111x0xxxxxxxx1xxx01x
+Fault:833 SA:0
+x1xx0xx11x1xx111x0xxxxxxxx1xxx01x
+Fault:833 SA:1
+x1xx1xx11x1xx111x0xxxxxxxx1xxx01x
+Fault:834 SA:0
+x1xx1xx11x0xx101x0xxxxxxxx1xxx01x
+Fault:834 SA:1
+x1xx1xx11x1xx101x0xxxxxxxx1xxx01x
+Fault:835 SA:0
+x1xx1xx11x0xx111x0xxxxxxxx1xxx01x
+Fault:835 SA:1
+x1xx1xx11x1xx111x0xxxxxxxx1xxx01x
+Fault:836 SA:0
+x1xx1xx11x1xx101x0xxxxxxxx1xxx01x
+Fault:836 SA:1
+x1xx1xx11x1xx111x0xxxxxxxx1xxx01x
+Fault:837 SA:0
+x1xx1xx11x1xx111x1xxxxx0xxxxxx0x0
+Fault:837 SA:1
+x1xx1xx11x1xx111x0xxxxxxxx1xxx01x
+Fault:838 SA:0
+x1xx1xx10x1xx111x0xxxxxxxx1xxx01x
+Fault:838 SA:1
+x1xx1xx11x1xx111x0xxxxxxxx1xxx01x
+Fault:839 SA:0
+xxx1xx1x00xx11x1xxx1xx1xxxxxxx0x0
+Fault:839 SA:1
+xxx1xx1x10xx11x1xxx1xx1xxxxxxx0x0
+Fault:840 SA:0
+xx0xx1x0x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:840 SA:1
+xx1xx1x0x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:841 SA:0
+xx0xx1x1x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:841 SA:1
+xx1xx1x1x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:842 SA:0
+xx1xx1x0x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:842 SA:1
+xx1xx1x1x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:843 SA:0
+xx1xx0x1x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:843 SA:1
+xx1xx1x1x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:844 SA:0
+xx1xx1x0x1x1xx1xxx1xxx1xxxxxxx0x0
+Fault:844 SA:1
+xx1xx1x0x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:845 SA:0
+xx1xx1x1x1x0xx0xxx0xxxxxxxx1xx01x
+Fault:845 SA:1
+xx1xx1x1x1x1xx0xxx0xxxxxxxx1xx01x
+Fault:846 SA:0
+xx1xx1x1x1x0xx1xxx0xxxxxxxx1xx01x
+Fault:846 SA:1
+xx1xx1x1x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:847 SA:0
+xx1xx1x1x1x1xx0xxx0xxxxxxxx1xx01x
+Fault:847 SA:1
+xx1xx1x1x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:848 SA:0
+xx1xx1x1x0x1xx1xxx0xxxxxxxx1xx01x
+Fault:848 SA:1
+xx1xx1x1x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:849 SA:0
+xxx0xx1x00xx11x1xxx1xx1xxxxxxx0x0
+Fault:849 SA:1
+xxx1xx1x00xx11x1xxx1xx1xxxxxxx0x0
+Fault:850 SA:0
+xxx1xx1x00xx11x1xxx1xx1xxxxxxx0x0
+Fault:850 SA:1
+xxx1xx1x01xx11x1xxx1xx1xxxxxxx0x0
+Fault:851 SA:0
+xxx1xx0x01xx11x1xxx1xx1xxxxxxx0x0
+Fault:851 SA:1
+xxx1xx1x01xx11x1xxx1xx1xxxxxxx0x0
+Fault:852 SA:0
+xxx1xx1x00xx01x1xxx1xx1xxxxxxx0x0
+Fault:852 SA:1
+xxx1xx1x00xx11x1xxx1xx1xxxxxxx0x0
+Fault:853 SA:0
+xxx1xx1x00xx01x1xxx1xx1xxxxxxx0x0
+Fault:853 SA:1
+xxx1xx1x00xx01x1xx10xx0xxxxxxx01x
+Fault:854 SA:0
+11011110011101101000000101100x1x1
+Fault:854 SA:1
+11011110011101101000000111100x1x1
+Fault:855 SA:0
+1101110101110110011000000111xx000
+Fault:855 SA:1
+1101110101110110011000001111xx000
+Fault:856 SA:0
+0101110011111111001111101011xx010
+Fault:856 SA:1
+0101110011111111001111101111xx010
+Fault:857 SA:0
+0011110011111111010000x01011xx000
+Fault:857 SA:1
+0011110011111111010000x01111xx000
+Fault:858 SA:0
+0110100111111111100001011101xx010
+Fault:858 SA:1
+0110100111111111100001011111xx010
+Fault:859 SA:0
+01111011101001110001101x1101xx000
+Fault:859 SA:1
+01111011101001110001101x1111xx000
+Fault:860 SA:0
+0110111101111111100011011110xx010
+Fault:860 SA:1
+0110111101111111100011011111xx010
+Fault:861 SA:0
+11111101011111110001001x1110xx000
+Fault:861 SA:1
+11111101011111110001001x1111xx000
+Fault:862 SA:0
+11011110xxxxxxxxxxxx0xxxxxxx1xxx1
+Fault:862 SA:1
+1101111011xxxx11x0xx1xxxxxxx1xxx1
+Fault:863 SA:0
+xxxxxxxx11111010xxxxx0xxxxxxx1xx1
+Fault:863 SA:1
+110111101111001110x001x1xxxxx1xx1
+Fault:864 SA:0
+1000xxxxx1110110xxxxx0xx1xxxxx01x
+Fault:864 SA:1
+1010xxxxx1110110xxxxx0xx1xxxxx01x
+Fault:865 SA:0
+1001111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:865 SA:1
+1011111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:866 SA:0
+1101100011xxxx11x1xx0xx1xxxxxxxx0
+Fault:866 SA:1
+1101101011xxxx11x1xx0xx1xxxxxxxx0
+Fault:867 SA:0
+0xxx100xx1110x110xxxxxxxx0xxxxx1x
+Fault:867 SA:1
+0xxx101xx1110x110xxxxxxxx0xxxxx1x
+Fault:868 SA:0
+1111110011110x001xxx0xx0x0xxxxxx0
+Fault:868 SA:1
+1111110011110x011xxx0xx0x0xxxxxx0
+Fault:869 SA:0
+1111xxxx11111000xxxxx0xxxxxxxx0x0
+Fault:869 SA:1
+1111xxxx11111001xxxxx0xxxxxxxx0x0
+Fault:870 SA:0
+xxxxxxxx11100010x1xxxxx1xxxxxxxx0
+Fault:870 SA:1
+xxxxxxxx11101010x1xxxxx1xxxxxxxx0
+Fault:871 SA:0
+1100110xx11001111xxxx0x0x0xxxxxx0
+Fault:871 SA:1
+1100110xx11011111xxxx0x0x0xxxxxx0
+Fault:872 SA:0
+1100111111110010111010001111xx000
+Fault:872 SA:1
+1101110111110010011010001111xx000
+Fault:873 SA:0
+1110xxxxx1110010xxxxx0xx0xxxxxx1x
+Fault:873 SA:1
+1111xxxxx1110010xxxxx0xx0xxxxxx1x
+Fault:874 SA:0
+x1xx0xx01x1xx111x0xxxxxxxx1xxx01x
+Fault:874 SA:1
+x1xx1xx01x1xx111x0xxxxxxxx1xxx01x
+Fault:875 SA:0
+x1xx0xx01x1xx111x0xxxxxxxx1xxx01x
+Fault:875 SA:1
+x1xx0xx11x1xx111x0xxxxxxxx1xxx01x
+Fault:876 SA:0
+x1xx1xx11x1xx101x1xxxxx0xxxxxx0x0
+Fault:876 SA:1
+x1xx1xx11x1xx101x0xxxxxxxx1xxx01x
+Fault:877 SA:0
+x1xx1xx11x1xx101x1xxxxx0xxxxxx0x0
+Fault:877 SA:1
+x1xx1xx11x1xx111x1xxxxx0xxxxxx0x0
+Fault:878 SA:0
+x1xx1xx10x1xx011x0xxxxxxxx1xxx01x
+Fault:878 SA:1
+x1xx1xx11x1xx011x0xxxxxxxx1xxx01x
+Fault:879 SA:0
+xxx1xx1x00xx10x1xxx1xx1xxxxxxx0x0
+Fault:879 SA:1
+xxx1xx1x10xx10x1xxx1xx1xxxxxxx0x0
+Fault:880 SA:0
+xx1xx0x0x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:880 SA:1
+xx1xx1x0x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:881 SA:0
+xx1xx0x0x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:881 SA:1
+xx1xx0x1x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:882 SA:0
+xx1xx1x1x0x1xx0xxx0xxxxxxxx1xx01x
+Fault:882 SA:1
+xx1xx1x1x1x1xx0xxx0xxxxxxxx1xx01x
+Fault:883 SA:0
+xx1xx1x1x0x1xx0xxx0xxxxxxxx1xx01x
+Fault:883 SA:1
+xx1xx1x1x0x1xx1xxx0xxxxxxxx1xx01x
+Fault:884 SA:0
+xxx1xx0x00xx11x1xxx1xx1xxxxxxx0x0
+Fault:884 SA:1
+xxx1xx1x00xx11x1xxx1xx1xxxxxxx0x0
+Fault:885 SA:0
+xxx1xx0x00xx11x1xxx1xx1xxxxxxx0x0
+Fault:885 SA:1
+xxx1xx0x01xx11x1xxx1xx1xxxxxxx0x0
+Fault:886 SA:0
+1101111011xxxx11x0xx1xxxxxxx1xxx1
+Fault:886 SA:1
+11011110xxxxxxxxxxxx0xxxxxxx1xxx1
+Fault:887 SA:0
+110111101111001110x001x1xxxxx1xx1
+Fault:887 SA:1
+xxxxxxxx11111010xxxxx0xxxxxxx1xx1
+Fault:888 SA:0
+1101111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:888 SA:1
+1100111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:889 SA:0
+1100111111xxxx11x1xx0xx1xxxxxxxx0
+Fault:889 SA:1
+1100111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:890 SA:0
+xxxxxxxx11111010x1xxxxx1xxxxxxxx0
+Fault:890 SA:1
+xxxxxxxx01111010x1xxxxx1xxxxxxxx0
+Fault:891 SA:0
+xxxxxxxx01111110x1xxxxx1xxxxxxxx0
+Fault:891 SA:1
+xxxxxxxx01111010x1xxxxx1xxxxxxxx0
+Fault:892 SA:0
+1111110011111111100111101111xx010
+Fault:892 SA:1
+0101110011111111101111101111xx010
+Fault:893 SA:0
+xx1xx1x0x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:893 SA:1
+xx1xx1x0x1x1xx1xxx1xxx1xxxxxxx0x0
+Fault:894 SA:0
+xxx1xx1x00xx11x1xxx1xx1xxxxxxx0x0
+Fault:894 SA:1
+xxx0xx1x00xx11x1xxx1xx1xxxxxxx0x0
+Fault:895 SA:0
+xxx1xx1x00xx11x1xxx1xx1xxxxxxx0x0
+Fault:895 SA:1
+xxx1xx1x00xx01x1xxx1xx1xxxxxxx0x0
+Fault:896 SA:0
+xxx1xx1x00xx01x1xx10xx0xxxxxxx01x
+Fault:896 SA:1
+xxx1xx1x00xx01x1xxx1xx1xxxxxxx0x0
+Fault:897 SA:0
+1101111011xxxx111000xx0111000x111
+Fault:897 SA:1
+1101111011xxxx110000xx0x1110x0111
+Fault:898 SA:0
+xxx1xx1x00xx01x11010xx0x10000x111
+Fault:898 SA:1
+xxx1xx1x00xx01x11000xx0x11000x111
+Fault:899 SA:0
+1101111010101111101100101111xx010
+Fault:899 SA:1
+1101111010000101010100111111xx000
+Fault:903 SA:0
+01110110101101010010100x1111xx000
+Fault:903 SA:1
+01110110101101010011100x1111xx000
+Fault:907 SA:0
+1101111011000110000101111011xx010
+Fault:907 SA:1
+1101111011000110100101111011xx000
+Fault:910 SA:0
+1111011010111101000100111111xx010
+Fault:910 SA:1
+01110110101101010010100x1111xx000
+Fault:913 SA:0
+1101110101110110011000001111xx000
+Fault:913 SA:1
+1101110101110110011000000111xx000
+Fault:914 SA:0
+11011110011101101000000111100x1x1
+Fault:914 SA:1
+11011110011101101000000101100x1x1
+Fault:915 SA:0
+0011110011111111010000x01111xx000
+Fault:915 SA:1
+0011110011111111010000x01011xx000
+Fault:916 SA:0
+0101110011111111001111101111xx010
+Fault:916 SA:1
+0101110011111111001111101011xx010
+Fault:917 SA:0
+01111011101001110001101x1111xx000
+Fault:917 SA:1
+01111011101001110001101x1101xx000
+Fault:918 SA:0
+0110100111111111100001011111xx010
+Fault:918 SA:1
+0110100111111111100001011101xx010
+Fault:919 SA:0
+11111101011111110001001x1111xx000
+Fault:919 SA:1
+11111101011111110001001x1110xx000
+Fault:920 SA:0
+0110111101111111100011011111xx010
+Fault:920 SA:1
+0110111101111111100011011110xx010
+Fault:921 SA:0
+11011110111111111010000111101x00x
+Fault:921 SA:1
+0xxxxxxxxxxxxxxx1000xx0x11000x1x1
+Fault:922 SA:0
+1101111011111011101000011010x100x
+Fault:922 SA:1
+xxxxxxxx0xxxxxxx1010xx0x0010x01x1
+Fault:923 SA:0
+11011110111111111010000111101100x
+Fault:923 SA:1
+1101111011111111101000011110xx010
+Fault:926 SA:0
+1101111011111011100000011000xx010
+Fault:926 SA:1
+Fault:935 SA:0
+0110xxxxx1110110xxxxx0xx1xxxxx01x
+Fault:935 SA:1
+1110xxxxx1110110xxxxx0xx1xxxxx01x
+Fault:938 SA:0
+1010xxxxx1110110xxxxx0xx1xxxxx01x
+Fault:938 SA:1
+1000xxxxx1110110xxxxx0xx1xxxxx01x
+Fault:939 SA:0
+0111111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:939 SA:1
+1111111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:942 SA:0
+1011111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:942 SA:1
+1001111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:943 SA:0
+1101011011xxxx11x1xx0xx1xxxxxxxx0
+Fault:943 SA:1
+1101111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:946 SA:0
+1101101011xxxx11x1xx0xx1xxxxxxxx0
+Fault:946 SA:1
+1101100011xxxx11x1xx0xx1xxxxxxxx0
+Fault:947 SA:0
+0xxx011xx1110x110xxxxxxxx0xxxxx1x
+Fault:947 SA:1
+0xxx111xx1110x110xxxxxxxx0xxxxx1x
+Fault:950 SA:0
+0xxx101xx1110x110xxxxxxxx0xxxxx1x
+Fault:950 SA:1
+0xxx100xx1110x110xxxxxxxx0xxxxx1x
+Fault:951 SA:0
+1111110010110x111xxx0xx0x0xxxxxx0
+Fault:951 SA:1
+1111110011110x111xxx0xx0x0xxxxxx0
+Fault:954 SA:0
+1111110011110x011xxx0xx0x0xxxxxx0
+Fault:954 SA:1
+1111110011110x001xxx0xx0x0xxxxxx0
+Fault:955 SA:0
+1111xxxx10111011xxxxx0xxxxxxxx0x0
+Fault:955 SA:1
+1111xxxx11111011xxxxx0xxxxxxxx0x0
+Fault:958 SA:0
+1111xxxx11111001xxxxx0xxxxxxxx0x0
+Fault:958 SA:1
+1111xxxx11111000xxxxx0xxxxxxxx0x0
+Fault:959 SA:0
+1101111011xxxx110xxx1xxxxxxxxxxx0
+Fault:959 SA:1
+1101111011xxxx110xxx0xxxxxxxxxx1x
+Fault:962 SA:0
+1101111011000011100111111111xx000
+Fault:962 SA:1
+1101111011000011100101111111xx000
+Fault:965 SA:0
+xxxxxxxx11011010x1xxxxx1xxxxxxxx0
+Fault:965 SA:1
+xxxxxxxx11111010x1xxxxx1xxxxxxxx0
+Fault:968 SA:0
+xxxxxxxx11101010x1xxxxx1xxxxxxxx0
+Fault:968 SA:1
+xxxxxxxx11100010x1xxxxx1xxxxxxxx0
+Fault:969 SA:0
+1100110xx10111111xxxx0x0x0xxxxxx0
+Fault:969 SA:1
+1100110xx11111111xxxx0x0x0xxxxxx0
+Fault:972 SA:0
+1100110xx11011111xxxx0x0x0xxxxxx0
+Fault:972 SA:1
+1100110xx11001111xxxx0x0x0xxxxxx0
+Fault:973 SA:0
+1101110101110110011001001111xx000
+Fault:973 SA:1
+1101110101110110011000001111xx000
+Fault:976 SA:0
+1101110111110010011010001111xx000
+Fault:976 SA:1
+1100111111110010111010001111xx000
+Fault:977 SA:0
+1111xxxxx1110110xxxxx1xx0xxxxxxx0
+Fault:977 SA:1
+1111xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:980 SA:0
+1111xxxxx1110010xxxxx0xx0xxxxxx1x
+Fault:980 SA:1
+1110xxxxx1110010xxxxx0xx0xxxxxx1x
+Fault:981 SA:0
+1xxx110xx1110x111xxxxxx0x0xxxxxx0
+Fault:981 SA:1
+1xxx110xx1110x110xxxxxxxx0xxxxx1x
+Fault:984 SA:0
+1xxx110xx1110x111xxxxxx0x0xxxxxx0
+Fault:984 SA:1
+0xxx110xx1110x111xxxxxx0x0xxxxxx0
+Fault:985 SA:0
+1111110011111111100111101111xx010
+Fault:985 SA:1
+1111110011111111000111101111xx010
+Fault:988 SA:0
+x1xx1xx01x1xx111x0xxxxxxxx1xxx01x
+Fault:988 SA:1
+x1xx0xx01x1xx111x0xxxxxxxx1xxx01x
+Fault:989 SA:0
+x1xx0xx11x1xx111x0xxxxxxxx1xxx01x
+Fault:989 SA:1
+x1xx0xx01x1xx111x0xxxxxxxx1xxx01x
+Fault:990 SA:0
+x1xx1xx01x1xx111x0xxxxxxxx1xxx01x
+Fault:990 SA:1
+x0xx1xx01x1xx111x0xxxxxxxx1xxx01x
+Fault:991 SA:0
+x1xx1xx11x1xx101x0xxxxxxxx1xxx01x
+Fault:991 SA:1
+x1xx1xx11x1xx101x1xxxxx0xxxxxx0x0
+Fault:992 SA:0
+x1xx1xx11x1xx111x1xxxxx0xxxxxx0x0
+Fault:992 SA:1
+x1xx1xx11x1xx101x1xxxxx0xxxxxx0x0
+Fault:993 SA:0
+x1xx1xx11x1xx101x0xxxxxxxx1xxx01x
+Fault:993 SA:1
+x1xx1xx11x0xx101x0xxxxxxxx1xxx01x
+Fault:994 SA:0
+x1xx1xx11x1xx110x0xxxxxxxx1xxx01x
+Fault:994 SA:1
+x1xx1xx11x1xx111x0xxxxxxxx1xxx01x
+Fault:997 SA:0
+x1xx1xx11x1xx011x0xxxxxxxx1xxx01x
+Fault:997 SA:1
+x1xx1xx10x1xx011x0xxxxxxxx1xxx01x
+Fault:998 SA:0
+xxx1xx1x10xx11x0xxx1xx1xxxxxxx0x0
+Fault:998 SA:1
+xxx1xx1x10xx11x1xxx1xx1xxxxxxx0x0
+Fault:1001 SA:0
+xxx1xx1x10xx10x1xxx1xx1xxxxxxx0x0
+Fault:1001 SA:1
+xxx1xx1x00xx10x1xxx1xx1xxxxxxx0x0
+Fault:1002 SA:0
+xx1xx1x0x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:1002 SA:1
+xx1xx0x0x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:1003 SA:0
+xx1xx0x1x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:1003 SA:1
+xx1xx0x0x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:1004 SA:0
+xx1xx1x0x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:1004 SA:1
+xx0xx1x0x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:1005 SA:0
+xx1xx1x1x1x1xx0xxx0xxxxxxxx1xx01x
+Fault:1005 SA:1
+xx1xx1x1x0x1xx0xxx0xxxxxxxx1xx01x
+Fault:1006 SA:0
+xx1xx1x1x0x1xx1xxx0xxxxxxxx1xx01x
+Fault:1006 SA:1
+xx1xx1x1x0x1xx0xxx0xxxxxxxx1xx01x
+Fault:1007 SA:0
+xx1xx1x1x1x1xx0xxx0xxxxxxxx1xx01x
+Fault:1007 SA:1
+xx1xx1x1x1x0xx0xxx0xxxxxxxx1xx01x
+Fault:1008 SA:0
+xxx1xx1x00xx11x1xxx1xx1xxxxxxx0x0
+Fault:1008 SA:1
+xxx1xx0x00xx11x1xxx1xx1xxxxxxx0x0
+Fault:1009 SA:0
+xxx1xx0x01xx11x1xxx1xx1xxxxxxx0x0
+Fault:1009 SA:1
+xxx1xx0x00xx11x1xxx1xx1xxxxxxx0x0
+Fault:1010 SA:0
+1010xxxxx1110110xxxxx0xx1xxxxx01x
+Fault:1010 SA:1
+1110xxxxx1110110xxxxx0xx1xxxxx01x
+Fault:1013 SA:0
+1011111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:1013 SA:1
+1111111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:1016 SA:0
+1101101011xxxx11x1xx0xx1xxxxxxxx0
+Fault:1016 SA:1
+1101111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:1019 SA:0
+0xxx101xx1110x110xxxxxxxx0xxxxx1x
+Fault:1019 SA:1
+0xxx111xx1110x110xxxxxxxx0xxxxx1x
+Fault:1022 SA:0
+1111110011110x011xxx0xx0x0xxxxxx0
+Fault:1022 SA:1
+1111110011110x111xxx0xx0x0xxxxxx0
+Fault:1025 SA:0
+1111xxxx11111001xxxxx0xxxxxxxx0x0
+Fault:1025 SA:1
+1111xxxx11111011xxxxx0xxxxxxxx0x0
+Fault:1028 SA:0
+1101111001xxxx110xxx0xxxxxxxxxx1x
+Fault:1028 SA:1
+1101111011xxxx110xxx0xxxxxxxxxx1x
+Fault:1031 SA:0
+1101111001000111100100111111xx000
+Fault:1031 SA:1
+1101111011000011100101111111xx000
+Fault:1034 SA:0
+xxxxxxxx11101010x1xxxxx1xxxxxxxx0
+Fault:1034 SA:1
+xxxxxxxx11111010x1xxxxx1xxxxxxxx0
+Fault:1037 SA:0
+1100110xx11011111xxxx0x0x0xxxxxx0
+Fault:1037 SA:1
+1100110xx11111111xxxx0x0x0xxxxxx0
+Fault:1040 SA:0
+1101110111110010011010001111xx000
+Fault:1040 SA:1
+1101110101110110011000001111xx000
+Fault:1043 SA:0
+1111xxxxx1110010xxxxx0xx0xxxxxx1x
+Fault:1043 SA:1
+1111xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:1046 SA:0
+x1xx1xx11x1xx011x0xxxxxxxx1xxx01x
+Fault:1046 SA:1
+x1xx1xx11x1xx111x0xxxxxxxx1xxx01x
+Fault:1049 SA:0
+xxx1xx1x10xx10x1xxx1xx1xxxxxxx0x0
+Fault:1049 SA:1
+xxx1xx1x10xx11x1xxx1xx1xxxxxxx0x0
+Fault:1052 SA:0
+0111111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:1052 SA:1
+1111111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:1053 SA:0
+0110xxxxx1110110xxxxx0xx1xxxxx01x
+Fault:1053 SA:1
+1110xxxxx1110110xxxxx0xx1xxxxx01x
+Fault:1054 SA:0
+1101111111xxxx11x1xx0xx1xxxxxxxx0
+Fault:1054 SA:1
+1101111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:1055 SA:0
+1101111111xxxx11x1xx0xx1xxxxxxxx0
+Fault:1055 SA:1
+1100111111xxxx11x1xx0xx1xxxxxxxx0
+Fault:1056 SA:0
+1101011011xxxx11x1xx0xx1xxxxxxxx0
+Fault:1056 SA:1
+1101111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:1057 SA:0
+0xxx011xx1110x110xxxxxxxx0xxxxx1x
+Fault:1057 SA:1
+0xxx111xx1110x110xxxxxxxx0xxxxx1x
+Fault:1058 SA:0
+1111xxxx10111011xxxxx0xxxxxxxx0x0
+Fault:1058 SA:1
+1111xxxx11111011xxxxx0xxxxxxxx0x0
+Fault:1059 SA:0
+1111110010110x111xxx0xx0x0xxxxxx0
+Fault:1059 SA:1
+1111110011110x111xxx0xx0x0xxxxxx0
+Fault:1060 SA:0
+1101111011000011100111111111xx000
+Fault:1060 SA:1
+1101111011000011100101111111xx000
+Fault:1061 SA:0
+1100110xx10111111xxxx0x0x0xxxxxx0
+Fault:1061 SA:1
+1100110xx11111111xxxx0x0x0xxxxxx0
+Fault:1062 SA:0
+1111xxxxx1110110xxxxx1xx0xxxxxxx0
+Fault:1062 SA:1
+1111xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:1063 SA:0
+xxxxxxxx11111110x1xxxxx1xxxxxxxx0
+Fault:1063 SA:1
+xxxxxxxx11111010x1xxxxx1xxxxxxxx0
+Fault:1064 SA:0
+xxxxxxxx11111110x1xxxxx1xxxxxxxx0
+Fault:1064 SA:1
+xxxxxxxx01111110x1xxxxx1xxxxxxxx0
+Fault:1065 SA:0
+1111110011111111100111101111xx010
+Fault:1065 SA:1
+1111110011111111000111101111xx010
+Fault:1066 SA:0
+xxx1xx1x10xx11x0xxx1xx1xxxxxxx0x0
+Fault:1066 SA:1
+xxx1xx1x10xx11x1xxx1xx1xxxxxxx0x0
+Fault:1067 SA:0
+xxx1xx1x00xx11x1xx10xx0xxxxxxx01x
+Fault:1067 SA:1
+xxx1xx1x00xx11x1xxx1xx1xxxxxxx0x0
+Fault:1068 SA:0
+xxx1xx1x00xx11x1xx10xx0xxxxxxx01x
+Fault:1068 SA:1
+xxx1xx1x00xx01x1xx10xx0xxxxxxx01x
+Fault:1069 SA:0
+Fault:1069 SA:1
+1101111011110010110000011010xx010
+Fault:1070 SA:0
+1101111011110110101000011110xx010
+Fault:1070 SA:1
+1101111011110110111000011110xx010
+Fault:1071 SA:0
+01110110101101010001101x1111xx000
+Fault:1071 SA:1
+0111011010110101110100111111xx000
+Fault:1072 SA:0
+Fault:1072 SA:1
+1100111111110110100100011011xx010
+Fault:1073 SA:0
+1100111101110110101000011111xx010
+Fault:1073 SA:1
+1100111101110110101100011111xx010
+Fault:1074 SA:0
+01110110101101010010100x1111xx000
+Fault:1074 SA:1
+01110110101101010011100x1111xx000
+Fault:1075 SA:0
+11011110111101100010000x1110xx010
+Fault:1075 SA:1
+1101111011110110101000011110xx010
+Fault:1076 SA:0
+1101111011100110010100101111xx000
+Fault:1076 SA:1
+1101111011000110100101111011xx000
+Fault:1077 SA:0
+1111101010111101000111101110xx010
+Fault:1077 SA:1
+11111010101001010010110x1111xx010
+Fault:1078 SA:0
+11110110101111010001001x1111xx000
+Fault:1078 SA:1
+01110110101101010010100x1111xx000
+Fault:1079 SA:0
+1101111011111011100000011000xx010
+Fault:1079 SA:1
+Fault:1080 SA:0
+1101111011110110101000011000xx010
+Fault:1080 SA:1
+Fault:1081 SA:0
+1101111011110010100000011110xx010
+Fault:1081 SA:1
+Fault:1082 SA:0
+1101111011110010100000011000xx010
+Fault:1082 SA:1
+Fault:1083 SA:0
+1101111011110010100000011011xx010
+Fault:1083 SA:1
+Fault:1084 SA:0
+1101111011110010101000011010xx010
+Fault:1084 SA:1
+Fault:1085 SA:0
+1101111011110010100100011010xx010
+Fault:1085 SA:1
+Fault:1086 SA:0
+1101111011110010110000011010xx010
+Fault:1086 SA:1
+Fault:1087 SA:0
+11011110111111111010000111101x00x
+Fault:1087 SA:1
+1101111011111111101000011110xx010
+Fault:1088 SA:0
+1101111011111011101000011010x100x
+Fault:1088 SA:1
+1101111011111011101000011010xx010
+Fault:1089 SA:0
+0100xxxxx1110110xxxxx0xx1xxxxx01x
+Fault:1089 SA:1
+1100xxxxx1110110xxxxx0xx1xxxxx01x
+Fault:1090 SA:0
+1010xxxxx1110110xxxxx0xx1xxxxx01x
+Fault:1090 SA:1
+1110xxxxx1110110xxxxx0xx1xxxxx01x
+Fault:1091 SA:0
+0101111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:1091 SA:1
+1101111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:1092 SA:0
+1011111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:1092 SA:1
+1111111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:1093 SA:0
+1101010011xxxx11x1xx0xx1xxxxxxxx0
+Fault:1093 SA:1
+1101110011xxxx11x1xx0xx1xxxxxxxx0
+Fault:1094 SA:0
+1101101011xxxx11x1xx0xx1xxxxxxxx0
+Fault:1094 SA:1
+1101111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:1095 SA:0
+0xxx010xx1110x110xxxxxxxx0xxxxx1x
+Fault:1095 SA:1
+0xxx110xx1110x110xxxxxxxx0xxxxx1x
+Fault:1096 SA:0
+0xxx101xx1110x110xxxxxxxx0xxxxx1x
+Fault:1096 SA:1
+0xxx111xx1110x110xxxxxxxx0xxxxx1x
+Fault:1097 SA:0
+1111110010110x101xxx0xx0x0xxxxxx0
+Fault:1097 SA:1
+1111110011110x101xxx0xx0x0xxxxxx0
+Fault:1098 SA:0
+1111110011110x011xxx0xx0x0xxxxxx0
+Fault:1098 SA:1
+1111110011110x111xxx0xx0x0xxxxxx0
+Fault:1099 SA:0
+1111xxxx10111010xxxxx0xxxxxxxx0x0
+Fault:1099 SA:1
+1111xxxx11111010xxxxx0xxxxxxxx0x0
+Fault:1100 SA:0
+1111xxxx11111001xxxxx0xxxxxxxx0x0
+Fault:1100 SA:1
+1111xxxx11111011xxxxx0xxxxxxxx0x0
+Fault:1101 SA:0
+1101111011xxxx100xxx1xxxxxxxxxxx0
+Fault:1101 SA:1
+1101111011xxxx100xxx0xxxxxxxxxx1x
+Fault:1102 SA:0
+1101111011xxxx110xxx1xxxxxxxxxxx0
+Fault:1102 SA:1
+1101111011xxxx110xxx0xxxxxxxxxx1x
+Fault:1103 SA:0
+1101111001xxxx110xxx0xxxxxxxxxx1x
+Fault:1103 SA:1
+1101111011xxxx110xxx0xxxxxxxxxx1x
+Fault:1104 SA:0
+1101111011000110100111111011xx000
+Fault:1104 SA:1
+1101111011000110100101111011xx000
+Fault:1105 SA:0
+1101111001000111100100111111xx000
+Fault:1105 SA:1
+1101111011000011100101111111xx000
+Fault:1106 SA:0
+xxxxxxxx11010010x1xxxxx1xxxxxxxx0
+Fault:1106 SA:1
+xxxxxxxx11110010x1xxxxx1xxxxxxxx0
+Fault:1107 SA:0
+xxxxxxxx11011010x1xxxxx1xxxxxxxx0
+Fault:1107 SA:1
+xxxxxxxx11111010x1xxxxx1xxxxxxxx0
+Fault:1108 SA:0
+xxxxxxxx11101010x1xxxxx1xxxxxxxx0
+Fault:1108 SA:1
+xxxxxxxx11111010x1xxxxx1xxxxxxxx0
+Fault:1109 SA:0
+1100110xx10101111xxxx0x0x0xxxxxx0
+Fault:1109 SA:1
+1100110xx11101111xxxx0x0x0xxxxxx0
+Fault:1110 SA:0
+1100110xx11011111xxxx0x0x0xxxxxx0
+Fault:1110 SA:1
+1100110xx11111111xxxx0x0x0xxxxxx0
+Fault:1111 SA:0
+1100111101110110111001001111xx000
+Fault:1111 SA:1
+1100111101110110111000001111xx000
+Fault:1112 SA:0
+1101110101110110011001001111xx000
+Fault:1112 SA:1
+1101110101110110011000001111xx000
+Fault:1113 SA:0
+1101110111110010011010001111xx000
+Fault:1113 SA:1
+1101110101110110011000001111xx000
+Fault:1114 SA:0
+1110xxxxx1110110xxxxx1xx0xxxxxxx0
+Fault:1114 SA:1
+1110xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:1115 SA:0
+1111xxxxx1110010xxxxx0xx0xxxxxx1x
+Fault:1115 SA:1
+1111xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:1116 SA:0
+0xxx110xx1110x111xxxxxx0x0xxxxxx0
+Fault:1116 SA:1
+0xxx110xx1110x110xxxxxxxx0xxxxx1x
+Fault:1117 SA:0
+1xxx110xx1110x111xxxxxx0x0xxxxxx0
+Fault:1117 SA:1
+1xxx110xx1110x110xxxxxxxx0xxxxx1x
+Fault:1118 SA:0
+0101110011111111101111101111xx010
+Fault:1118 SA:1
+0101110011111111001111101111xx010
+Fault:1119 SA:0
+x1xx1xx11x1xx111x0xxxxxxxx1xxx01x
+Fault:1119 SA:1
+x1xx1xx01x1xx111x0xxxxxxxx1xxx01x
+Fault:1120 SA:0
+x1xx1xx11x1xx111x0xxxxxxxx1xxx01x
+Fault:1120 SA:1
+x1xx0xx11x1xx111x0xxxxxxxx1xxx01x
+Fault:1121 SA:0
+x1xx1xx11x1xx111x0xxxxxxxx1xxx01x
+Fault:1121 SA:1
+x1xx1xx11x1xx101x0xxxxxxxx1xxx01x
+Fault:1122 SA:0
+x1xx1xx11x1xx111x0xxxxxxxx1xxx01x
+Fault:1122 SA:1
+x1xx1xx11x1xx111x1xxxxx0xxxxxx0x0
+Fault:1123 SA:0
+x1xx1xx10x1xx110x0xxxxxxxx1xxx01x
+Fault:1123 SA:1
+x1xx1xx10x1xx111x0xxxxxxxx1xxx01x
+Fault:1124 SA:0
+x1xx1xx11x1xx110x0xxxxxxxx1xxx01x
+Fault:1124 SA:1
+x1xx1xx11x1xx111x0xxxxxxxx1xxx01x
+Fault:1125 SA:0
+x1xx1xx11x1xx011x0xxxxxxxx1xxx01x
+Fault:1125 SA:1
+x1xx1xx11x1xx111x0xxxxxxxx1xxx01x
+Fault:1126 SA:0
+xxx1xx1x00xx11x0xxx1xx1xxxxxxx0x0
+Fault:1126 SA:1
+xxx1xx1x00xx11x1xxx1xx1xxxxxxx0x0
+Fault:1127 SA:0
+xxx1xx1x10xx10x1xxx1xx1xxxxxxx0x0
+Fault:1127 SA:1
+xxx1xx1x10xx11x1xxx1xx1xxxxxxx0x0
+Fault:1128 SA:0
+xx1xx1x1x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:1128 SA:1
+xx1xx1x0x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:1129 SA:0
+xx1xx1x1x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:1129 SA:1
+xx1xx0x1x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:1130 SA:0
+xx1xx1x1x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:1130 SA:1
+xx1xx1x1x1x1xx0xxx0xxxxxxxx1xx01x
+Fault:1131 SA:0
+xx1xx1x1x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:1131 SA:1
+xx1xx1x1x0x1xx1xxx0xxxxxxxx1xx01x
+Fault:1132 SA:0
+xxx1xx1x01xx11x1xxx1xx1xxxxxxx0x0
+Fault:1132 SA:1
+xxx1xx1x00xx11x1xxx1xx1xxxxxxx0x0
+Fault:1133 SA:0
+xxx1xx1x01xx11x1xxx1xx1xxxxxxx0x0
+Fault:1133 SA:1
+xxx1xx0x01xx11x1xxx1xx1xxxxxxx0x0
+Fault:1134 SA:0
+1000xxxxx1110110xxxxx0xx1xxxxx01x
+Fault:1134 SA:1
+1100xxxxx1110110xxxxx0xx1xxxxx01x
+Fault:1135 SA:0
+1001111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:1135 SA:1
+1101111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:1136 SA:0
+1101100011xxxx11x1xx0xx1xxxxxxxx0
+Fault:1136 SA:1
+1101110011xxxx11x1xx0xx1xxxxxxxx0
+Fault:1137 SA:0
+0xxx100xx1110x110xxxxxxxx0xxxxx1x
+Fault:1137 SA:1
+0xxx110xx1110x110xxxxxxxx0xxxxx1x
+Fault:1138 SA:0
+1111110011110x001xxx0xx0x0xxxxxx0
+Fault:1138 SA:1
+1111110011110x101xxx0xx0x0xxxxxx0
+Fault:1139 SA:0
+1111xxxx11111000xxxxx0xxxxxxxx0x0
+Fault:1139 SA:1
+1111xxxx11111010xxxxx0xxxxxxxx0x0
+Fault:1140 SA:0
+1101111001xxxx100xxx0xxxxxxxxxx1x
+Fault:1140 SA:1
+1101111011xxxx100xxx0xxxxxxxxxx1x
+Fault:1141 SA:0
+1101111001000010100100111011xx000
+Fault:1141 SA:1
+1101111011000110100101111011xx000
+Fault:1142 SA:0
+xxxxxxxx11100010x1xxxxx1xxxxxxxx0
+Fault:1142 SA:1
+xxxxxxxx11110010x1xxxxx1xxxxxxxx0
+Fault:1143 SA:0
+1100110xx11001111xxxx0x0x0xxxxxx0
+Fault:1143 SA:1
+1100110xx11101111xxxx0x0x0xxxxxx0
+Fault:1144 SA:0
+1100111111110010111010001111xx000
+Fault:1144 SA:1
+1100111101110110111000001111xx000
+Fault:1145 SA:0
+1110xxxxx1110010xxxxx0xx0xxxxxx1x
+Fault:1145 SA:1
+1110xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:1146 SA:0
+x1xx1xx10x1xx011x0xxxxxxxx1xxx01x
+Fault:1146 SA:1
+x1xx1xx10x1xx111x0xxxxxxxx1xxx01x
+Fault:1147 SA:0
+xxx1xx1x00xx10x1xxx1xx1xxxxxxx0x0
+Fault:1147 SA:1
+xxx1xx1x00xx11x1xxx1xx1xxxxxxx0x0
+Fault:1148 SA:0
+1101111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:1148 SA:1
+0101111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:1149 SA:0
+1100xxxxx1110110xxxxx0xx1xxxxx01x
+Fault:1149 SA:1
+0100xxxxx1110110xxxxx0xx1xxxxx01x
+Fault:1150 SA:0
+1101111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:1150 SA:1
+1101111111xxxx11x1xx0xx1xxxxxxxx0
+Fault:1151 SA:0
+1101110011xxxx11x1xx0xx1xxxxxxxx0
+Fault:1151 SA:1
+1101010011xxxx11x1xx0xx1xxxxxxxx0
+Fault:1152 SA:0
+0xxx110xx1110x110xxxxxxxx0xxxxx1x
+Fault:1152 SA:1
+0xxx010xx1110x110xxxxxxxx0xxxxx1x
+Fault:1153 SA:0
+1111xxxx11111010xxxxx0xxxxxxxx0x0
+Fault:1153 SA:1
+1111xxxx10111010xxxxx0xxxxxxxx0x0
+Fault:1154 SA:0
+1111110011110x101xxx0xx0x0xxxxxx0
+Fault:1154 SA:1
+1111110010110x101xxx0xx0x0xxxxxx0
+Fault:1155 SA:0
+1101111011000110100101111011xx000
+Fault:1155 SA:1
+1101111011000110100111111011xx000
+Fault:1156 SA:0
+1100110xx11101111xxxx0x0x0xxxxxx0
+Fault:1156 SA:1
+1100110xx10101111xxxx0x0x0xxxxxx0
+Fault:1157 SA:0
+1110xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:1157 SA:1
+1110xxxxx1110110xxxxx1xx0xxxxxxx0
+Fault:1158 SA:0
+xxxxxxxx11111010x1xxxxx1xxxxxxxx0
+Fault:1158 SA:1
+xxxxxxxx11111110x1xxxxx1xxxxxxxx0
+Fault:1159 SA:0
+0101110011111111001111101111xx010
+Fault:1159 SA:1
+0101110011111111101111101111xx010
+Fault:1160 SA:0
+1111110011111111000111101111xx010
+Fault:1160 SA:1
+1111110011111111100111101111xx010
+Fault:1161 SA:0
+xxx1xx1x00xx11x1xxx1xx1xxxxxxx0x0
+Fault:1161 SA:1
+xxx1xx1x00xx11x0xxx1xx1xxxxxxx0x0
+Fault:1162 SA:0
+xxx1xx1x00xx11x1xxx1xx1xxxxxxx0x0
+Fault:1162 SA:1
+xxx1xx1x00xx11x1xx10xx0xxxxxxx01x
+Fault:1163 SA:0
+1101111011110010110000011010xx010
+Fault:1163 SA:1
+Fault:1164 SA:0
+1101111011110110101000011110xx010
+Fault:1164 SA:1
+1101111011110110111000011110xx010
+Fault:1167 SA:0
+1100111111110110100100011011xx010
+Fault:1167 SA:1
+Fault:1168 SA:0
+1100111101110110101000011111xx010
+Fault:1168 SA:1
+1100111101110110101100011111xx010
+Fault:1171 SA:0
+0xxxxxxxxxxxxxxx1000xx0x11000x1x1
+Fault:1171 SA:1
+11011110111111111010000111101x00x
+Fault:1188 SA:0
+xxxxxxxx0xxxxxxx1010xx0x0010x01x1
+Fault:1188 SA:1
+1101111011111011101000011010x100x
+Fault:1205 SA:0
+1100xxxxx1110110xxxxx0xx1xxxxx01x
+Fault:1205 SA:1
+1000xxxxx1110110xxxxx0xx1xxxxx01x
+Fault:1206 SA:0
+1110xxxxx1110110xxxxx0xx1xxxxx01x
+Fault:1206 SA:1
+1010xxxxx1110110xxxxx0xx1xxxxx01x
+Fault:1207 SA:0
+1101111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:1207 SA:1
+1001111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:1208 SA:0
+1111111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:1208 SA:1
+1011111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:1209 SA:0
+1101110011xxxx11x1xx0xx1xxxxxxxx0
+Fault:1209 SA:1
+1101100011xxxx11x1xx0xx1xxxxxxxx0
+Fault:1210 SA:0
+1101111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:1210 SA:1
+1101101011xxxx11x1xx0xx1xxxxxxxx0
+Fault:1211 SA:0
+0xxx110xx1110x110xxxxxxxx0xxxxx1x
+Fault:1211 SA:1
+0xxx100xx1110x110xxxxxxxx0xxxxx1x
+Fault:1212 SA:0
+0xxx111xx1110x110xxxxxxxx0xxxxx1x
+Fault:1212 SA:1
+0xxx101xx1110x110xxxxxxxx0xxxxx1x
+Fault:1213 SA:0
+1111110011110x101xxx0xx0x0xxxxxx0
+Fault:1213 SA:1
+1111110011110x001xxx0xx0x0xxxxxx0
+Fault:1214 SA:0
+1111110011110x111xxx0xx0x0xxxxxx0
+Fault:1214 SA:1
+1111110011110x011xxx0xx0x0xxxxxx0
+Fault:1215 SA:0
+1111xxxx11111010xxxxx0xxxxxxxx0x0
+Fault:1215 SA:1
+1111xxxx11111000xxxxx0xxxxxxxx0x0
+Fault:1216 SA:0
+1111xxxx11111011xxxxx0xxxxxxxx0x0
+Fault:1216 SA:1
+1111xxxx11111001xxxxx0xxxxxxxx0x0
+Fault:1217 SA:0
+1101111011xxxx100xxx0xxxxxxxxxx1x
+Fault:1217 SA:1
+1101111001xxxx100xxx0xxxxxxxxxx1x
+Fault:1218 SA:0
+1101111011xxxx100xxx0xxxxxxxxxx1x
+Fault:1218 SA:1
+1101111011xxxx100xxx1xxxxxxxxxxx0
+Fault:1219 SA:0
+1101111011000110100101111011xx000
+Fault:1219 SA:1
+1101111001000010100100111011xx000
+Fault:1220 SA:0
+xxxxxxxx11110010x1xxxxx1xxxxxxxx0
+Fault:1220 SA:1
+xxxxxxxx11100010x1xxxxx1xxxxxxxx0
+Fault:1221 SA:0
+xxxxxxxx11111010x1xxxxx1xxxxxxxx0
+Fault:1221 SA:1
+xxxxxxxx11101010x1xxxxx1xxxxxxxx0
+Fault:1222 SA:0
+xxxxxxxx11110010x1xxxxx1xxxxxxxx0
+Fault:1222 SA:1
+xxxxxxxx11010010x1xxxxx1xxxxxxxx0
+Fault:1223 SA:0
+1100110xx11101111xxxx0x0x0xxxxxx0
+Fault:1223 SA:1
+1100110xx11001111xxxx0x0x0xxxxxx0
+Fault:1224 SA:0
+1100110xx11111111xxxx0x0x0xxxxxx0
+Fault:1224 SA:1
+1100110xx11011111xxxx0x0x0xxxxxx0
+Fault:1225 SA:0
+1100111101110110111000001111xx000
+Fault:1225 SA:1
+1100111111110010111010001111xx000
+Fault:1226 SA:0
+1101110101110110011000001111xx000
+Fault:1226 SA:1
+1101110111110010011010001111xx000
+Fault:1227 SA:0
+1100111101110110111000001111xx000
+Fault:1227 SA:1
+1100111101110110111001001111xx000
+Fault:1228 SA:0
+1110xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:1228 SA:1
+1110xxxxx1110010xxxxx0xx0xxxxxx1x
+Fault:1229 SA:0
+1111xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:1229 SA:1
+1111xxxxx1110010xxxxx0xx0xxxxxx1x
+Fault:1230 SA:0
+0xxx110xx1110x110xxxxxxxx0xxxxx1x
+Fault:1230 SA:1
+0xxx110xx1110x111xxxxxx0x0xxxxxx0
+Fault:1231 SA:0
+1xxx110xx1110x110xxxxxxxx0xxxxx1x
+Fault:1231 SA:1
+1xxx110xx1110x111xxxxxx0x0xxxxxx0
+Fault:1232 SA:0
+x1xx1xx01x1xx111x0xxxxxxxx1xxx01x
+Fault:1232 SA:1
+x1xx1xx11x1xx111x0xxxxxxxx1xxx01x
+Fault:1235 SA:0
+x1xx1xx11x1xx101x0xxxxxxxx1xxx01x
+Fault:1235 SA:1
+x1xx1xx11x1xx111x0xxxxxxxx1xxx01x
+Fault:1238 SA:0
+x1xx1xx10x1xx111x0xxxxxxxx1xxx01x
+Fault:1238 SA:1
+x1xx1xx10x1xx011x0xxxxxxxx1xxx01x
+Fault:1239 SA:0
+x1xx1xx11x1xx111x0xxxxxxxx1xxx01x
+Fault:1239 SA:1
+x1xx1xx11x1xx011x0xxxxxxxx1xxx01x
+Fault:1240 SA:0
+x1xx1xx10x1xx111x0xxxxxxxx1xxx01x
+Fault:1240 SA:1
+x1xx1xx10x1xx110x0xxxxxxxx1xxx01x
+Fault:1241 SA:0
+xxx1xx1x00xx11x1xxx1xx1xxxxxxx0x0
+Fault:1241 SA:1
+xxx1xx1x00xx10x1xxx1xx1xxxxxxx0x0
+Fault:1242 SA:0
+xxx1xx1x10xx11x1xxx1xx1xxxxxxx0x0
+Fault:1242 SA:1
+xxx1xx1x10xx10x1xxx1xx1xxxxxxx0x0
+Fault:1243 SA:0
+xx1xx1x0x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:1243 SA:1
+xx1xx1x1x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:1246 SA:0
+xx1xx1x1x1x1xx0xxx0xxxxxxxx1xx01x
+Fault:1246 SA:1
+xx1xx1x1x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:1249 SA:0
+xxx1xx1x00xx11x1xxx1xx1xxxxxxx0x0
+Fault:1249 SA:1
+xxx1xx1x01xx11x1xxx1xx1xxxxxxx0x0
+Fault:1252 SA:0
+11011110111101100010000x1110xx010
+Fault:1252 SA:1
+1101111011110110101000011110xx010
+Fault:1255 SA:0
+1101111011100110010100101111xx000
+Fault:1255 SA:1
+1101111011000110100101111011xx000
+Fault:1258 SA:0
+1111101010111101000111101110xx010
+Fault:1258 SA:1
+11111010101001010010110x1111xx010
+Fault:1261 SA:0
+11110110101111010001001x1111xx000
+Fault:1261 SA:1
+01110110101101010010100x1111xx000
+Fault:1264 SA:0
+1101111111xxxx11x1xx0xx1xxxxxxxx0
+Fault:1264 SA:1
+1101111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:1267 SA:0
+1111110011111111000111101111xx010
+Fault:1267 SA:1
+0101110011111111001111101111xx010
+Fault:1268 SA:0
+xxx1xx1x00xx11x1xxx1xx1xxxxxxx0x0
+Fault:1268 SA:1
+xxx1xx1x01xx11x1xxx1xx1xxxxxxx0x0
+Fault:1269 SA:0
+1101111011100110010100101111xx000
+Fault:1269 SA:1
+1101111011000110100101111011xx000
+Fault:1270 SA:0
+11011110111101100010000x1110xx010
+Fault:1270 SA:1
+1101111011110110101000011110xx010
+Fault:1271 SA:0
+11110110101111010001001x1111xx000
+Fault:1271 SA:1
+01110110101101010010100x1111xx000
+Fault:1272 SA:0
+1111101010111101000111101110xx010
+Fault:1272 SA:1
+11111010101001010010110x1111xx010
+Fault:1273 SA:0
+1101111011110110101000011110xx010
+Fault:1273 SA:1
+1101111011110110111000011110xx010
+Fault:1274 SA:0
+1101111011111111101000011110xx010
+Fault:1274 SA:1
+1101111011111111111000011110xx010
+Fault:1275 SA:0
+1100111101110110101000011111xx010
+Fault:1275 SA:1
+1100111101110110101100011111xx010
+Fault:1276 SA:0
+1101111001110110100000011110xx010
+Fault:1276 SA:1
+1101111001110110100100011110xx010
+Fault:1277 SA:0
+11011110111100111000xx0x11000x111
+Fault:1277 SA:1
+11011110111111111010000111101x000
+Fault:1278 SA:0
+11011110111100111000xx0x10100x111
+Fault:1278 SA:1
+11011110111111111010000110001x000
+Fault:1279 SA:0
+11011110111100111000xx0x10010x111
+Fault:1279 SA:1
+11011110111111111010000110111x000
+Fault:1280 SA:0
+11011110111100111010xx0x10000x111
+Fault:1280 SA:1
+1101111011111111101000x110001x100
+Fault:1281 SA:0
+11011110111110111000xx0x01100x111
+Fault:1281 SA:1
+1101111011111011100000x111101x000
+Fault:1282 SA:0
+1101111011111x111000xx0x01010x111
+Fault:1282 SA:1
+1101111011111011100000x111011x000
+Fault:1283 SA:0
+11011110111110111010xx0x01000x111
+Fault:1283 SA:1
+11011110111110111010000111001x000
+Fault:1284 SA:0
+110111101111x0111000xx0x00110x111
+Fault:1284 SA:1
+1101111011111011100000x110111x000
+Fault:1285 SA:0
+11011110111x10111010xx0x0010x0111
+Fault:1285 SA:1
+1101111011111011101000011010x1000
+Fault:1286 SA:0
+11011110111100111010xx0x1101x0111
+Fault:1286 SA:1
+1101111011111111101000x11101x1100
+Fault:1287 SA:0
+11101111011101100000xx0x1110x0111
+Fault:1287 SA:1
+1101111011110110101000011110x1000
+Fault:1288 SA:0
+11101111x11101100000xx0x1101x0111
+Fault:1288 SA:1
+1101111011110110101000011101x1000
+Fault:1289 SA:0
+1110111x111101100010xx0x1100x0111
+Fault:1289 SA:1
+1101111011110110100000x11100x1000
+Fault:1290 SA:0
+11101x01011101100010xx0x1010x0111
+Fault:1290 SA:1
+1101111011110110100000x11010x1000
+Fault:1291 SA:0
+11011110111100111000xx0x1111x0111
+Fault:1291 SA:1
+1101111011111111101000011101x1000
+Fault:1292 SA:0
+11011110111100111010xx0x1110x0111
+Fault:1292 SA:1
+1101111011111111101000x11110x1100
+Fault:1293 SA:0
+0xxxxxxxxxxxxxxx1000xx0x11000x1x1
+Fault:1293 SA:1
+11011110111111111010000111101x00x
+Fault:1294 SA:0
+x0xxxxxxxxxxxxxx1000xx0x10100x1x1
+Fault:1294 SA:1
+11011110111111111010000110001x00x
+Fault:1295 SA:0
+xx0xxxxxxxxxxxxx1000xx0x10010x1x1
+Fault:1295 SA:1
+11011110111111111010000110111x00x
+Fault:1296 SA:0
+xxx0xxxxxxxxxxxx1010xx0x10000x1x1
+Fault:1296 SA:1
+1101111011111111101000x110001x10x
+Fault:1297 SA:0
+xxxx0xxxxxxxxxxx1000xx0x01100x1x1
+Fault:1297 SA:1
+1101111011111011100000x111101x00x
+Fault:1298 SA:0
+xxxxx0xxxxxxxxxx1000xx0x01010x1x1
+Fault:1298 SA:1
+1101111011111011100000x111011x00x
+Fault:1299 SA:0
+xxxxxx0xxxxxxxxx1010xx0x01000x1x1
+Fault:1299 SA:1
+11011110111110111010000111001x00x
+Fault:1300 SA:0
+xxxxxxx0xxxxxxxx1000xx0x00110x1x1
+Fault:1300 SA:1
+1101111011111011100000x110111x00x
+Fault:1301 SA:0
+xxxxxxxx0xxxxxxx1010xx0x0010x01x1
+Fault:1301 SA:1
+1101111011111011101000011010x100x
+Fault:1302 SA:0
+xxxxxxxxx0xxxxxx1010xx0x1101x01x1
+Fault:1302 SA:1
+1101111011111111101000x11101x110x
+Fault:1303 SA:0
+xxxxxxxxxx0xxxxx0000xx0x1110x01x1
+Fault:1303 SA:1
+1101111011110110101000011110x100x
+Fault:1304 SA:0
+xxxxxxxxxxx0xxxx0000xx0x1101x01x1
+Fault:1304 SA:1
+1101111011110110101000011101x100x
+Fault:1305 SA:0
+xxxxxxxxxxxx0xxx0010xx0x1100x01x1
+Fault:1305 SA:1
+1101111011110110100000x11100x100x
+Fault:1306 SA:0
+xxxxxxxxxxxxx0xx0010xx0x1010x01x1
+Fault:1306 SA:1
+1101111011110110100000x11010x100x
+Fault:1307 SA:0
+xxxxxxxxxxxxxx0x1000xx0x1111x01x1
+Fault:1307 SA:1
+1101111011111111101000011101x100x
+Fault:1308 SA:0
+xxxxxxxxxxxxxxx01010xx0x1110x01x1
+Fault:1308 SA:1
+1101111011111111101000x11110x110x
+Fault:1309 SA:0
+1110xxxxx1110110xxxxx0xx1xxxxx01x
+Fault:1309 SA:1
+1100xxxxx1110110xxxxx0xx1xxxxx01x
+Fault:1310 SA:0
+1111111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:1310 SA:1
+1101111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:1311 SA:0
+1101111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:1311 SA:1
+1101110011xxxx11x1xx0xx1xxxxxxxx0
+Fault:1312 SA:0
+0xxx111xx1110x110xxxxxxxx0xxxxx1x
+Fault:1312 SA:1
+0xxx110xx1110x110xxxxxxxx0xxxxx1x
+Fault:1313 SA:0
+1111110011110x111xxx0xx0x0xxxxxx0
+Fault:1313 SA:1
+1111110011110x101xxx0xx0x0xxxxxx0
+Fault:1314 SA:0
+1111xxxx11111011xxxxx0xxxxxxxx0x0
+Fault:1314 SA:1
+1111xxxx11111010xxxxx0xxxxxxxx0x0
+Fault:1315 SA:0
+xxxxxxxx11111010x1xxxxx1xxxxxxxx0
+Fault:1315 SA:1
+xxxxxxxx11110010x1xxxxx1xxxxxxxx0
+Fault:1316 SA:0
+1100110xx11111111xxxx0x0x0xxxxxx0
+Fault:1316 SA:1
+1100110xx11101111xxxx0x0x0xxxxxx0
+Fault:1317 SA:0
+1101110101110110011000001111xx000
+Fault:1317 SA:1
+1100111101110110111000001111xx000
+Fault:1318 SA:0
+1111xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:1318 SA:1
+1110xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:1319 SA:0
+xxxxxxxx11111110x1xxxxx1xxxxxxxx0
+Fault:1319 SA:1
+xxxxxxxx11111010x1xxxxx1xxxxxxxx0
+Fault:1322 SA:0
+1xxx110xx1110x110xxxxxxxx0xxxxx1x
+Fault:1322 SA:1
+0xxx110xx1110x110xxxxxxxx0xxxxx1x
+Fault:1323 SA:0
+x1xx1xx01x1xx111x0xxxxxxxx1xxx01x
+Fault:1323 SA:1
+x1xx1xx11x1xx111x0xxxxxxxx1xxx01x
+Fault:1324 SA:0
+x0xx1xx01x1xx111x0xxxxxxxx1xxx01x
+Fault:1324 SA:1
+x0xx1xx11x1xx111x0xxxxxxxx1xxx01x
+Fault:1325 SA:0
+x1xx1xx11x1xx101x0xxxxxxxx1xxx01x
+Fault:1325 SA:1
+x1xx1xx11x1xx111x0xxxxxxxx1xxx01x
+Fault:1326 SA:0
+x1xx1xx11x0xx101x0xxxxxxxx1xxx01x
+Fault:1326 SA:1
+x1xx1xx11x0xx111x0xxxxxxxx1xxx01x
+Fault:1327 SA:0
+x1xx1xx11x1xx111x0xxxxxxxx1xxx01x
+Fault:1327 SA:1
+x1xx1xx10x1xx111x0xxxxxxxx1xxx01x
+Fault:1328 SA:0
+xxx1xx1x10xx11x1xxx1xx1xxxxxxx0x0
+Fault:1328 SA:1
+xxx1xx1x00xx11x1xxx1xx1xxxxxxx0x0
+Fault:1329 SA:0
+xx1xx1x0x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:1329 SA:1
+xx1xx1x1x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:1330 SA:0
+xx0xx1x0x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:1330 SA:1
+xx0xx1x1x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:1331 SA:0
+xx1xx1x1x1x1xx0xxx0xxxxxxxx1xx01x
+Fault:1331 SA:1
+xx1xx1x1x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:1332 SA:0
+xx1xx1x1x1x0xx0xxx0xxxxxxxx1xx01x
+Fault:1332 SA:1
+xx1xx1x1x1x0xx1xxx0xxxxxxxx1xx01x
+Fault:1333 SA:0
+xxx0xx1x00xx11x1xxx1xx1xxxxxxx0x0
+Fault:1333 SA:1
+xxx0xx1x01xx11x1xxx1xx1xxxxxxx0x0
+Fault:1334 SA:0
+xxx1xx1x00xx11x1xx10xx0xxxxxxx01x
+Fault:1334 SA:1
+xxx1xx1x00xx11x1xxx1xx1xxxxxxx0x0
+Fault:1337 SA:0
+11011110111111110010000x1100xx010
+Fault:1337 SA:1
+1101111011111111101000011100xx010
+Fault:1338 SA:0
+1101111011100011010100101011xx000
+Fault:1338 SA:1
+1101111011000011100101111111xx000
+Fault:1339 SA:0
+1111101000111101000101101100xx010
+Fault:1339 SA:1
+11111010001001010010010x1101xx010
+Fault:1340 SA:0
+1111011000111101010110101111xx000
+Fault:1340 SA:1
+0111011000110101011000001111xx000
+Fault:1341 SA:0
+1101111111xxxx110xxx0xxxxxxxxx01x
+Fault:1341 SA:1
+1101111011xxxx110xxx0xxxxxxxxx01x
+Fault:1342 SA:0
+11011111xxxxxxxxx1xxxxx1xxxxxxxx0
+Fault:1342 SA:1
+11011110xxxxxxxxx1xxxxx1xxxxxxxx0
+Fault:1343 SA:0
+xxxxxxxx11111110x1xxxxx1xxxxxxxx0
+Fault:1343 SA:1
+xxxxxxxx11111010x1xxxxx1xxxxxxxx0
+Fault:1344 SA:0
+0101110011111111001111101111xx010
+Fault:1344 SA:1
+1111110011111111000111101111xx010
+Fault:1345 SA:0
+xxx1xx1x01xx11x1xxx1xx1xxxxxxx0x0
+Fault:1345 SA:1
+xxx1xx1x00xx11x1xxx1xx1xxxxxxx0x0
+Fault:1346 SA:0
+xxx0xx1x01xx11x1xxx1xx1xxxxxxx0x0
+Fault:1346 SA:1
+xxx0xx1x00xx11x1xxx1xx1xxxxxxx0x0
+Fault:1347 SA:0
+xxx1xx1x00xx11x1xx10xx0xxxxxxx01x
+Fault:1347 SA:1
+xxx1xx1x00xx11x1xxx1xx1xxxxxxx0x0
+Fault:1348 SA:0
+1101111011000011100101111111xx000
+Fault:1348 SA:1
+1101111011100011010100101011xx000
+Fault:1349 SA:0
+1101111011111111101000011100xx010
+Fault:1349 SA:1
+11011110111111110010000x1100xx010
+Fault:1350 SA:0
+0111011000110101011000001111xx000
+Fault:1350 SA:1
+1111011000111101010110101111xx000
+Fault:1351 SA:0
+11111010001001010010010x1101xx010
+Fault:1351 SA:1
+1111101000111101000101101100xx010
+Fault:1352 SA:0
+1100xxxxx1110110xxxxx0xx1xxxxx01x
+Fault:1352 SA:1
+1110xxxxx1110110xxxxx0xx1xxxxx01x
+Fault:1355 SA:0
+1101111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:1355 SA:1
+1111111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:1358 SA:0
+1101110011xxxx11x1xx0xx1xxxxxxxx0
+Fault:1358 SA:1
+1101111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:1361 SA:0
+0xxx110xx1110x110xxxxxxxx0xxxxx1x
+Fault:1361 SA:1
+0xxx111xx1110x110xxxxxxxx0xxxxx1x
+Fault:1364 SA:0
+1111110011110x101xxx0xx0x0xxxxxx0
+Fault:1364 SA:1
+1111110011110x111xxx0xx0x0xxxxxx0
+Fault:1367 SA:0
+1111xxxx11111010xxxxx0xxxxxxxx0x0
+Fault:1367 SA:1
+1111xxxx11111011xxxxx0xxxxxxxx0x0
+Fault:1370 SA:0
+xxxxxxxx11110010x1xxxxx1xxxxxxxx0
+Fault:1370 SA:1
+xxxxxxxx11111010x1xxxxx1xxxxxxxx0
+Fault:1373 SA:0
+1100110xx11101111xxxx0x0x0xxxxxx0
+Fault:1373 SA:1
+1100110xx11111111xxxx0x0x0xxxxxx0
+Fault:1376 SA:0
+1100111101110110111000001111xx000
+Fault:1376 SA:1
+1101110101110110011000001111xx000
+Fault:1379 SA:0
+1110xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:1379 SA:1
+1111xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:1382 SA:0
+xxxxxxxx11111111x1xxxxx1xxxxxxxx0
+Fault:1382 SA:1
+xxxxxxxx11111011x1xxxxx1xxxxxxxx0
+Fault:1383 SA:0
+0xxx110xx1110x110xxxxxxxx0xxxxx1x
+Fault:1383 SA:1
+1xxx110xx1110x110xxxxxxxx0xxxxx1x
+Fault:1386 SA:0
+x0xx1xx11x1xx111x0xxxxxxxx1xxx01x
+Fault:1386 SA:1
+x0xx1xx01x1xx111x0xxxxxxxx1xxx01x
+Fault:1387 SA:0
+x1xx1xx11x1xx111x0xxxxxxxx1xxx01x
+Fault:1387 SA:1
+x1xx1xx01x1xx111x0xxxxxxxx1xxx01x
+Fault:1388 SA:0
+x1xx1xx11x0xx111x0xxxxxxxx1xxx01x
+Fault:1388 SA:1
+x1xx1xx11x0xx101x0xxxxxxxx1xxx01x
+Fault:1389 SA:0
+x1xx1xx11x1xx111x0xxxxxxxx1xxx01x
+Fault:1389 SA:1
+x1xx1xx11x1xx101x0xxxxxxxx1xxx01x
+Fault:1390 SA:0
+x1xx1xx10x1xx111x0xxxxxxxx1xxx01x
+Fault:1390 SA:1
+x1xx1xx11x1xx111x0xxxxxxxx1xxx01x
+Fault:1393 SA:0
+xxx1xx1x00xx11x1xxx1xx1xxxxxxx0x0
+Fault:1393 SA:1
+xxx1xx1x10xx11x1xxx1xx1xxxxxxx0x0
+Fault:1396 SA:0
+xx0xx1x1x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:1396 SA:1
+xx0xx1x0x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:1397 SA:0
+xx1xx1x1x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:1397 SA:1
+xx1xx1x0x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:1398 SA:0
+xx1xx1x1x1x0xx1xxx0xxxxxxxx1xx01x
+Fault:1398 SA:1
+xx1xx1x1x1x0xx0xxx0xxxxxxxx1xx01x
+Fault:1399 SA:0
+xx1xx1x1x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:1399 SA:1
+xx1xx1x1x1x1xx0xxx0xxxxxxxx1xx01x
+Fault:1400 SA:0
+xxx1xx1x10xx11x1xx10xx0xxxxxxx01x
+Fault:1400 SA:1
+xxx1xx1x10xx11x1xxx1xx1xxxxxxx0x0
+Fault:1401 SA:0
+1101111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:1401 SA:1
+1111111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:1402 SA:0
+1100xxxxx1110110xxxxx0xx1xxxxx01x
+Fault:1402 SA:1
+1110xxxxx1110110xxxxx0xx1xxxxx01x
+Fault:1403 SA:0
+1101110011xxxx11x1xx0xx1xxxxxxxx0
+Fault:1403 SA:1
+1101111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:1404 SA:0
+0xxx110xx1110x110xxxxxxxx0xxxxx1x
+Fault:1404 SA:1
+0xxx111xx1110x110xxxxxxxx0xxxxx1x
+Fault:1405 SA:0
+1111xxxx11111010xxxxx0xxxxxxxx0x0
+Fault:1405 SA:1
+1111xxxx11111011xxxxx0xxxxxxxx0x0
+Fault:1406 SA:0
+1111110011110x101xxx0xx0x0xxxxxx0
+Fault:1406 SA:1
+1111110011110x111xxx0xx0x0xxxxxx0
+Fault:1407 SA:0
+1100110xx11101111xxxx0x0x0xxxxxx0
+Fault:1407 SA:1
+1100110xx11111111xxxx0x0x0xxxxxx0
+Fault:1408 SA:0
+1110xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:1408 SA:1
+1111xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:1409 SA:0
+xxxxxxxx11111011x1xxxxx1xxxxxxxx0
+Fault:1409 SA:1
+xxxxxxxx11111111x1xxxxx1xxxxxxxx0
+Fault:1410 SA:0
+0xxx110xx1110x110xxxxxxxx0xxxxx1x
+Fault:1410 SA:1
+1xxx110xx1110x110xxxxxxxx0xxxxx1x
+Fault:1411 SA:0
+xxx1xx1x00xx11x1xxx1xx1xxxxxxx0x0
+Fault:1411 SA:1
+xxx1xx1x10xx11x1xxx1xx1xxxxxxx0x0
+Fault:1412 SA:0
+xxx1xx1x01xx11x1xxx1xx1xxxxxxx0x0
+Fault:1412 SA:1
+xxx0xx1x01xx11x1xxx1xx1xxxxxxx0x0
+Fault:1413 SA:0
+xxx1xx1x10xx11x1xxx1xx1xxxxxxx0x0
+Fault:1413 SA:1
+xxx1xx1x10xx11x1xx10xx0xxxxxxx01x
+Fault:1414 SA:0
+0100xxxxx1110110xxxxx0xx1xxxxx01x
+Fault:1414 SA:1
+0110xxxxx1110110xxxxx0xx1xxxxx01x
+Fault:1415 SA:0
+0101111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:1415 SA:1
+0111111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:1416 SA:0
+1101111111xxxx110xxx0xxxxxxxxx01x
+Fault:1416 SA:1
+1101111011xxxx110xxx0xxxxxxxxx01x
+Fault:1419 SA:0
+11011111xxxxxxxxx1xxxxx1xxxxxxxx0
+Fault:1419 SA:1
+11011110xxxxxxxxx1xxxxx1xxxxxxxx0
+Fault:1422 SA:0
+1101010011xxxx11x1xx0xx1xxxxxxxx0
+Fault:1422 SA:1
+1101011011xxxx11x1xx0xx1xxxxxxxx0
+Fault:1423 SA:0
+0xxx010xx1110x110xxxxxxxx0xxxxx1x
+Fault:1423 SA:1
+0xxx011xx1110x110xxxxxxxx0xxxxx1x
+Fault:1424 SA:0
+1111110010110x101xxx0xx0x0xxxxxx0
+Fault:1424 SA:1
+1111110010110x111xxx0xx0x0xxxxxx0
+Fault:1425 SA:0
+1111xxxx10111010xxxxx0xxxxxxxx0x0
+Fault:1425 SA:1
+1111xxxx10111011xxxxx0xxxxxxxx0x0
+Fault:1426 SA:0
+xxxxxxxx11110010x1xxxxx1xxxxxxxx0
+Fault:1426 SA:1
+xxxxxxxx11111010x1xxxxx1xxxxxxxx0
+Fault:1427 SA:0
+xxxxxxxx11010010x1xxxxx1xxxxxxxx0
+Fault:1427 SA:1
+xxxxxxxx11011010x1xxxxx1xxxxxxxx0
+Fault:1428 SA:0
+1100110xx10101111xxxx0x0x0xxxxxx0
+Fault:1428 SA:1
+1100110xx10111111xxxx0x0x0xxxxxx0
+Fault:1429 SA:0
+1100111101110110111000001111xx000
+Fault:1429 SA:1
+1101110101110110011000001111xx000
+Fault:1430 SA:0
+1100111101110110111001001111xx000
+Fault:1430 SA:1
+1101110101110110011001001111xx000
+Fault:1431 SA:0
+1110xxxxx1110110xxxxx1xx0xxxxxxx0
+Fault:1431 SA:1
+1111xxxxx1110110xxxxx1xx0xxxxxxx0
+Fault:1432 SA:0
+0xxx110xx1111x110xxxxxxxx0xxxxx1x
+Fault:1432 SA:1
+1xxx110xx1111x110xxxxxxxx0xxxxx1x
+Fault:1433 SA:0
+x1xx1xx11x1xx111x0xxxxxxxx1xxx01x
+Fault:1433 SA:1
+x0xx1xx11x1xx111x0xxxxxxxx1xxx01x
+Fault:1434 SA:0
+x1xx1xx11x1xx111x0xxxxxxxx1xxx01x
+Fault:1434 SA:1
+x1xx1xx11x0xx111x0xxxxxxxx1xxx01x
+Fault:1435 SA:0
+x1xx1xx10x1xx111x0xxxxxxxx1xxx01x
+Fault:1435 SA:1
+x1xx1xx11x1xx111x0xxxxxxxx1xxx01x
+Fault:1436 SA:0
+x1xx1xx10x1xx110x0xxxxxxxx1xxx01x
+Fault:1436 SA:1
+x1xx1xx11x1xx110x0xxxxxxxx1xxx01x
+Fault:1437 SA:0
+xxx1xx1x00xx11x0xxx1xx1xxxxxxx0x0
+Fault:1437 SA:1
+xxx1xx1x10xx11x0xxx1xx1xxxxxxx0x0
+Fault:1438 SA:0
+xx1xx1x1x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:1438 SA:1
+xx0xx1x1x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:1439 SA:0
+xx1xx1x1x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:1439 SA:1
+xx1xx1x1x1x0xx1xxx0xxxxxxxx1xx01x
+Fault:1440 SA:0
+1111110011111111000111101111xx010
+Fault:1440 SA:1
+0101110011111111001111101111xx010
+Fault:1443 SA:0
+1111111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:1443 SA:1
+1101111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:1444 SA:0
+0111111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:1444 SA:1
+0101111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:1445 SA:0
+1110xxxxx1110110xxxxx0xx1xxxxx01x
+Fault:1445 SA:1
+1100xxxxx1110110xxxxx0xx1xxxxx01x
+Fault:1446 SA:0
+0110xxxxx1110110xxxxx0xx1xxxxx01x
+Fault:1446 SA:1
+0100xxxxx1110110xxxxx0xx1xxxxx01x
+Fault:1447 SA:0
+1101111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:1447 SA:1
+1101110011xxxx11x1xx0xx1xxxxxxxx0
+Fault:1448 SA:0
+1101011011xxxx11x1xx0xx1xxxxxxxx0
+Fault:1448 SA:1
+1101010011xxxx11x1xx0xx1xxxxxxxx0
+Fault:1449 SA:0
+11011111xxxxxxxxx1xxxxx1xxxxxxxx0
+Fault:1449 SA:1
+11011110xxxxxxxxx1xxxxx1xxxxxxxx0
+Fault:1450 SA:0
+1101111111xxxx110xxx0xxxxxxxxx01x
+Fault:1450 SA:1
+1101111011xxxx110xxx0xxxxxxxxx01x
+Fault:1451 SA:0
+0xxx111xx1110x110xxxxxxxx0xxxxx1x
+Fault:1451 SA:1
+0xxx110xx1110x110xxxxxxxx0xxxxx1x
+Fault:1452 SA:0
+0xxx011xx1110x110xxxxxxxx0xxxxx1x
+Fault:1452 SA:1
+0xxx010xx1110x110xxxxxxxx0xxxxx1x
+Fault:1453 SA:0
+1111xxxx11111011xxxxx0xxxxxxxx0x0
+Fault:1453 SA:1
+1111xxxx11111010xxxxx0xxxxxxxx0x0
+Fault:1454 SA:0
+1111xxxx10111011xxxxx0xxxxxxxx0x0
+Fault:1454 SA:1
+1111xxxx10111010xxxxx0xxxxxxxx0x0
+Fault:1455 SA:0
+1111110011110x111xxx0xx0x0xxxxxx0
+Fault:1455 SA:1
+1111110011110x101xxx0xx0x0xxxxxx0
+Fault:1456 SA:0
+1111110010110x111xxx0xx0x0xxxxxx0
+Fault:1456 SA:1
+1111110010110x101xxx0xx0x0xxxxxx0
+Fault:1457 SA:0
+1100110xx11111111xxxx0x0x0xxxxxx0
+Fault:1457 SA:1
+1100110xx11101111xxxx0x0x0xxxxxx0
+Fault:1458 SA:0
+1100110xx10111111xxxx0x0x0xxxxxx0
+Fault:1458 SA:1
+1100110xx10101111xxxx0x0x0xxxxxx0
+Fault:1459 SA:0
+1111xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:1459 SA:1
+1110xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:1460 SA:0
+1111xxxxx1110110xxxxx1xx0xxxxxxx0
+Fault:1460 SA:1
+1110xxxxx1110110xxxxx1xx0xxxxxxx0
+Fault:1461 SA:0
+1xxx110xx1111x110xxxxxxxx0xxxxx1x
+Fault:1461 SA:1
+0xxx110xx1111x110xxxxxxxx0xxxxx1x
+Fault:1462 SA:0
+xxx1xx1x10xx11x1xxx1xx1xxxxxxx0x0
+Fault:1462 SA:1
+xxx1xx1x00xx11x1xxx1xx1xxxxxxx0x0
+Fault:1463 SA:0
+xxx1xx1x10xx11x0xxx1xx1xxxxxxx0x0
+Fault:1463 SA:1
+xxx1xx1x00xx11x0xxx1xx1xxxxxxx0x0
+Fault:1464 SA:0
+xxx1xx1x00xx11x1xxx1xx1xxxxxxx0x0
+Fault:1464 SA:1
+xxx1xx1x01xx11x1xxx1xx1xxxxxxx0x0
+Fault:1465 SA:0
+1111110011111111000111101111xx010
+Fault:1465 SA:1
+0101110011111111001111101111xx010
+Fault:1466 SA:0
+1111111111xxxx110xxx0xxxxxxxxx01x
+Fault:1466 SA:1
+1111111011xxxx110xxx0xxxxxxxxx01x
+Fault:1467 SA:0
+11111111xxxxxxxxx1xxxxx1xxxxxxxx0
+Fault:1467 SA:1
+11111110xxxxxxxxx1xxxxx1xxxxxxxx0
+Fault:1468 SA:0
+xxxxxxxx11011010x1xxxxx1xxxxxxxx0
+Fault:1468 SA:1
+xxxxxxxx11010010x1xxxxx1xxxxxxxx0
+Fault:1469 SA:0
+xxxxxxxx11111010x1xxxxx1xxxxxxxx0
+Fault:1469 SA:1
+xxxxxxxx11110010x1xxxxx1xxxxxxxx0
+Fault:1470 SA:0
+1101110101110110011001001111xx000
+Fault:1470 SA:1
+1100111101110110111001001111xx000
+Fault:1471 SA:0
+1101110101110110011000001111xx000
+Fault:1471 SA:1
+1100111101110110111000001111xx000
+Fault:1472 SA:0
+x1xx1xx01x1xx111x0xxxxxxxx1xxx01x
+Fault:1472 SA:1
+x1xx1xx11x1xx111x0xxxxxxxx1xxx01x
+Fault:1475 SA:0
+x1xx1xx11x1xx110x0xxxxxxxx1xxx01x
+Fault:1475 SA:1
+x1xx1xx10x1xx110x0xxxxxxxx1xxx01x
+Fault:1476 SA:0
+x1xx1xx11x1xx111x0xxxxxxxx1xxx01x
+Fault:1476 SA:1
+x1xx1xx10x1xx111x0xxxxxxxx1xxx01x
+Fault:1477 SA:0
+1011110011110111011010001111xx000
+Fault:1477 SA:1
+0011110011110111011001001111xx000
+Fault:1478 SA:0
+x1xx1xx11x1xx101x0xxxxxxxx1xxx01x
+Fault:1478 SA:1
+x1xx1xx11x1xx111x0xxxxxxxx1xxx01x
+Fault:1481 SA:0
+xx1xx1x1x1x1xx0xxx0xxxxxxxx1xx01x
+Fault:1481 SA:1
+xx1xx1x1x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:1484 SA:0
+xx1xx1x0x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:1484 SA:1
+xx1xx1x1x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:1487 SA:0
+1111111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:1487 SA:1
+0111111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:1488 SA:0
+1110xxxxx1110110xxxxx0xx1xxxxx01x
+Fault:1488 SA:1
+0110xxxxx1110110xxxxx0xx1xxxxx01x
+Fault:1489 SA:0
+1101111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:1489 SA:1
+1101011011xxxx11x1xx0xx1xxxxxxxx0
+Fault:1490 SA:0
+11111110xxxxxxxxx1xxxxx1xxxxxxxx0
+Fault:1490 SA:1
+11111111xxxxxxxxx1xxxxx1xxxxxxxx0
+Fault:1491 SA:0
+1111111011xxxx110xxx0xxxxxxxxx01x
+Fault:1491 SA:1
+1111111111xxxx110xxx0xxxxxxxxx01x
+Fault:1492 SA:0
+0xxx111xx1110x110xxxxxxxx0xxxxx1x
+Fault:1492 SA:1
+0xxx011xx1110x110xxxxxxxx0xxxxx1x
+Fault:1493 SA:0
+1111xxxx11111011xxxxx0xxxxxxxx0x0
+Fault:1493 SA:1
+1111xxxx10111011xxxxx0xxxxxxxx0x0
+Fault:1494 SA:0
+1111110011110x111xxx0xx0x0xxxxxx0
+Fault:1494 SA:1
+1111110010110x111xxx0xx0x0xxxxxx0
+Fault:1495 SA:0
+1100110xx11111111xxxx0x0x0xxxxxx0
+Fault:1495 SA:1
+1100110xx10111111xxxx0x0x0xxxxxx0
+Fault:1496 SA:0
+1111xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:1496 SA:1
+1111xxxxx1110110xxxxx1xx0xxxxxxx0
+Fault:1497 SA:0
+x1xx1xx01x1xx111x0xxxxxxxx1xxx01x
+Fault:1497 SA:1
+x1xx1xx11x1xx111x0xxxxxxxx1xxx01x
+Fault:1498 SA:0
+xxx1xx1x10xx11x1xxx1xx1xxxxxxx0x0
+Fault:1498 SA:1
+xxx1xx1x10xx11x0xxx1xx1xxxxxxx0x0
+Fault:1499 SA:0
+0011110011110111011001001111xx000
+Fault:1499 SA:1
+1011110011110111011010001111xx000
+Fault:1500 SA:0
+xxxxxxxx11111010x1xxxxx1xxxxxxxx0
+Fault:1500 SA:1
+xxxxxxxx11011010x1xxxxx1xxxxxxxx0
+Fault:1501 SA:0
+1101110101110110011000001111xx000
+Fault:1501 SA:1
+1101110101110110011001001111xx000
+Fault:1502 SA:0
+x1xx1xx00x1xx111x0xxxxxxxx1xxx01x
+Fault:1502 SA:1
+x1xx1xx10x1xx111x0xxxxxxxx1xxx01x
+Fault:1503 SA:0
+x1xx1xx11x1xx101x0xxxxxxxx1xxx01x
+Fault:1503 SA:1
+x1xx1xx11x1xx111x0xxxxxxxx1xxx01x
+Fault:1504 SA:0
+x1xx1xx11x1xx111x0xxxxxxxx1xxx01x
+Fault:1504 SA:1
+x1xx1xx11x1xx110x0xxxxxxxx1xxx01x
+Fault:1505 SA:0
+xx1xx1x0x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:1505 SA:1
+xx1xx1x1x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:1506 SA:0
+xx1xx1x1x1x1xx0xxx0xxxxxxxx1xx01x
+Fault:1506 SA:1
+xx1xx1x1x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:1507 SA:0
+x1xx1xx10x1xx101x0xxxxxxxx1xxx01x
+Fault:1507 SA:1
+x1xx1xx10x1xx111x0xxxxxxxx1xxx01x
+Fault:1508 SA:0
+xx1xx1x0x1x1xx0xxx0xxxxxxxx1xx01x
+Fault:1508 SA:1
+xx1xx1x0x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:1509 SA:0
+xx1xx1x0x1x1xx0xxx0xxxxxxxx1xx01x
+Fault:1509 SA:1
+xx1xx1x1x1x1xx0xxx0xxxxxxxx1xx01x
+Fault:1510 SA:0
+xxx1xx1x01xx11x1xxx1xx1xxxxxxx0x0
+Fault:1510 SA:1
+xxx1xx1x00xx11x1xxx1xx1xxxxxxx0x0
+Fault:1513 SA:0
+1101111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:1513 SA:1
+1111111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:1514 SA:0
+1100xxxxx1110110xxxxx0xx1xxxxx01x
+Fault:1514 SA:1
+1110xxxxx1110110xxxxx0xx1xxxxx01x
+Fault:1517 SA:0
+1101110011xxxx11x1xx0xx1xxxxxxxx0
+Fault:1517 SA:1
+1101111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:1520 SA:0
+0xxx110xx1110x110xxxxxxxx0xxxxx1x
+Fault:1520 SA:1
+0xxx111xx1110x110xxxxxxxx0xxxxx1x
+Fault:1521 SA:0
+1111xxxx11111010xxxxx0xxxxxxxx0x0
+Fault:1521 SA:1
+1111xxxx11111011xxxxx0xxxxxxxx0x0
+Fault:1522 SA:0
+1111110011110x101xxx0xx0x0xxxxxx0
+Fault:1522 SA:1
+1111110011110x111xxx0xx0x0xxxxxx0
+Fault:1526 SA:0
+1100110xx11101111xxxx0x0x0xxxxxx0
+Fault:1526 SA:1
+1100110xx11111111xxxx0x0x0xxxxxx0
+Fault:1527 SA:0
+1110xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:1527 SA:1
+1111xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:1528 SA:0
+x1xx1xx10x1xx111x0xxxxxxxx1xxx01x
+Fault:1528 SA:1
+x1xx1xx00x1xx111x0xxxxxxxx1xxx01x
+Fault:1529 SA:0
+xxx1xx1x00xx11x1xxx1xx1xxxxxxx0x0
+Fault:1529 SA:1
+xxx1xx1x10xx11x1xxx1xx1xxxxxxx0x0
+Fault:1530 SA:0
+x1xx1xx10x1xx111x0xxxxxxxx1xxx01x
+Fault:1530 SA:1
+x1xx1xx10x1xx101x0xxxxxxxx1xxx01x
+Fault:1531 SA:0
+xx1xx1x0x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:1531 SA:1
+xx1xx1x0x1x1xx0xxx0xxxxxxxx1xx01x
+Fault:1532 SA:0
+xx1xx1x1x1x1xx0xxx0xxxxxxxx1xx01x
+Fault:1532 SA:1
+xx1xx1x0x1x1xx0xxx0xxxxxxxx1xx01x
+Fault:1533 SA:0
+xxx1xx1x01xx11x1xxx1xx1xxxxxxx0x0
+Fault:1533 SA:1
+xxx1xx1x00xx11x1xxx1xx1xxxxxxx0x0
+Fault:1534 SA:0
+1100111101110110111000001111xx000
+Fault:1534 SA:1
+1101110101110110011000001111xx000
+Fault:1537 SA:0
+xxxxxxxx11110010x1xxxxx1xxxxxxxx0
+Fault:1537 SA:1
+xxxxxxxx11111010x1xxxxx1xxxxxxxx0
+Fault:1540 SA:0
+x1xx1xx10x1xx111x0xxxxxxxx1xxx01x
+Fault:1540 SA:1
+x1xx1xx11x1xx111x0xxxxxxxx1xxx01x
+Fault:1543 SA:0
+xxx1xx1x11xx11x1xxx1xx1xxxxxxx0x0
+Fault:1543 SA:1
+xxx1xx1x10xx11x1xxx1xx1xxxxxxx0x0
+Fault:1544 SA:0
+1100xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:1544 SA:1
+1110xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:1545 SA:0
+1101110101110110011000001111xx000
+Fault:1545 SA:1
+1111010001110110111010001111xx000
+Fault:1546 SA:0
+1111111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:1546 SA:1
+1101111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:1549 SA:0
+1101110011xxxx110xxx0xxxxxxxxx01x
+Fault:1549 SA:1
+1101111011xxxx110xxx0xxxxxxxxx01x
+Fault:1550 SA:0
+11011100xxxxxxxxx1xxxxx1xxxxxxxx0
+Fault:1550 SA:1
+11011110xxxxxxxxx1xxxxx1xxxxxxxx0
+Fault:1551 SA:0
+1101111011xxxx100xxx0xxxxxxxxxx1x
+Fault:1551 SA:1
+1101111011xxxx110xxx0xxxxxxxxxx1x
+Fault:1552 SA:0
+1101111011000110100101111011xx000
+Fault:1552 SA:1
+1101111011000011100101111111xx000
+Fault:1553 SA:0
+0xxx110xx1110x100xxxxxxxx0xxxxx1x
+Fault:1553 SA:1
+0xxx110xx1110x110xxxxxxxx0xxxxx1x
+Fault:1554 SA:0
+1111xxxx11111011xxxxx0xxxxxxxx0x0
+Fault:1554 SA:1
+1111xxxx11111010xxxxx0xxxxxxxx0x0
+Fault:1557 SA:0
+1100110xx11111111xxxx0x0x0xxxxxx0
+Fault:1557 SA:1
+1100110xx11101111xxxx0x0x0xxxxxx0
+Fault:1561 SA:0
+0xxx111xx1110x110xxxxxxxx0xxxxx1x
+Fault:1561 SA:1
+0xxx110xx1110x110xxxxxxxx0xxxxx1x
+Fault:1564 SA:0
+1100111101110110111000001111xx000
+Fault:1564 SA:1
+1101110101110110011000001111xx000
+Fault:1565 SA:0
+xxxxxxxx11110010x1xxxxx1xxxxxxxx0
+Fault:1565 SA:1
+xxxxxxxx11111010x1xxxxx1xxxxxxxx0
+Fault:1566 SA:0
+x1xx1xx10x1xx111x0xxxxxxxx1xxx01x
+Fault:1566 SA:1
+x1xx1xx11x1xx111x0xxxxxxxx1xxx01x
+Fault:1567 SA:0
+xx1xx1x1x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:1567 SA:1
+xx1xx1x0x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:1568 SA:0
+xx1xx1x1x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:1568 SA:1
+xx1xx1x1x1x1xx0xxx0xxxxxxxx1xx01x
+Fault:1569 SA:0
+xxx1xx1x10xx11x1xxx1xx1xxxxxxx0x0
+Fault:1569 SA:1
+xxx1xx1x11xx11x1xxx1xx1xxxxxxx0x0
+Fault:1570 SA:0
+1110011001110110011010001111xx000
+Fault:1570 SA:1
+1111010001110110111010001111xx000
+Fault:1571 SA:0
+1111xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:1571 SA:1
+1110xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:1574 SA:0
+xxxxxxxx11110011x1xxxxx1xxxxxxxx0
+Fault:1574 SA:1
+xxxxxxxx11111011x1xxxxx1xxxxxxxx0
+Fault:1575 SA:0
+x1xx1xx10x1xx101x0xxxxxxxx1xxx01x
+Fault:1575 SA:1
+x1xx1xx11x1xx101x0xxxxxxxx1xxx01x
+Fault:1576 SA:0
+xxx1xx1x10xx11x1xxx1xx1xxxxxxx0x0
+Fault:1576 SA:1
+xxx1xx1x00xx11x1xxx1xx1xxxxxxx0x0
+Fault:1579 SA:0
+1111111011xxxx110xxx0xxxxxxxxx01x
+Fault:1579 SA:1
+1101111011xxxx110xxx0xxxxxxxxx01x
+Fault:1580 SA:0
+11111110xxxxxxxxx1xxxxx1xxxxxxxx0
+Fault:1580 SA:1
+11011110xxxxxxxxx1xxxxx1xxxxxxxx0
+Fault:1581 SA:0
+1110xxxxx1110111xxxxx0xx1xxxxx01x
+Fault:1581 SA:1
+1110xxxxx1110110xxxxx0xx1xxxxx01x
+Fault:1582 SA:0
+xxxxxxxx11111011x1xxxxx1xxxxxxxx0
+Fault:1582 SA:1
+xxxxxxxx11111010x1xxxxx1xxxxxxxx0
+Fault:1583 SA:0
+1110xxxxx1111110xxxxx0xx1xxxxx01x
+Fault:1583 SA:1
+1110xxxxx1110110xxxxx0xx1xxxxx01x
+Fault:1584 SA:0
+1xxx110xx1111x110xxxxxxxx0xxxxx1x
+Fault:1584 SA:1
+1xxx110xx1110x110xxxxxxxx0xxxxx1x
+Fault:1585 SA:0
+0101110011111111001111101111xx010
+Fault:1585 SA:1
+0011110011110111011001001111xx000
+Fault:1586 SA:0
+1xxx111xx1110x110xxxxxxxx0xxxxx1x
+Fault:1586 SA:1
+1xxx110xx1110x110xxxxxxxx0xxxxx1x
+Fault:1587 SA:0
+0010111011110111011000001111xx000
+Fault:1587 SA:1
+0011110011110111011001001111xx000
+Fault:1588 SA:0
+0xxx110xx1110x100xxxxxxxx0xxxxx1x
+Fault:1588 SA:1
+0xxx110xx1110x110xxxxxxxx0xxxxx1x
+Fault:1591 SA:0
+1111010001110110111010001111xx000
+Fault:1591 SA:1
+1110011001110110011010001111xx000
+Fault:1592 SA:0
+1111xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:1592 SA:1
+1110xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:1593 SA:0
+xxxxxxxx11111011x1xxxxx1xxxxxxxx0
+Fault:1593 SA:1
+xxxxxxxx11110011x1xxxxx1xxxxxxxx0
+Fault:1594 SA:0
+x1xx1xx11x1xx111x0xxxxxxxx1xxx01x
+Fault:1594 SA:1
+x1xx1xx10x1xx111x0xxxxxxxx1xxx01x
+Fault:1595 SA:0
+x1xx1xx11x1xx101x0xxxxxxxx1xxx01x
+Fault:1595 SA:1
+x1xx1xx10x1xx101x0xxxxxxxx1xxx01x
+Fault:1596 SA:0
+xx1xx1x0x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:1596 SA:1
+xx1xx1x1x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:1599 SA:0
+xxx1xx1x10xx11x1xxx1xx1xxxxxxx0x0
+Fault:1599 SA:1
+xxx1xx1x00xx11x1xxx1xx1xxxxxxx0x0
+Fault:1600 SA:0
+1101110011xxxx110xxx0xxxxxxxxx01x
+Fault:1600 SA:1
+1101111011xxxx110xxx0xxxxxxxxx01x
+Fault:1603 SA:0
+11011100xxxxxxxxx1xxxxx1xxxxxxxx0
+Fault:1603 SA:1
+11011110xxxxxxxxx1xxxxx1xxxxxxxx0
+Fault:1606 SA:0
+1101111011xxxx100xxx0xxxxxxxxxx1x
+Fault:1606 SA:1
+1101111011xxxx110xxx0xxxxxxxxxx1x
+Fault:1609 SA:0
+1101111011000110100101111011xx000
+Fault:1609 SA:1
+1101111011000011100101111111xx000
+Fault:1612 SA:0
+1100xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:1612 SA:1
+1110xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:1615 SA:0
+1101110101110110011000001111xx000
+Fault:1615 SA:1
+1111010001110110111010001111xx000
+Fault:1618 SA:0
+1101xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:1618 SA:1
+1100xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:1619 SA:0
+xxx1xx1x11xx11x1xxx1xx1xxxxxxx0x0
+Fault:1619 SA:1
+xxx1xx1x01xx11x1xxx1xx1xxxxxxx0x0
+Fault:1620 SA:0
+1110xxxxx1111110xxxxx0xx1xxxxx01x
+Fault:1620 SA:1
+1110xxxxx1110110xxxxx0xx1xxxxx01x
+Fault:1623 SA:0
+1110xxxxx1110111xxxxx0xx1xxxxx01x
+Fault:1623 SA:1
+1110xxxxx1110110xxxxx0xx1xxxxx01x
+Fault:1626 SA:0
+xx1xx1x0x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:1626 SA:1
+xx1xx1x1x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:1627 SA:0
+1xxx110xx1110x100xxxxxxxx0xxxxx1x
+Fault:1627 SA:1
+1xxx110xx1110x110xxxxxxxx0xxxxx1x
+Fault:1628 SA:0
+0011110001110110011000001111xx000
+Fault:1628 SA:1
+0011110011110111011001001111xx000
+Fault:1629 SA:0
+1101110011xxxx110xxx0xxxxxxxxx01x
+Fault:1629 SA:1
+1101111011xxxx110xxx0xxxxxxxxx01x
+Fault:1630 SA:0
+11011100xxxxxxxxx1xxxxx1xxxxxxxx0
+Fault:1630 SA:1
+11011110xxxxxxxxx1xxxxx1xxxxxxxx0
+Fault:1631 SA:0
+1101111011xxxx100xxx0xxxxxxxxxx1x
+Fault:1631 SA:1
+1101111011xxxx110xxx0xxxxxxxxxx1x
+Fault:1632 SA:0
+1101111011000110100101111011xx000
+Fault:1632 SA:1
+1101111011000011100101111111xx000
+Fault:1633 SA:0
+1100xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:1633 SA:1
+1110xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:1634 SA:0
+1101110101110110011000001111xx000
+Fault:1634 SA:1
+1111010001110110111010001111xx000
+Fault:1635 SA:0
+1100xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:1635 SA:1
+1101xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:1636 SA:0
+x1xx1xx11x1xx111x0xxxxxxxx1xxx01x
+Fault:1636 SA:1
+x1xx1xx11x1xx101x0xxxxxxxx1xxx01x
+Fault:1637 SA:0
+xx1xx1x0x1x1xx1xxx1xxx1xxxxxxx0x0
+Fault:1637 SA:1
+xx1xx1x1x1x1xx1xxx1xxx1xxxxxxx0x0
+Fault:1638 SA:0
+xxx1xx1x00xx11x1xxx1xx1xxxxxxx0x0
+Fault:1638 SA:1
+xxx1xx1x10xx11x1xxx1xx1xxxxxxx0x0
+Fault:1639 SA:0
+xxx1xx1x01xx11x1xxx1xx1xxxxxxx0x0
+Fault:1639 SA:1
+xxx1xx1x11xx11x1xxx1xx1xxxxxxx0x0
+Fault:1640 SA:0
+1xxx111xx1110x110xxxxxxxx0xxxxx1x
+Fault:1640 SA:1
+1xxx110xx1110x110xxxxxxxx0xxxxx1x
+Fault:1643 SA:0
+0010111011110111011000001111xx000
+Fault:1643 SA:1
+0011110011110111011001001111xx000
+Fault:1646 SA:0
+1111110011xxxx110xxx0xxxxxxxxx01x
+Fault:1646 SA:1
+1111111011xxxx110xxx0xxxxxxxxx01x
+Fault:1647 SA:0
+1111111011xxxx110xxx0xxxxxxxxx01x
+Fault:1647 SA:1
+1101111011xxxx110xxx0xxxxxxxxx01x
+Fault:1650 SA:0
+11111100xxxxxxxxx1xxxxx1xxxxxxxx0
+Fault:1650 SA:1
+11111110xxxxxxxxx1xxxxx1xxxxxxxx0
+Fault:1651 SA:0
+11111110xxxxxxxxx1xxxxx1xxxxxxxx0
+Fault:1651 SA:1
+11011110xxxxxxxxx1xxxxx1xxxxxxxx0
+Fault:1654 SA:0
+1101111001xxxx100xxx0xxxxxxxxxx1x
+Fault:1654 SA:1
+1101111001xxxx110xxx0xxxxxxxxxx1x
+Fault:1655 SA:0
+1101111001000010100100111011xx000
+Fault:1655 SA:1
+1101111001000111100100111111xx000
+Fault:1656 SA:0
+1100xxxxx1110111xxxxx0xx0xxxxxx1x
+Fault:1656 SA:1
+1110xxxxx1110111xxxxx0xx0xxxxxx1x
+Fault:1657 SA:0
+1101110111110111111000001111xx000
+Fault:1657 SA:1
+1111010011110111011010001111xx000
+Fault:1658 SA:0
+xxxxxxxx11111011x1xxxxx1xxxxxxxx0
+Fault:1658 SA:1
+xxxxxxxx11111010x1xxxxx1xxxxxxxx0
+Fault:1661 SA:0
+1xxx110xx1111x110xxxxxxxx0xxxxx1x
+Fault:1661 SA:1
+1xxx110xx1110x110xxxxxxxx0xxxxx1x
+Fault:1664 SA:0
+0101110011111111001111101111xx010
+Fault:1664 SA:1
+0011110011110111011001001111xx000
+Fault:1667 SA:0
+1110xxxxx1111110xxxxx0xx0xxxxxx1x
+Fault:1667 SA:1
+1110xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:1668 SA:0
+11110100111111100010000x1111xx000
+Fault:1668 SA:1
+1111010001110110111010001111xx000
+Fault:1669 SA:0
+1110xxxxx1110111xxxxx0xx0xxxxxx1x
+Fault:1669 SA:1
+1110xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:1670 SA:0
+1111010011110111011010001111xx000
+Fault:1670 SA:1
+1111010001110110111010001111xx000
+Fault:1671 SA:0
+xx1xx1x1x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:1671 SA:1
+xx1xx1x0x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:1672 SA:0
+xx1xx1x1x1x1xx1xxx1xxx1xxxxxxx0x0
+Fault:1672 SA:1
+xx1xx1x0x1x1xx1xxx1xxx1xxxxxxx0x0
+Fault:1673 SA:0
+0010111011110111011000001111xx000
+Fault:1673 SA:1
+0011110011110111011001001111xx000
+Fault:1674 SA:0
+1111111011xxxx110xxx0xxxxxxxxx01x
+Fault:1674 SA:1
+1101111011xxxx110xxx0xxxxxxxxx01x
+Fault:1675 SA:0
+1111111011xxxx110xxx0xxxxxxxxx01x
+Fault:1675 SA:1
+1111110011xxxx110xxx0xxxxxxxxx01x
+Fault:1676 SA:0
+11111110xxxxxxxxx1xxxxx1xxxxxxxx0
+Fault:1676 SA:1
+11011110xxxxxxxxx1xxxxx1xxxxxxxx0
+Fault:1677 SA:0
+11111110xxxxxxxxx1xxxxx1xxxxxxxx0
+Fault:1677 SA:1
+11111100xxxxxxxxx1xxxxx1xxxxxxxx0
+Fault:1678 SA:0
+1101111011xxxx110xxx0xxxxxxxxxx1x
+Fault:1678 SA:1
+1101111011xxxx100xxx0xxxxxxxxxx1x
+Fault:1679 SA:0
+1101111001xxxx110xxx0xxxxxxxxxx1x
+Fault:1679 SA:1
+1101111001xxxx100xxx0xxxxxxxxxx1x
+Fault:1680 SA:0
+1101111011000011100101111111xx000
+Fault:1680 SA:1
+1101111011000110100101111011xx000
+Fault:1681 SA:0
+1101111001000111100100111111xx000
+Fault:1681 SA:1
+1101111001000010100100111011xx000
+Fault:1682 SA:0
+1110xxxxx1110111xxxxx0xx0xxxxxx1x
+Fault:1682 SA:1
+1100xxxxx1110111xxxxx0xx0xxxxxx1x
+Fault:1683 SA:0
+1111010011110111011010001111xx000
+Fault:1683 SA:1
+1101110111110111111000001111xx000
+Fault:1684 SA:0
+xxxxxxxx11111011x1xxxxx1xxxxxxxx0
+Fault:1684 SA:1
+xxxxxxxx11111010x1xxxxx1xxxxxxxx0
+Fault:1685 SA:0
+x1xx1xx10x1xx111x0xxxxxxxx1xxx01x
+Fault:1685 SA:1
+x1xx1xx11x1xx111x0xxxxxxxx1xxx01x
+Fault:1688 SA:0
+xxx1xx1x00xx11x1xxx1xx1xxxxxxx0x0
+Fault:1688 SA:1
+xxx1xx1x01xx11x1xxx1xx1xxxxxxx0x0
+Fault:1689 SA:0
+1xxx111xx1111x110xxxxxxxx0xxxxx1x
+Fault:1689 SA:1
+1xxx110xx1111x110xxxxxxxx0xxxxx1x
+Fault:1690 SA:0
+1xxx111xx1110x110xxxxxxxx0xxxxx1x
+Fault:1690 SA:1
+1xxx110xx1110x110xxxxxxxx0xxxxx1x
+Fault:1691 SA:0
+1xxx110xx1111x110xxxxxxxx0xxxxx1x
+Fault:1691 SA:1
+1xxx110xx1110x110xxxxxxxx0xxxxx1x
+Fault:1692 SA:0
+0110111111111111001111101101xx010
+Fault:1692 SA:1
+0101110011111111001111101111xx010
+Fault:1693 SA:0
+0101110011111111001111101111xx010
+Fault:1693 SA:1
+0011110011110111011001001111xx000
+Fault:1694 SA:0
+1111110011xxxx110xxx0xxxxxxxxx01x
+Fault:1694 SA:1
+1101110011xxxx110xxx0xxxxxxxxx01x
+Fault:1695 SA:0
+11111100xxxxxxxxx1xxxxx1xxxxxxxx0
+Fault:1695 SA:1
+11011100xxxxxxxxx1xxxxx1xxxxxxxx0
+Fault:1696 SA:0
+xxxxxxxx11110011x1xxxxx1xxxxxxxx0
+Fault:1696 SA:1
+xxxxxxxx11110010x1xxxxx1xxxxxxxx0
+Fault:1697 SA:0
+1xxx110xx1110x100xxxxxxxx0xxxxx1x
+Fault:1697 SA:1
+1xxx110xx1110x110xxxxxxxx0xxxxx1x
+Fault:1700 SA:0
+1xxx110xx1111x100xxxxxxxx0xxxxx1x
+Fault:1700 SA:1
+1xxx110xx1110x100xxxxxxxx0xxxxx1x
+Fault:1701 SA:0
+0011110001110110011000001111xx000
+Fault:1701 SA:1
+0011110011110111011001001111xx000
+Fault:1704 SA:0
+0101110001111110001110101111xx010
+Fault:1704 SA:1
+0011110001110110011000001111xx000
+Fault:1705 SA:0
+x1xx1xx10x1xx111x0xxxxxxxx1xxx01x
+Fault:1705 SA:1
+x1xx1xx11x1xx111x0xxxxxxxx1xxx01x
+Fault:1706 SA:0
+xx1xx1x1x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:1706 SA:1
+xx1xx1x1x1x1xx1xxx1xxx1xxxxxxx0x0
+Fault:1707 SA:0
+0101110011111111001111101111xx010
+Fault:1707 SA:1
+0110111111111111001111101101xx010
+Fault:1708 SA:0
+1101111011xxxx110xxx0xxxxxxxxx01x
+Fault:1708 SA:1
+1111111011xxxx110xxx0xxxxxxxxx01x
+Fault:1709 SA:0
+1101110011xxxx110xxx0xxxxxxxxx01x
+Fault:1709 SA:1
+1111110011xxxx110xxx0xxxxxxxxx01x
+Fault:1710 SA:0
+11011110xxxxxxxxx1xxxxx1xxxxxxxx0
+Fault:1710 SA:1
+11111110xxxxxxxxx1xxxxx1xxxxxxxx0
+Fault:1711 SA:0
+11011100xxxxxxxxx1xxxxx1xxxxxxxx0
+Fault:1711 SA:1
+11111100xxxxxxxxx1xxxxx1xxxxxxxx0
+Fault:1712 SA:0
+1101111011xxxx110xxx0xxxxxxxxxx1x
+Fault:1712 SA:1
+1101111001xxxx110xxx0xxxxxxxxxx1x
+Fault:1713 SA:0
+1101111011000011100101111111xx000
+Fault:1713 SA:1
+1101111001000111100100111111xx000
+Fault:1714 SA:0
+1110xxxxx1111110xxxxx0xx0xxxxxx1x
+Fault:1714 SA:1
+1110xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:1717 SA:0
+11110100111111100010000x1111xx000
+Fault:1717 SA:1
+1111010001110110111010001111xx000
+Fault:1720 SA:0
+xxxxxxxx11111010x1xxxxx1xxxxxxxx0
+Fault:1720 SA:1
+xxxxxxxx11111011x1xxxxx1xxxxxxxx0
+Fault:1721 SA:0
+xxxxxxxx11110010x1xxxxx1xxxxxxxx0
+Fault:1721 SA:1
+xxxxxxxx11110011x1xxxxx1xxxxxxxx0
+Fault:1722 SA:0
+x1xx1xx00x1xx111x0xxxxxxxx1xxx01x
+Fault:1722 SA:1
+x1xx1xx01x1xx111x0xxxxxxxx1xxx01x
+Fault:1723 SA:0
+xxx1xx1x10xx11x1xxx1xx1xxxxxxx0x0
+Fault:1723 SA:1
+xxx1xx1x00xx11x1xxx1xx1xxxxxxx0x0
+Fault:1726 SA:0
+1xxx110xx1110x100xxxxxxxx0xxxxx1x
+Fault:1726 SA:1
+1xxx110xx1110x110xxxxxxxx0xxxxx1x
+Fault:1727 SA:0
+1xxx110xx1110x100xxxxxxxx0xxxxx1x
+Fault:1727 SA:1
+1xxx110xx1111x100xxxxxxxx0xxxxx1x
+Fault:1728 SA:0
+1xxx110xx1111x110xxxxxxxx0xxxxx1x
+Fault:1728 SA:1
+1xxx111xx1111x110xxxxxxxx0xxxxx1x
+Fault:1729 SA:0
+0011110001110110011000001111xx000
+Fault:1729 SA:1
+0011110011110111011001001111xx000
+Fault:1730 SA:0
+0011110001110110011000001111xx000
+Fault:1730 SA:1
+0101110001111110001110101111xx010
+Fault:1731 SA:0
+1110xxxxx1110111xxxxx0xx0xxxxxx1x
+Fault:1731 SA:1
+1110xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:1734 SA:0
+1111010011110111011010001111xx000
+Fault:1734 SA:1
+1111010001110110111010001111xx000
+Fault:1737 SA:0
+1xxx110xx1111x100xxxxxxxx0xxxxx1x
+Fault:1737 SA:1
+1xxx110xx1111x110xxxxxxxx0xxxxx1x
+Fault:1738 SA:0
+0101110001111110001110101111xx010
+Fault:1738 SA:1
+0101110011111111001111101111xx010
+Fault:1739 SA:0
+11110100111111100010000x1111xx000
+Fault:1739 SA:1
+1111010001110110111010001111xx000
+Fault:1740 SA:0
+x1xx1xx11x1xx111x0xxxxxxxx1xxx01x
+Fault:1740 SA:1
+x1xx1xx10x1xx111x0xxxxxxxx1xxx01x
+Fault:1741 SA:0
+x1xx1xx01x1xx111x0xxxxxxxx1xxx01x
+Fault:1741 SA:1
+x1xx1xx00x1xx111x0xxxxxxxx1xxx01x
+Fault:1742 SA:0
+xx1xx1x0x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:1742 SA:1
+xx1xx1x1x1x1xx1xxx0xxxxxxxx1xx01x
+Fault:1745 SA:0
+xxx1xx1x10xx11x1xxx1xx1xxxxxxx0x0
+Fault:1745 SA:1
+xxx1xx1x00xx11x1xxx1xx1xxxxxxx0x0
+Fault:1746 SA:0
+1101111011xxxx110xxx0xxxxxxxxx01x
+Fault:1746 SA:1
+1101110011xxxx110xxx0xxxxxxxxx01x
+Fault:1747 SA:0
+11011110xxxxxxxxx1xxxxx1xxxxxxxx0
+Fault:1747 SA:1
+11011100xxxxxxxxx1xxxxx1xxxxxxxx0
+Fault:1748 SA:0
+1101111011xxxx100xxx0xxxxxxxxxx1x
+Fault:1748 SA:1
+1101111011xxxx110xxx0xxxxxxxxxx1x
+Fault:1751 SA:0
+1101111011000110100101111011xx000
+Fault:1751 SA:1
+1101111011000011100101111111xx000
+Fault:1754 SA:0
+1100xxxxx1111110xxxxx0xx0xxxxxx1x
+Fault:1754 SA:1
+1100xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:1755 SA:0
+1110xxxxx1111110xxxxx0xx0xxxxxx1x
+Fault:1755 SA:1
+1110xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:1756 SA:0
+1110xxxxx1110111xxxxx0xx0xxxxxx1x
+Fault:1756 SA:1
+1110xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:1757 SA:0
+1101110111111110101010001111xx000
+Fault:1757 SA:1
+1101110101110110011000001111xx000
+Fault:1758 SA:0
+1111010011110111011010001111xx000
+Fault:1758 SA:1
+1111010001110110111010001111xx000
+Fault:1759 SA:0
+xxxxxxxx11111010x1xxxxx1xxxxxxxx0
+Fault:1759 SA:1
+xxxxxxxx11110010x1xxxxx1xxxxxxxx0
+Fault:1760 SA:0
+xxx1xx1x10xx11x1xx10xx0xxxxxxx01x
+Fault:1760 SA:1
+xxx1xx1x00xx11x1xx10xx0xxxxxxx01x
+Fault:1761 SA:0
+1xxx110xx1111x110xxxxxxxx0xxxxx1x
+Fault:1761 SA:1
+1xxx110xx1111x100xxxxxxxx0xxxxx1x
+Fault:1762 SA:0
+1xxx110xx1110x110xxxxxxxx0xxxxx1x
+Fault:1762 SA:1
+1xxx110xx1110x100xxxxxxxx0xxxxx1x
+Fault:1763 SA:0
+0101110011111111001111101111xx010
+Fault:1763 SA:1
+0101110001111110001110101111xx010
+Fault:1764 SA:0
+0011110011110111011001001111xx000
+Fault:1764 SA:1
+0011110001110110011000001111xx000
+Fault:1765 SA:0
+1100xxxxx1110111xxxxx0xx0xxxxxx1x
+Fault:1765 SA:1
+1100xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:1766 SA:0
+1101110111110111111000001111xx000
+Fault:1766 SA:1
+1101110101110110011000001111xx000
+Fault:1767 SA:0
+1101111011000110100101111011xx000
+Fault:1767 SA:1
+1101111011000011100101111111xx000
+Fault:1768 SA:0
+1101110101110110011000001111xx000
+Fault:1768 SA:1
+1101110111111110101010001111xx000
+Fault:1769 SA:0
+x1xx1xx11x1xx111x0xxxxxxxx1xxx01x
+Fault:1769 SA:1
+x1xx1xx01x1xx111x0xxxxxxxx1xxx01x
+Fault:1770 SA:0
+xx1xx1x0x1x1xx1xxx0xxxxxxxx0xxx1x
+Fault:1770 SA:1
+xx1xx1x1x1x1xx1xxx0xxxxxxxx0xxx1x
+Fault:1771 SA:0
+0111010001111111000111111111xx010
+Fault:1771 SA:1
+1111110101111111000100111111xx010
+Fault:1772 SA:0
+xxx1xx1x00xx11x1xxx1xx1xxxxxxx0x0
+Fault:1772 SA:1
+xxx1xx1x10xx11x1xxx1xx1xxxxxxx0x0
+Fault:1773 SA:0
+xxx1xx1x00xx11x1xx10xx0xxxxxxx01x
+Fault:1773 SA:1
+xxx1xx1x10xx11x1xx10xx0xxxxxxx01x
+Fault:1774 SA:0
+1111111011xxxx110xxx0xxxxxxxxx01x
+Fault:1774 SA:1
+1101111011xxxx110xxx0xxxxxxxxx01x
+Fault:1777 SA:0
+11111110xxxxxxxxx1xxxxx1xxxxxxxx0
+Fault:1777 SA:1
+11011110xxxxxxxxx1xxxxx1xxxxxxxx0
+Fault:1780 SA:0
+1101111011xxxx100xxx0xxxxxxxxxx1x
+Fault:1780 SA:1
+1101111011xxxx110xxx0xxxxxxxxxx1x
+Fault:1781 SA:0
+1101111011xxxx100xxx1xxxxxxxxxxx0
+Fault:1781 SA:1
+1101111011xxxx110xxx1xxxxxxxxxxx0
+Fault:1782 SA:0
+1101111011000110100111111011xx000
+Fault:1782 SA:1
+1101111011000011100111111111xx000
+Fault:1783 SA:0
+1100xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:1783 SA:1
+1100xxxxx1110111xxxxx0xx0xxxxxx1x
+Fault:1784 SA:0
+1110xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:1784 SA:1
+1110xxxxx1110111xxxxx0xx0xxxxxx1x
+Fault:1785 SA:0
+1100xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:1785 SA:1
+1100xxxxx1111110xxxxx0xx0xxxxxx1x
+Fault:1786 SA:0
+1101110101110110011000001111xx000
+Fault:1786 SA:1
+1101110111110111111000001111xx000
+Fault:1787 SA:0
+1111010001110110111010001111xx000
+Fault:1787 SA:1
+1111010011110111011010001111xx000
+Fault:1788 SA:0
+xxxxxxxx11111011x1xxxxx1xxxxxxxx0
+Fault:1788 SA:1
+xxxxxxxx11111010x1xxxxx1xxxxxxxx0
+Fault:1791 SA:0
+1xxx110xx1110x110xxxxxxxx0xxxxx1x
+Fault:1791 SA:1
+1xxx110xx1111x110xxxxxxxx0xxxxx1x
+Fault:1792 SA:0
+0011110011110111011001001111xx000
+Fault:1792 SA:1
+0101110011111111001111101111xx010
+Fault:1793 SA:0
+11111110xxxxxxxxx1xxxxx1xxxxxxxx0
+Fault:1793 SA:1
+11011110xxxxxxxxx1xxxxx1xxxxxxxx0
+Fault:1794 SA:0
+1111111011xxxx110xxx0xxxxxxxxx01x
+Fault:1794 SA:1
+1101111011xxxx110xxx0xxxxxxxxx01x
+Fault:1795 SA:0
+1101111011000011100101111111xx000
+Fault:1795 SA:1
+1101111011000110100101111011xx000
+Fault:1796 SA:0
+1101111011000011100111111111xx000
+Fault:1796 SA:1
+1101111011000110100111111011xx000
+Fault:1797 SA:0
+xxxxxxxx11111011x1xxxxx1xxxxxxxx0
+Fault:1797 SA:1
+xxxxxxxx11111010x1xxxxx1xxxxxxxx0
+Fault:1798 SA:0
+x1xx1xx10x1xx111x0xxxxxxxx1xxx01x
+Fault:1798 SA:1
+x1xx1xx11x1xx111x0xxxxxxxx1xxx01x
+Fault:1801 SA:0
+xxx1xx1x00xx11x1xxx1xx1xxxxxxx0x0
+Fault:1801 SA:1
+xxx1xx1x00xx11x1xx10xx0xxxxxxx01x
+Fault:1802 SA:0
+1111110101111111000100111111xx010
+Fault:1802 SA:1
+0111010001111111000111111111xx010
+Fault:1805 SA:0
+1111111111xxxx110xxx0xxxxxxxxx01x
+Fault:1805 SA:1
+1101111111xxxx110xxx0xxxxxxxxx01x
+Fault:1806 SA:0
+11111111xxxxxxxxx1xxxxx1xxxxxxxx0
+Fault:1806 SA:1
+11011111xxxxxxxxx1xxxxx1xxxxxxxx0
+Fault:1807 SA:0
+1101111011xxxx110xxx1xxxxxxxxxxx0
+Fault:1807 SA:1
+1101111011xxxx100xxx1xxxxxxxxxxx0
+Fault:1808 SA:0
+1101111011xxxx110xxx0xxxxxxxxxx1x
+Fault:1808 SA:1
+1101111011xxxx100xxx0xxxxxxxxxx1x
+Fault:1809 SA:0
+1110xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:1809 SA:1
+1100xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:1810 SA:0
+1111010001110110111010001111xx000
+Fault:1810 SA:1
+1101110101110110011000001111xx000
+Fault:1811 SA:0
+xxxxxxxx11111111x1xxxxx1xxxxxxxx0
+Fault:1811 SA:1
+xxxxxxxx11111110x1xxxxx1xxxxxxxx0
+Fault:1812 SA:0
+1xxx110xx1111x110xxxxxxxx0xxxxx1x
+Fault:1812 SA:1
+1xxx110xx1110x110xxxxxxxx0xxxxx1x
+Fault:1815 SA:0
+0101110011111111001111101111xx010
+Fault:1815 SA:1
+0011110011110111011001001111xx000
+Fault:1818 SA:0
+xx1xx1x0x1x1xx1xxx0xxxxxxxx0xxx1x
+Fault:1818 SA:1
+xx1xx1x1x1x1xx1xxx0xxxxxxxx0xxx1x
+Fault:1821 SA:0
+11011110xxxxxxxxx1xxxxx1xxxxxxxx0
+Fault:1821 SA:1
+11111110xxxxxxxxx1xxxxx1xxxxxxxx0
+Fault:1822 SA:0
+11011111xxxxxxxxx1xxxxx1xxxxxxxx0
+Fault:1822 SA:1
+11111111xxxxxxxxx1xxxxx1xxxxxxxx0
+Fault:1823 SA:0
+1101111011xxxx110xxx0xxxxxxxxx01x
+Fault:1823 SA:1
+1111111011xxxx110xxx0xxxxxxxxx01x
+Fault:1824 SA:0
+1101111111xxxx110xxx0xxxxxxxxx01x
+Fault:1824 SA:1
+1111111111xxxx110xxx0xxxxxxxxx01x
+Fault:1825 SA:0
+1101111011000011100101111111xx000
+Fault:1825 SA:1
+1101111011000011100111111111xx000
+Fault:1826 SA:0
+xxxxxxxx11111010x1xxxxx1xxxxxxxx0
+Fault:1826 SA:1
+xxxxxxxx11111011x1xxxxx1xxxxxxxx0
+Fault:1827 SA:0
+xxxxxxxx11111110x1xxxxx1xxxxxxxx0
+Fault:1827 SA:1
+xxxxxxxx11111111x1xxxxx1xxxxxxxx0
+Fault:1828 SA:0
+x1xx1xx10x1xx111x0xxxxxxxx0xxxx1x
+Fault:1828 SA:1
+x1xx1xx11x1xx111x0xxxxxxxx0xxxx1x
+Fault:1829 SA:0
+0111101101110111000110111111xx010
+Fault:1829 SA:1
+0111101110100111000110111111xx010
+Fault:1830 SA:0
+xxx1xx1x10xx11x1xxx1xx1xxxxxxx0x0
+Fault:1830 SA:1
+xxx1xx1x00xx11x1xxx1xx1xxxxxxx0x0
+Fault:1833 SA:0
+0101110011111111001111101111xx010
+Fault:1833 SA:1
+0011110011110111011001001111xx000
+Fault:1834 SA:0
+xx1xx1x0x1x1xx1xxx0xxxxxxxx0xxx1x
+Fault:1834 SA:1
+xx1xx1x1x1x1xx1xxx0xxxxxxxx0xxx1x
+Fault:1835 SA:0
+0110111101111111100011011111xx010
+Fault:1835 SA:1
+0111010001111111100010011111xx010
+Fault:1836 SA:0
+11111101011111110001001x1111xx000
+Fault:1836 SA:1
+01110100011111110001111x1111xx000
+Fault:1837 SA:0
+1101111011xxxx110xxx0xxxxxxxxxx1x
+Fault:1837 SA:1
+1101111011xxxx110xxx1xxxxxxxxxxx0
+Fault:1838 SA:0
+1100xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:1838 SA:1
+1110xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:1841 SA:0
+1101110101110110011000001111xx000
+Fault:1841 SA:1
+1111010001110110111010001111xx000
+Fault:1844 SA:0
+1xxx110xx1111x110xxxxxxxx0xxxxx1x
+Fault:1844 SA:1
+1xxx110xx1110x110xxxxxxxx0xxxxx1x
+Fault:1845 SA:0
+1xxx111xx1111x110xxxxxxxx0xxxxx1x
+Fault:1845 SA:1
+1xxx111xx1110x110xxxxxxxx0xxxxx1x
+Fault:1846 SA:0
+0110111111111111001111101101xx010
+Fault:1846 SA:1
+0010111011110111011000001111xx000
+Fault:1847 SA:0
+xx1xx1x0x1x1xx1x1000xx0x10010x111
+Fault:1847 SA:1
+xx1xx1x1x1x1xx1x1000xx0x10010x111
+Fault:1848 SA:0
+11011110xxxxxxxxx1xxxxx1xxxxxxxx0
+Fault:1848 SA:1
+11011111xxxxxxxxx1xxxxx1xxxxxxxx0
+Fault:1849 SA:0
+1101111011xxxx110xxx0xxxxxxxxx01x
+Fault:1849 SA:1
+1101111111xxxx110xxx0xxxxxxxxx01x
+Fault:1850 SA:0
+1101111011000110100101111011xx000
+Fault:1850 SA:1
+1101111011000011100101111111xx000
+Fault:1851 SA:0
+1101110101110110011000001111xx000
+Fault:1851 SA:1
+1111010001110110111010001111xx000
+Fault:1852 SA:0
+xxxxxxxx11111010x1xxxxx1xxxxxxxx0
+Fault:1852 SA:1
+xxxxxxxx11111110x1xxxxx1xxxxxxxx0
+Fault:1853 SA:0
+xxx1xx1x10xx11x1xx01xx1xxxxxxxxx0
+Fault:1853 SA:1
+xxx1xx1x00xx11x1xx01xx1xxxxxxxxx0
+Fault:1854 SA:0
+1111011010111101000100111111xx010
+Fault:1854 SA:1
+1111011000111101010110101111xx000
+Fault:1855 SA:0
+0011110011110111011001001111xx000
+Fault:1855 SA:1
+0101110011111111001111101111xx010
+Fault:1856 SA:0
+0010111011110111011000001111xx000
+Fault:1856 SA:1
+0110111111111111001111101101xx010
+Fault:1857 SA:0
+xx1xx1x1x1x1xx1x1000xx0x10010x111
+Fault:1857 SA:1
+xx1xx1x0x1x1xx1x1000xx0x10010x111
+Fault:1858 SA:0
+0111101110101111100110101111xx010
+Fault:1858 SA:1
+0111101101110111000110111111xx010
+Fault:1861 SA:0
+1100xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:1861 SA:1
+1110xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:1862 SA:0
+1100xxxxx1111110xxxxx0xx0xxxxxx1x
+Fault:1862 SA:1
+1110xxxxx1111110xxxxx0xx0xxxxxx1x
+Fault:1863 SA:0
+1101110111111110101010001111xx000
+Fault:1863 SA:1
+11110100111111100010000x1111xx000
+Fault:1864 SA:0
+1xxx111xx1110x110xxxxxxxx0xxxxx1x
+Fault:1864 SA:1
+1xxx111xx1111x110xxxxxxxx0xxxxx1x
+Fault:1865 SA:0
+1xxx110xx1110x110xxxxxxxx0xxxxx1x
+Fault:1865 SA:1
+1xxx110xx1111x110xxxxxxxx0xxxxx1x
+Fault:1866 SA:0
+x1xx1xx10x1xx111x0xxxxxxxx0xxxx1x
+Fault:1866 SA:1
+x1xx1xx11x1xx111x0xxxxxxxx0xxxx1x
+Fault:1869 SA:0
+0110111101111111100011011111xx010
+Fault:1869 SA:1
+0111010001111111100010011111xx010
+Fault:1872 SA:0
+11111101011111110001001x1111xx000
+Fault:1872 SA:1
+01110100011111110001111x1111xx000
+Fault:1875 SA:0
+1101111011xxxx100xxx0xxxxxxxxxx1x
+Fault:1875 SA:1
+1101111011xxxx110xxx0xxxxxxxxxx1x
+Fault:1878 SA:0
+11111110xxxxxxxxx1xxxxx1xxxxxxxx0
+Fault:1878 SA:1
+11011110xxxxxxxxx1xxxxx1xxxxxxxx0
+Fault:1879 SA:0
+1111111011xxxx110xxx0xxxxxxxxx01x
+Fault:1879 SA:1
+1101111011xxxx110xxx0xxxxxxxxx01x
+Fault:1882 SA:0
+1111010001110110111010001111xx000
+Fault:1882 SA:1
+1101110101110110011000001111xx000
+Fault:1883 SA:0
+11110100111111100010000x1111xx000
+Fault:1883 SA:1
+1101110111111110101010001111xx000
+Fault:1884 SA:0
+xxxxxxxx11111011x1xxxxx1xxxxxxxx0
+Fault:1884 SA:1
+xxxxxxxx11111010x1xxxxx1xxxxxxxx0
+Fault:1885 SA:0
+0011110011110111011001001111xx000
+Fault:1885 SA:1
+0010111011110111011000001111xx000
+Fault:1886 SA:0
+x1xx1xx10x1xx111x0xxxxxxxx0xxxx1x
+Fault:1886 SA:1
+x1xx1xx11x1xx111x0xxxxxxxx0xxxx1x
+Fault:1887 SA:0
+0110100111111111100001011111xx010
+Fault:1887 SA:1
+0110100101111111100011011011xx010
+Fault:1888 SA:0
+01111011101001110001101x1111xx000
+Fault:1888 SA:1
+01111011011101110001101x1111xx000
+Fault:1889 SA:0
+xxx1xx1x00xx11x10011xx100000xx110
+Fault:1889 SA:1
+1111011010111101000100111111xx010
+Fault:1892 SA:0
+11111101011111110001001x1111xx000
+Fault:1892 SA:1
+01110100011111110001111x1111xx000
+Fault:1893 SA:0
+0110111101111111100011011111xx010
+Fault:1893 SA:1
+0111010001111111100010011111xx010
+Fault:1894 SA:0
+1101111011xxxx100xxx0xxxxxxxxxx1x
+Fault:1894 SA:1
+1101111011xxxx110xxx0xxxxxxxxxx1x
+Fault:1895 SA:0
+1110xxxxx1111110xxxxx0xx0xxxxxx1x
+Fault:1895 SA:1
+1100xxxxx1111110xxxxx0xx0xxxxxx1x
+Fault:1896 SA:0
+1110xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:1896 SA:1
+1100xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:1897 SA:0
+1xxx110xx1110x110xxxxxxxx0xxxxx1x
+Fault:1897 SA:1
+1xxx111xx1110x110xxxxxxxx0xxxxx1x
+Fault:1898 SA:0
+1101111011000011100101111111xx000
+Fault:1898 SA:1
+1101111011000110100101111011xx000
+Fault:1901 SA:0
+x1xx1xx10x1xx1111000xx0x10100x111
+Fault:1901 SA:1
+x1xx1xx11x1xx1111000xx0x10100x111
+Fault:1902 SA:0
+xxx1xx1x10xx11x1xx01xx1xxxxxxxxx0
+Fault:1902 SA:1
+xxx1xx1x00xx11x1xx01xx1xxxxxxxxx0
+Fault:1905 SA:0
+0110111101111111100011011110xx010
+Fault:1905 SA:1
+0111010001111111100010011110xx010
+Fault:1906 SA:0
+11111101011111110001001x1110xx000
+Fault:1906 SA:1
+01110100011111110001111x1110xx000
+Fault:1907 SA:0
+1111111011xxxx100xxx0xxxxxxxxxx1x
+Fault:1907 SA:1
+1111111011xxxx110xxx0xxxxxxxxxx1x
+Fault:1908 SA:0
+1111111011xxxx110xxx0xxxxxxxxxx1x
+Fault:1908 SA:1
+1101111011xxxx110xxx0xxxxxxxxxx1x
+Fault:1909 SA:0
+1111111011010110100101111111xx000
+Fault:1909 SA:1
+1101111011000110100101111011xx000
+Fault:1910 SA:0
+11011110xxxxxxxxx1xxxxx1xxxxxxxx0
+Fault:1910 SA:1
+11111110xxxxxxxxx1xxxxx1xxxxxxxx0
+Fault:1911 SA:0
+1111010001110110111010001111xx000
+Fault:1911 SA:1
+11110100111111100010000x1111xx000
+Fault:1912 SA:0
+xxxxxxxx11111010x1xxxxx1xxxxxxxx0
+Fault:1912 SA:1
+xxxxxxxx11111011x1xxxxx1xxxxxxxx0
+Fault:1913 SA:0
+0101110011111111001111101111xx010
+Fault:1913 SA:1
+0011110011110111011001001111xx000
+Fault:1914 SA:0
+1101111011000011100101111111xx000
+Fault:1914 SA:1
+1101111011000110100101111011xx000
+Fault:1915 SA:0
+x1xx1xx11x1xx1111000xx0x10100x111
+Fault:1915 SA:1
+x1xx1xx10x1xx1111000xx0x10100x111
+Fault:1916 SA:0
+xxx1xx1x10xx11x1xx01xx1xxxxxxxxx0
+Fault:1916 SA:1
+xxx1xx1x00xx11x1xx01xx1xxxxxxxxx0
+Fault:1917 SA:0
+xxx1xx1x00xx11x10011xx100000xx110
+Fault:1917 SA:1
+1111101010111101001111101111xx010
+Fault:1918 SA:0
+0111111100111101011101101111xx000
+Fault:1918 SA:1
+11110110101111010001001x1111xx000
+Fault:1919 SA:0
+01110100011111110001111x1111xx000
+Fault:1919 SA:1
+11111101011111110001001x1111xx000
+Fault:1920 SA:0
+01110100011111110001111x1110xx000
+Fault:1920 SA:1
+11111101011111110001001x1110xx000
+Fault:1921 SA:0
+0111010001111111100010011111xx010
+Fault:1921 SA:1
+0110111101111111100011011111xx010
+Fault:1922 SA:0
+0111010001111111100010011110xx010
+Fault:1922 SA:1
+0110111101111111100011011110xx010
+Fault:1923 SA:0
+1111111011xxxx110xxx0xxxxxxxxxx1x
+Fault:1923 SA:1
+1111111011xxxx100xxx0xxxxxxxxxx1x
+Fault:1924 SA:0
+1110xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:1924 SA:1
+1110xxxxx1111110xxxxx0xx0xxxxxx1x
+Fault:1925 SA:0
+1111111011010011100101111011xx000
+Fault:1925 SA:1
+1111111011010110100101111111xx000
+Fault:1926 SA:0
+xxx1xx1x10xx01x11010xx0x10000x111
+Fault:1926 SA:1
+xxx1xx1x00xx01x11010xx0x10000x111
+Fault:1927 SA:0
+0110100111111111100001011111xx010
+Fault:1927 SA:1
+0110100101111111100011011011xx010
+Fault:1930 SA:0
+01111011101001110001101x1111xx000
+Fault:1930 SA:1
+01111011011101110001101x1111xx000
+Fault:1933 SA:0
+1xxx110xx1111x110xxxxxxxx0xxxxx1x
+Fault:1933 SA:1
+1xxx110xx1110x110xxxxxxxx0xxxxx1x
+Fault:1936 SA:0
+1101110101110110011000001111xx000
+Fault:1936 SA:1
+1111010001110110111010001111xx000
+Fault:1937 SA:0
+1111111011010110100101111111xx000
+Fault:1937 SA:1
+1111111011010011100101111011xx000
+Fault:1938 SA:0
+xxx1xx1x00xx01x11010xx0x10000x111
+Fault:1938 SA:1
+xxx1xx1x10xx01x11010xx0x10000x111
+Fault:1939 SA:0
+01111011101001110001101x1111xx000
+Fault:1939 SA:1
+01111011011101110001101x1111xx000
+Fault:1940 SA:0
+0110100111111111100001011111xx010
+Fault:1940 SA:1
+0110100101111111100011011011xx010
+Fault:1941 SA:0
+01110100011111110001111x1111xx000
+Fault:1941 SA:1
+01110100011111110001111x1110xx000
+Fault:1942 SA:0
+0111010001111111100010011111xx010
+Fault:1942 SA:1
+0111010001111111100010011110xx010
+Fault:1943 SA:0
+1xxx110xx1111x110xxxxxxxx0xxxxx1x
+Fault:1943 SA:1
+1xxx110xx1110x110xxxxxxxx0xxxxx1x
+Fault:1944 SA:0
+1111111011010110100101111111xx000
+Fault:1944 SA:1
+1101111011000110100101111011xx000
+Fault:1947 SA:0
+0011110011110111011001001111xx000
+Fault:1947 SA:1
+0101110011111111001111101111xx010
+Fault:1950 SA:0
+xxx1xx1x00xx11x10011xx100000xx110
+Fault:1950 SA:1
+1111101010111101001111101111xx010
+Fault:1953 SA:0
+0111111100111101011101101111xx000
+Fault:1953 SA:1
+11110110101111010001001x1111xx000
+Fault:1956 SA:0
+0110100111111111100001011101xx010
+Fault:1956 SA:1
+0110100101111111100011011001xx010
+Fault:1957 SA:0
+01111011101001110001101x1101xx000
+Fault:1957 SA:1
+01111011011101110001101x1101xx000
+Fault:1958 SA:0
+1111111011xxxx110xxx0xxxxxxxxxx1x
+Fault:1958 SA:1
+1101111011xxxx110xxx0xxxxxxxxxx1x
+Fault:1961 SA:0
+1100xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:1961 SA:1
+1110xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:1964 SA:0
+1xxx110xx1111x111000xx0x11000x111
+Fault:1964 SA:1
+1xxx110xx1110x111000xx0x11000x111
+Fault:1965 SA:0
+11011110xxxxxxxxx1xxxxx1xxxxxxxx0
+Fault:1965 SA:1
+11111110xxxxxxxxx1xx1xx1xxxx1xxxx
+Fault:1968 SA:0
+xxxxxxxx11111010x1xxxxx1xxxxxxxx0
+Fault:1968 SA:1
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxx0xx1
+Fault:1971 SA:0
+1111111011010110100101111111xx000
+Fault:1971 SA:1
+1101111011000110100101111011xx000
+Fault:1972 SA:0
+0011110011110111011001001111xx000
+Fault:1972 SA:1
+0101110011111111001111101111xx010
+Fault:1973 SA:0
+0111011000110101011000001111xx000
+Fault:1973 SA:1
+Fault:1974 SA:0
+xxx1xx1x00xx11x10011xx100000xx110
+Fault:1974 SA:1
+Fault:1975 SA:0
+01111011011101110001101x1111xx000
+Fault:1975 SA:1
+01111011101001110001101x1111xx000
+Fault:1976 SA:0
+01111011011101110001101x1101xx000
+Fault:1976 SA:1
+01111011101001110001101x1101xx000
+Fault:1977 SA:0
+0110100101111111100011011011xx010
+Fault:1977 SA:1
+0110100111111111100001011111xx010
+Fault:1978 SA:0
+0110100101111111100011011001xx010
+Fault:1978 SA:1
+0110100111111111100001011101xx010
+Fault:1979 SA:0
+11111101011111110001001x1111xx000
+Fault:1979 SA:1
+01110100011111110001111x1111xx000
+Fault:1980 SA:0
+0110111101111111100011011111xx010
+Fault:1980 SA:1
+0111010001111111100010011111xx010
+Fault:1983 SA:0
+1111111011xxxx110xxx0xxxxxxxxxx1x
+Fault:1983 SA:1
+1101111011xxxx110xxx0xxxxxxxxxx1x
+Fault:1984 SA:0
+1100xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:1984 SA:1
+1110xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:1985 SA:0
+1xxx110xx1110x111000xx0x11000x111
+Fault:1985 SA:1
+1xxx110xx1111x111000xx0x11000x111
+Fault:1986 SA:0
+1111111011010011100101111011xx000
+Fault:1986 SA:1
+1101111011000011100101111111xx000
+Fault:1987 SA:0
+1111010001110110111010001111xx000
+Fault:1987 SA:1
+1101110101110110011000001111xx000
+Fault:1990 SA:0
+1011110011110111011010001111xx000
+Fault:1990 SA:1
+1111110011111111000111101111xx010
+Fault:1991 SA:0
+1111101000111101000101101100xx010
+Fault:1991 SA:1
+1111101010111101001111101111xx010
+Fault:1992 SA:0
+1111011000111101010110101111xx000
+Fault:1992 SA:1
+11110110101111010001001x1111xx000
+Fault:1993 SA:0
+11011110xxxxxxxxx1xxxxx1xxxxxxxx0
+Fault:1993 SA:1
+11111110xxxxxxxxx1xx1xx1xxxx1xxxx
+Fault:1994 SA:0
+xxxxxxxx11111010x1xxxxx1xxxxxxxx0
+Fault:1994 SA:1
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxx0xx1
+Fault:1995 SA:0
+1111111011xxxx100xxx0xxxxxxxxxx1x
+Fault:1995 SA:1
+1101111011xxxx100xxx0xxxxxxxxxx1x
+Fault:1996 SA:0
+1101xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:1996 SA:1
+1111xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:1997 SA:0
+1101111011111111101000011110xx010
+Fault:1997 SA:1
+11111110111111101000000111000x110
+Fault:1998 SA:0
+1101111011111010100011011100xx010
+Fault:1998 SA:1
+1101111001001111101011011001xx010
+Fault:1999 SA:0
+1101111011000011100101111111xx000
+Fault:1999 SA:1
+1111111011010011100101111011xx000
+Fault:2000 SA:0
+1101111011000110100101111011xx000
+Fault:2000 SA:1
+1111111011010110100101111111xx000
+Fault:2001 SA:0
+1111010001110110111010001111xx000
+Fault:2001 SA:1
+1101110101110110011000001111xx000
+Fault:2002 SA:0
+1111110011111111000111101111xx010
+Fault:2002 SA:1
+1011110011110111011010001111xx000
+Fault:2003 SA:0
+0101110011111111001111101111xx010
+Fault:2003 SA:1
+0011110011110111011001001111xx000
+Fault:2004 SA:0
+01110110101101010001101x1111xx000
+Fault:2004 SA:1
+0111011000110101011000001111xx000
+Fault:2005 SA:0
+11110110101111010001001x1111xx000
+Fault:2005 SA:1
+1111011000111101010110101111xx000
+Fault:2006 SA:0
+xxx1xx1x10xx11x10001xx100000xx110
+Fault:2006 SA:1
+xxx1xx1x00xx11x10011xx100000xx110
+Fault:2007 SA:0
+1111101010111101001111101111xx010
+Fault:2007 SA:1
+1111101000111101000101101100xx010
+Fault:2008 SA:0
+01111011011101110001101x1111xx000
+Fault:2008 SA:1
+01111011011101110001101x1101xx000
+Fault:2009 SA:0
+0110100101111111100011011011xx010
+Fault:2009 SA:1
+0110100101111111100011011001xx010
+Fault:2010 SA:0
+0110111101111111100011011111xx010
+Fault:2010 SA:1
+0111010001111111100010011111xx010
+Fault:2011 SA:0
+0110111101111111100011011011xx010
+Fault:2011 SA:1
+0111010001111111100010011011xx010
+Fault:2012 SA:0
+01110100011111110001111x1111xx000
+Fault:2012 SA:1
+11111101011111110001001x1111xx000
+Fault:2013 SA:0
+1101111011xxxx100xxx0xxxxxxxxxx1x
+Fault:2013 SA:1
+1111111011xxxx100xxx0xxxxxxxxxx1x
+Fault:2014 SA:0
+1101111011xxxx110xxx0xxxxxxxxxx1x
+Fault:2014 SA:1
+1111111011xxxx110xxx0xxxxxxxxxx1x
+Fault:2015 SA:0
+1111xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:2015 SA:1
+1101xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:2016 SA:0
+1110xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:2016 SA:1
+1100xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:2017 SA:0
+1110011001110110011010001111xx000
+Fault:2017 SA:1
+1100111101110110111000001111xx000
+Fault:2018 SA:0
+11111110111111101000000111000x110
+Fault:2018 SA:1
+1101111011111111101000011110xx010
+Fault:2019 SA:0
+1101111001001111101011011001xx010
+Fault:2019 SA:1
+1101111011111010100011011100xx010
+Fault:2020 SA:0
+1101111011000110100101111011xx000
+Fault:2020 SA:1
+1101111011000011100101111111xx000
+Fault:2021 SA:0
+1100111101110110111000001111xx000
+Fault:2021 SA:1
+1110011001110110011010001111xx000
+Fault:2022 SA:0
+1101110101110110011000001111xx000
+Fault:2022 SA:1
+1111010001110110111010001111xx000
+Fault:2023 SA:0
+0101110011111111001111101111xx010
+Fault:2023 SA:1
+1111110011111111000111101111xx010
+Fault:2024 SA:0
+01110110101101010010100x1111xx000
+Fault:2024 SA:1
+11110110101111010001001x1111xx000
+Fault:2025 SA:0
+11111010101001010010110x1111xx010
+Fault:2025 SA:1
+1111101010111101000111101110xx010
+Fault:2026 SA:0
+01111011101001110001101x1111xx000
+Fault:2026 SA:1
+01111011011101110001101x1111xx000
+Fault:2027 SA:0
+0110100111111111100001011111xx010
+Fault:2027 SA:1
+0110100101111111100011011011xx010
+Fault:2030 SA:0
+0111010001111111100010011111xx010
+Fault:2030 SA:1
+0110111101111111100011011111xx010
+Fault:2033 SA:0
+0110111101111111100011011011xx010
+Fault:2033 SA:1
+0111010001111111100010011011xx010
+Fault:2036 SA:0
+1101111011xxxx110xxx0xxxxxxxxxx1x
+Fault:2036 SA:1
+1101111011xxxx100xxx0xxxxxxxxxx1x
+Fault:2037 SA:0
+1110xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:2037 SA:1
+1111xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:2038 SA:0
+1101111011000011100101111111xx000
+Fault:2038 SA:1
+1101111011000110100101111011xx000
+Fault:2039 SA:0
+1101110101110110011000001111xx000
+Fault:2039 SA:1
+1100111101110110111000001111xx000
+Fault:2040 SA:0
+1111110011111111000111101111xx010
+Fault:2040 SA:1
+0101110011111111001111101111xx010
+Fault:2041 SA:0
+0111011000110101010100101111xx000
+Fault:2041 SA:1
+01110110101101010001101x1111xx000
+Fault:2042 SA:0
+xxx1xx1x00xx11x10011xx100000xx110
+Fault:2042 SA:1
+xxx1xx1x10xx11x10001xx100000xx110
+Fault:2045 SA:0
+0110100111111111100001011111xx010
+Fault:2045 SA:1
+0110100101111111100011011011xx010
+Fault:2046 SA:0
+0110100111111111100001010111xx010
+Fault:2046 SA:1
+0110100101111111100011011111xx010
+Fault:2047 SA:0
+01111011011101110001101x1111xx000
+Fault:2047 SA:1
+01111011101001110001101x1111xx000
+Fault:2048 SA:0
+0111010001111111100010011111xx010
+Fault:2048 SA:1
+0110111101111111100011011111xx010
+Fault:2049 SA:0
+0111010011111111100000011111xx010
+Fault:2049 SA:1
+0110111111111111100001011111xx010
+Fault:2050 SA:0
+0110111101111111100011011011xx010
+Fault:2050 SA:1
+0111010001111111100010011011xx010
+Fault:2051 SA:0
+0110111111111111100000011111xx010
+Fault:2051 SA:1
+0111010011111111100001011111xx010
+Fault:2052 SA:0
+1101111011xxxx100xxx0xxxxxxxxxx1x
+Fault:2052 SA:1
+1101111011xxxx110xxx0xxxxxxxxxx1x
+Fault:2055 SA:0
+1111xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:2055 SA:1
+1110xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:2058 SA:0
+1101111011xxxx100xxx0xxxxxxxxxx1x
+Fault:2058 SA:1
+1101111011xxxx110xxx0xxxxxxxxxx1x
+Fault:2059 SA:0
+1111xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:2059 SA:1
+1110xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:2060 SA:0
+1101111011000110100101111011xx000
+Fault:2060 SA:1
+1101111011000011100101111111xx000
+Fault:2061 SA:0
+1100111101110110111000001111xx000
+Fault:2061 SA:1
+1101110101110110011000001111xx000
+Fault:2062 SA:0
+0101110011111111001111101111xx010
+Fault:2062 SA:1
+1111110011111111000111101111xx010
+Fault:2065 SA:0
+xxx1xx1x00xx11x10011xx100000xx110
+Fault:2065 SA:1
+xxx1xx1x10xx11x10001xx100000xx110
+Fault:2066 SA:0
+1111101000100101000101101111xx010
+Fault:2066 SA:1
+1111101010100101000111101101xx010
+Fault:2067 SA:0
+01110110101101010001101x1111xx000
+Fault:2067 SA:1
+0111011000110101010100101111xx000
+Fault:2068 SA:0
+0110100101111111100011011011xx010
+Fault:2068 SA:1
+0110100111111111100001011111xx010
+Fault:2071 SA:0
+0110100111111111100001010111xx010
+Fault:2071 SA:1
+0110100101111111100011011111xx010
+Fault:2074 SA:0
+1101111011xxxx1010000x0111000x111
+Fault:2074 SA:1
+1101111011xxxx1110000x0111000x111
+Fault:2075 SA:0
+1111xxxxx11101101000x00x11000x111
+Fault:2075 SA:1
+1110xxxxx11101101000x00x11000x111
+Fault:2076 SA:0
+1101111011xxxx1110000x0111000x111
+Fault:2076 SA:1
+1101111011xxxx1010000x0111000x111
+Fault:2077 SA:0
+1110xxxxx11101101000x00x11000x111
+Fault:2077 SA:1
+1111xxxxx11101101000x00x11000x111
+Fault:2078 SA:0
+1101111011000011100101111111xx000
+Fault:2078 SA:1
+1101111011000110100101111011xx000
+Fault:2081 SA:0
+1101110101110110011000001111xx000
+Fault:2081 SA:1
+1100111101110110111000001111xx000
+Fault:2084 SA:0
+0101110011111111001111101111xx010
+Fault:2084 SA:1
+1111110011111111000111101111xx010
+Fault:2085 SA:0
+0011110011111111010000x01111xx000
+Fault:2085 SA:1
+1011110011111111010011x01111xx000
+Fault:2086 SA:0
+xxx1xx1x10xx11x10001xx100000xx110
+Fault:2086 SA:1
+xxx1xx1x00xx11x10011xx100000xx110
+Fault:2089 SA:0
+1111101000100101000101101111xx010
+Fault:2089 SA:1
+1111101010100101000111101101xx010
+Fault:2092 SA:0
+0110100101111111100011011011xx010
+Fault:2092 SA:1
+0110100111111111100001011111xx010
+Fault:2093 SA:0
+0110111101111111100011011011xx010
+Fault:2093 SA:1
+0110111111111111100001011111xx010
+Fault:2094 SA:0
+0110100111111111100001010111xx010
+Fault:2094 SA:1
+0110100101111111100011011111xx010
+Fault:2095 SA:0
+0110111111111111100000011111xx010
+Fault:2095 SA:1
+0110111101110111100010010011xx010
+Fault:2096 SA:0
+1101111011111111101000011100xx010
+Fault:2096 SA:1
+1101111011110110101000011110xx010
+Fault:2097 SA:0
+1101111011000011100101111111xx000
+Fault:2097 SA:1
+1101111011000110100101111011xx000
+Fault:2098 SA:0
+11011110011101101000000111100x1x1
+Fault:2098 SA:1
+1100111101110110101000011111xx010
+Fault:2099 SA:0
+1101110101110110011000001111xx000
+Fault:2099 SA:1
+1100111101110110111000001111xx000
+Fault:2100 SA:0
+xxx1xx1x10xx11x10001xx100000xx110
+Fault:2100 SA:1
+xxx1xx1x00xx11x10011xx100000xx110
+Fault:2101 SA:0
+0101101010100101000111101100xx010
+Fault:2101 SA:1
+0101101000100101001101101111xx010
+Fault:2102 SA:0
+1111101000100101000101101111xx010
+Fault:2102 SA:1
+1111101010100101000111101101xx010
+Fault:2103 SA:0
+0101101000100101001100101111xx010
+Fault:2103 SA:1
+0101101010100101000110101100xx010
+Fault:2104 SA:0
+0111010001111111100010011111xx010
+Fault:2104 SA:1
+10101111111110111000000111x10x1x1
+Fault:2119 SA:0
+0110111101111111100011011011xx010
+Fault:2119 SA:1
+10111110111111111000000111x1xx010
+Fault:2129 SA:0
+0111010011111111100000011111xx010
+Fault:2129 SA:1
+10101111111110111000000110x10x1x1
+Fault:2143 SA:0
+0110111111111111100000011111xx010
+Fault:2143 SA:1
+10111110111110111000000110x1xx010
+Fault:2148 SA:0
+0101110011111111001111101111xx010
+Fault:2148 SA:1
+1111110011111111000111101111xx010
+Fault:2151 SA:0
+0011110011111111010000x01111xx000
+Fault:2151 SA:1
+1011110011111111010011x01111xx000
+Fault:2154 SA:0
+0011110011111111010000x01111xx000
+Fault:2154 SA:1
+1011110011111111010011x01111xx000
+Fault:2155 SA:0
+0101110011111111001111101111xx010
+Fault:2155 SA:1
+1111110011111111000111101111xx010
+Fault:2156 SA:0
+0111010001110111100010010111xx010
+Fault:2156 SA:1
+10101111111110111000000111x10x1x1
+Fault:2157 SA:0
+0111010001110111100010010111xx010
+Fault:2157 SA:1
+10101111111110111000000111010x111
+Fault:2158 SA:0
+0111010001111111100010011111xx010
+Fault:2158 SA:1
+10101111111110111000000110x1xx010
+Fault:2159 SA:0
+0111010001111111100010011111xx010
+Fault:2159 SA:1
+10101111111110111000000110x1xx010
+Fault:2160 SA:0
+0111010001111111100011011011xx010
+Fault:2160 SA:1
+10101111110101111000000111x1xx010
+Fault:2161 SA:0
+0111010001111111100011011011xx010
+Fault:2161 SA:1
+10101111110101111000000111x1xx010
+Fault:2162 SA:0
+0111010001111111100000011011xx010
+Fault:2162 SA:1
+10101111111100101000000111x1xx010
+Fault:2163 SA:0
+0111010001111111100000011011xx010
+Fault:2163 SA:1
+10101111111100101000000111x1xx010
+Fault:2164 SA:0
+0111010001110111100011010011xx010
+Fault:2164 SA:1
+1010111111111111100000011011xx010
+Fault:2165 SA:0
+0111010001110111100000010011xx010
+Fault:2165 SA:1
+10101111110110101000000110x1xx010
+Fault:2166 SA:0
+0111010001110111100001010111xx010
+Fault:2166 SA:1
+10101111111101101000000111x1xx010
+Fault:2167 SA:0
+0111010001111111100001011111xx010
+Fault:2167 SA:1
+10101111110111101000000110x1xx010
+Fault:2168 SA:0
+0111010001110111100101010011xx010
+Fault:2168 SA:1
+10101111111101101001000110x1xx010
+Fault:2169 SA:0
+0111010001110111110001010011xx010
+Fault:2169 SA:1
+10101111111101101100000110x1xx010
+Fault:2170 SA:0
+0110111101110111100011010011xx010
+Fault:2170 SA:1
+10111110110101111000000110x1xx010
+Fault:2171 SA:0
+0110111101110111100011010011xx010
+Fault:2171 SA:1
+1011111011010111100000011011xx010
+Fault:2172 SA:0
+0110111101110111100010010111xx010
+Fault:2172 SA:1
+10111110111110111000000111x1xx010
+Fault:2173 SA:0
+0110111101110111100010010111xx010
+Fault:2173 SA:1
+1011111011111011100000011111xx010
+Fault:2174 SA:0
+0110111101111111100011011011xx010
+Fault:2174 SA:1
+10111110111111111000000111x1xx010
+Fault:2175 SA:0
+0110111101111111100011011011xx010
+Fault:2175 SA:1
+1011111011111111100000011101xx010
+Fault:2176 SA:0
+0110111101110111100001010111xx010
+Fault:2176 SA:1
+10111110110111101000000111x1xx010
+Fault:2177 SA:0
+0110111101110111100001010111xx010
+Fault:2177 SA:1
+1011111011011110100000011101xx010
+Fault:2178 SA:0
+0110111101110111100000010011xx010
+Fault:2178 SA:1
+1011111011110010100000011011xx010
+Fault:2179 SA:0
+0111010011111111100000011111xx010
+Fault:2179 SA:1
+10101111111110111000000110x10x1x1
+Fault:2180 SA:0
+0111010011111111100000011111xx010
+Fault:2180 SA:1
+10101111111110111000000110110x111
+Fault:2181 SA:0
+0111010011111111100001011011xx010
+Fault:2181 SA:1
+10101111111111111000000111x1xx010
+Fault:2182 SA:0
+0111010011111111100001011011xx010
+Fault:2182 SA:1
+1010111111111111100000011101xx010
+Fault:2183 SA:0
+0111010011110111100001010011xx010
+Fault:2183 SA:1
+10101111110101111000000110x1xx010
+Fault:2184 SA:0
+0111010011110111100001010011xx010
+Fault:2184 SA:1
+10101111110101111000000110x1xx010
+Fault:2185 SA:0
+0111010011111111100010011011xx010
+Fault:2185 SA:1
+10101111110110101000000111x1xx010
+Fault:2186 SA:0
+0111010011111111100010011011xx010
+Fault:2186 SA:1
+1010111111011010100000011111xx010
+Fault:2187 SA:0
+0111010011110111100010010011xx010
+Fault:2187 SA:1
+10101111111100101000000110x1xx010
+Fault:2188 SA:0
+0111010011110111100010010011xx010
+Fault:2188 SA:1
+10101111111100101000000110x1xx010
+Fault:2189 SA:0
+0111010011110111100000010111xx010
+Fault:2189 SA:1
+10101111111110111000000111x1xx010
+Fault:2190 SA:0
+0111010011110111100000010111xx010
+Fault:2190 SA:1
+1010111111111011100000011111xx010
+Fault:2191 SA:0
+0111010011111111100011011111xx010
+Fault:2191 SA:1
+1010111111110110100000011011xx010
+Fault:2192 SA:0
+0110111111111111100000011111xx010
+Fault:2192 SA:1
+10111110111110111000000110x1xx010
+Fault:2193 SA:0
+0110111111111111100000011111xx010
+Fault:2193 SA:1
+10111110111110111000000110x1xx010
+Fault:2194 SA:0
+0110111111111111100001011111xx110
+Fault:2194 SA:1
+10111110110101111000000111x1xx010
+Fault:2195 SA:0
+0110111111111111100001011111xx110
+Fault:2195 SA:1
+10111110110101111000000111x1xx010
+Fault:2196 SA:0
+1101111011111111101000011100xx010
+Fault:2196 SA:1
+1101111011110110101000011110xx010
+Fault:2199 SA:0
+1101111011000011100101111111xx000
+Fault:2199 SA:1
+1101111011000110100101111011xx000
+Fault:2202 SA:0
+11011110011101101000000111100x1x1
+Fault:2202 SA:1
+1100111101110110101000011111xx010
+Fault:2205 SA:0
+1101110101110110011000001111xx000
+Fault:2205 SA:1
+1100111101110110111000001111xx000
+Fault:2208 SA:0
+0101110011111111001111101011xx010
+Fault:2208 SA:1
+1111110011111111000111101011xx010
+Fault:2209 SA:0
+0011110011111111010000x01011xx000
+Fault:2209 SA:1
+1011110011111111010011x01011xx000
+Fault:2210 SA:0
+1101111011000011100101111111xx000
+Fault:2210 SA:1
+1101111011000110100101111011xx000
+Fault:2211 SA:0
+1101111011111111101000011100xx010
+Fault:2211 SA:1
+1101111011110110101000011110xx010
+Fault:2212 SA:0
+1101110101110110011000001111xx000
+Fault:2212 SA:1
+1100111101110110111000001111xx000
+Fault:2213 SA:0
+11011110011101101000000111100x1x1
+Fault:2213 SA:1
+1100111101110110101000011111xx010
+Fault:2214 SA:0
+1011110011111111010011x01111xx000
+Fault:2214 SA:1
+0011110011111111010000x01111xx000
+Fault:2215 SA:0
+1011110011111111010011x01011xx000
+Fault:2215 SA:1
+0011110011111111010000x01011xx000
+Fault:2216 SA:0
+1111110011111111000111101111xx010
+Fault:2216 SA:1
+0101110011111111001111101111xx010
+Fault:2217 SA:0
+1111110011111111000111101011xx010
+Fault:2217 SA:1
+0101110011111111001111101011xx010
+Fault:2218 SA:0
+11011110111111110010000x1100xx010
+Fault:2218 SA:1
+11011110111101100010000x1110xx010
+Fault:2219 SA:0
+1101111011100011010100101011xx000
+Fault:2219 SA:1
+1101111011100110010100101111xx000
+Fault:2220 SA:0
+11011110011101101000000101100x1x1
+Fault:2220 SA:1
+1100111101110110101000010111xx010
+Fault:2221 SA:0
+1101110101110110011000000111xx000
+Fault:2221 SA:1
+1100111101110110111000000111xx000
+Fault:2222 SA:0
+1101111011000110100101111011xx000
+Fault:2222 SA:1
+1101111011000011100101111111xx000
+Fault:2223 SA:0
+1101111011100110010100101111xx000
+Fault:2223 SA:1
+1101111011100011010100101011xx000
+Fault:2224 SA:0
+1101111011110110101000011110xx010
+Fault:2224 SA:1
+1101111011111111101000011100xx010
+Fault:2225 SA:0
+11011110111101100010000x1110xx010
+Fault:2225 SA:1
+11011110111111110010000x1100xx010
+Fault:2226 SA:0
+1100111101110110111000001111xx000
+Fault:2226 SA:1
+1101110101110110011000001111xx000
+Fault:2227 SA:0
+1100111101110110111000000111xx000
+Fault:2227 SA:1
+1101110101110110011000000111xx000
+Fault:2228 SA:0
+1100111101110110101000011111xx010
+Fault:2228 SA:1
+11011110011101101000000111100x1x1
+Fault:2229 SA:0
+1100111101110110101000010111xx010
+Fault:2229 SA:1
+11011110011101101000000101100x1x1
+Fault:2230 SA:0
+1011110011111111010011x01111xx000
+Fault:2230 SA:1
+1011110011111111010011x01011xx000
+Fault:2231 SA:0
+1111110011111111000111101111xx010
+Fault:2231 SA:1
+1111110011111111000111101011xx010
+Fault:2232 SA:0
+1101111011000110100101111011xx000
+Fault:2232 SA:1
+1101111011100110010100101111xx000
+Fault:2233 SA:0
+1101111011110110101000011110xx010
+Fault:2233 SA:1
+11011110111101100010000x1110xx010
+Fault:2234 SA:0
+1100111101110110111000001111xx000
+Fault:2234 SA:1
+1100111101110110111000000111xx000
+Fault:2235 SA:0
+1100111101110110101000011111xx010
+Fault:2235 SA:1
+1100111101110110101000010111xx010
+Fault:2236 SA:0
+0011110011111111010000x01111xx000
+Fault:2236 SA:1
+1011110011111111010011x01111xx000
+Fault:2237 SA:0
+0101110011111111001111101111xx010
+Fault:2237 SA:1
+1111110011111111000111101111xx010
+Fault:2240 SA:0
+1101111011000011100101111111xx000
+Fault:2240 SA:1
+1101111011000110100101111011xx000
+Fault:2241 SA:0
+1101111011111111101000011100xx010
+Fault:2241 SA:1
+1101111011110110101000011110xx010
+Fault:2244 SA:0
+1101110101110110011000001111xx000
+Fault:2244 SA:1
+1100111101110110111000001111xx000
+Fault:2245 SA:0
+11011110011101101000000111100x1x1
+Fault:2245 SA:1
+1100111101110110101000011111xx010
+Fault:2248 SA:0
+0101110011111111001111101111xx010
+Fault:2248 SA:1
+1111110011111111000111101111xx010
+Fault:2249 SA:0
+0101110011111111001110101111xx010
+Fault:2249 SA:1
+1111110011111111000110101111xx010
+Fault:2250 SA:0
+1011110011111111010011x01111xx000
+Fault:2250 SA:1
+0011110011111111010000x01111xx000
+Fault:2251 SA:0
+1101111011111011110000011000xx010
+Fault:2251 SA:1
+1101111011110010110000011010xx010
+Fault:2252 SA:0
+1101111011111111101000011110xx010
+Fault:2252 SA:1
+1101111011110110101000011100xx010
+Fault:2253 SA:0
+1101111011000110100101111011xx000
+Fault:2253 SA:1
+1101111011000011100101111111xx000
+Fault:2254 SA:0
+1101111011110110101100011000xx010
+Fault:2254 SA:1
+1100111111110110100100011011xx010
+Fault:2255 SA:0
+1101111001110110100000011110xx010
+Fault:2255 SA:1
+1100111101110110101000011101xx010
+Fault:2256 SA:0
+1100111101110110111000001111xx000
+Fault:2256 SA:1
+1101110101110110011000001111xx000
+Fault:2257 SA:0
+1111110011111111000111101111xx010
+Fault:2257 SA:1
+0101110011111111001111101111xx010
+Fault:2260 SA:0
+0101110011111111001110101111xx010
+Fault:2260 SA:1
+1111110011111111000110101111xx010
+Fault:2263 SA:0
+1101111011110010110000011010xx010
+Fault:2263 SA:1
+1101111011111011110000011000xx010
+Fault:2266 SA:0
+1101111011111111101000011110xx010
+Fault:2266 SA:1
+1101100001110110x110x0011111xx010
+Fault:2267 SA:0
+1101111011111111101000011110xx010
+Fault:2267 SA:1
+1101100001110110x110x0011111xx010
+Fault:2268 SA:0
+1101111011111011100000011101xx010
+Fault:2268 SA:1
+1100111001110110x110x0011111xx010
+Fault:2269 SA:0
+1100111111110110100100011011xx010
+Fault:2269 SA:1
+1101111011110110101100011000xx010
+Fault:2272 SA:0
+1101111001110110100000011110xx010
+Fault:2272 SA:1
+110111101110001110110x01x101xx010
+Fault:2273 SA:0
+1101111001110110100000011110xx010
+Fault:2273 SA:1
+110111101110001110110x01x101xx010
+Fault:2274 SA:0
+1101111011110110101000011110xx010
+Fault:2274 SA:1
+110111101111011010110x01x110xx010
+Fault:2275 SA:0
+11111100111111110001000x1111xx010
+Fault:2275 SA:1
+0xx1110x111111110001xx100100xx110
+Fault:2276 SA:0
+11111100011111110000010x1101xx010
+Fault:2276 SA:1
+0xx1110x011111110010xx0x1110x01x1
+Fault:2277 SA:0
+01011100111111110000110x1110xx010
+Fault:2277 SA:1
+11111100111111110000110x1111xx010
+Fault:2278 SA:0
+0xx1110x011111110010xx0x1100x01x1
+Fault:2278 SA:1
+11111100011111110000000x1101xx010
+Fault:2279 SA:0
+xxx1xx1x00xx11x1xx11xx1xxxxxxx100
+Fault:2279 SA:1
+01110110101101010001101x1111xx000
+Fault:2282 SA:0
+xxx1xx1x00xx11x1xx11xx1xxxxxxx100
+Fault:2282 SA:1
+01110110101101010001101x1111xx000
+Fault:2283 SA:0
+xxx1xx1x00xx11x1xx11xx1xxxxxxx110
+Fault:2283 SA:1
+01110110101101010001101x1111xx010
+Fault:2284 SA:0
+1101111011110010110000011010xx010
+Fault:2284 SA:1
+1101111011111011110000011000xx010
+Fault:2285 SA:0
+1101111011110110101000011110xx010
+Fault:2285 SA:1
+1101111011111111101000011100xx010
+Fault:2286 SA:0
+1101111011111111101000011110xx010
+Fault:2286 SA:1
+1101100001110110x110x0011111xx010
+Fault:2297 SA:0
+1101111011111011100000011101xx010
+Fault:2297 SA:1
+1100111001110110x110x0011111xx010
+Fault:2313 SA:0
+1100111111110110100100011011xx010
+Fault:2313 SA:1
+1101111011110110101100011000xx010
+Fault:2314 SA:0
+1100111101110110101000011111xx010
+Fault:2314 SA:1
+11011110011101101000000111100x1x1
+Fault:2315 SA:0
+1101111001110110100000011110xx010
+Fault:2315 SA:1
+110111101110001110110x01x101xx010
+Fault:2326 SA:0
+1101111011110110101000011110xx010
+Fault:2326 SA:1
+110111101111011010110x01x110xx010
+Fault:2340 SA:0
+xxx1xx1x10xx11x10001xx100000xx110
+Fault:2340 SA:1
+xxx1xx1x00xx11x10011xx100x00xx110
+Fault:2353 SA:0
+11111010001111010000010x1110xx010
+Fault:2353 SA:1
+0101101010111101000111101101xx010
+Fault:2361 SA:0
+0101101010100101000111101100xx010
+Fault:2361 SA:1
+1111101000111101001101101111xx010
+Fault:2375 SA:0
+0101011000111101100010011100xx010
+Fault:2375 SA:1
+1111101010111101001110101101xx010
+Fault:2384 SA:0
+xxx1xx1x00xx11x1xx11xx1xxxxxxx100
+Fault:2384 SA:1
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx1
+Fault:2385 SA:0
+1101111011110010110000011010xx010
+Fault:2385 SA:1
+11001010011101100010100x1111xx010
+Fault:2386 SA:0
+1101111011110110101000011110xx010
+Fault:2386 SA:1
+1101100001110110x110x0011101xx010
+Fault:2401 SA:0
+1101111011111111101000011110xx010
+Fault:2401 SA:1
+1101100001110110x110x0011111xx010
+Fault:2402 SA:0
+1101111011111111101000011110xx010
+Fault:2402 SA:1
+1101100001110110x110x0011111xx010
+Fault:2403 SA:0
+1101111011111111101000011000xx010
+Fault:2403 SA:1
+1101110101110110x110x0011111xx010
+Fault:2404 SA:0
+1101111011111111101000011000xx010
+Fault:2404 SA:1
+1101110101110110x110x0011111xx010
+Fault:2405 SA:0
+1101111011111111101000011011xx010
+Fault:2405 SA:1
+1101110001110110x110x0011111xx010
+Fault:2406 SA:0
+1101111011111111101000011011xx010
+Fault:2406 SA:1
+1101110001110110x110x0011111xx010
+Fault:2407 SA:0
+11011110111111111010000110000x1x1
+Fault:2407 SA:1
+1101110111110110x110x0011111xx010
+Fault:2408 SA:0
+11011110111111111010000110000x111
+Fault:2408 SA:1
+1101110111110110x110x0011111xx010
+Fault:2409 SA:0
+1101111011111011100000011110xx010
+Fault:2409 SA:1
+1100111101110110x110x0011111xx010
+Fault:2410 SA:0
+1101111011111011100000011110xx010
+Fault:2410 SA:1
+1100111101110110x110x0011111xx010
+Fault:2411 SA:0
+1101111011111011100000011101xx010
+Fault:2411 SA:1
+1100111001110110x110x0011111xx010
+Fault:2412 SA:0
+1101111011111011100000011101xx010
+Fault:2412 SA:1
+1100111001110110x110x0011111xx010
+Fault:2413 SA:0
+1101111011111011101000011100xx010
+Fault:2413 SA:1
+1100111111110110x110x0011111xx010
+Fault:2414 SA:0
+1101111011111011101000011100xx010
+Fault:2414 SA:1
+1100111111110110x110x0011111xx010
+Fault:2415 SA:0
+1101111011111011100000011011xx010
+Fault:2415 SA:1
+1100101101110110x110x0011111xx010
+Fault:2416 SA:0
+1101111011111011100000011011xx010
+Fault:2416 SA:1
+1100101101110110x110x0011111xx010
+Fault:2417 SA:0
+1101111011111011101000011010xx010
+Fault:2417 SA:1
+1100101011110110x110x0011111xx010
+Fault:2418 SA:0
+1101111011111011101000011010xx010
+Fault:2418 SA:1
+1100101011110110x110x0011111xx010
+Fault:2419 SA:0
+1101111011111111101000011101x01x1
+Fault:2419 SA:1
+1101100111110110x110x0011111xx010
+Fault:2420 SA:0
+1101111011111111101000011101x0111
+Fault:2420 SA:1
+1101100111110110x110x0011111xx010
+Fault:2421 SA:0
+1101111011111111101000011101xx010
+Fault:2421 SA:1
+1101100101110110x110x0011111xx010
+Fault:2422 SA:0
+1101111011111111101000011101xx010
+Fault:2422 SA:1
+1101100101110110x110x0011111xx010
+Fault:2423 SA:0
+1101111011111111101000011110x01x1
+Fault:2423 SA:1
+1101100011110110x110x0011111xx010
+Fault:2424 SA:0
+1101111011111111101000011110x0111
+Fault:2424 SA:1
+1101100011110110x110x0011111xx010
+Fault:2425 SA:0
+1101111011111011100000011000xx010
+Fault:2425 SA:1
+1100101001110110111000011111xx010
+Fault:2426 SA:0
+1100111111110110100100011011xx010
+Fault:2426 SA:1
+1101111011100110101000010101xx010
+Fault:2427 SA:0
+1100111101110110101000011111xx010
+Fault:2427 SA:1
+110111101110001110110x01x111xx010
+Fault:2444 SA:0
+1101111001110110100000011110xx010
+Fault:2444 SA:1
+110111101110001110110x01x101xx010
+Fault:2445 SA:0
+1101111001110110100000011110xx010
+Fault:2445 SA:1
+110111101110001110110x01x101xx010
+Fault:2446 SA:0
+11011110011101101000000110100x1x1
+Fault:2446 SA:1
+110111101111001110110x01x110xx010
+Fault:2447 SA:0
+11011110011101101000000110100x111
+Fault:2447 SA:1
+110111101111001110110x01x110xx010
+Fault:2448 SA:0
+1101111001110110100000011011xx010
+Fault:2448 SA:1
+110111101111001110110x01x101xx010
+Fault:2449 SA:0
+1101111001110110100000011011xx010
+Fault:2449 SA:1
+110111101111001110110x01x101xx010
+Fault:2450 SA:0
+1101111001110110101000011010xx010
+Fault:2450 SA:1
+110111101111011110110x01x110xx010
+Fault:2451 SA:0
+1101111001110110101000011010xx010
+Fault:2451 SA:1
+110111101111011110110x01x110xx010
+Fault:2452 SA:0
+1101111001110110101000011111xx010
+Fault:2452 SA:1
+110111101110011110110x01x101x01x1
+Fault:2453 SA:0
+1101111001110110101000011111xx010
+Fault:2453 SA:1
+110111101110011110110x011101x0111
+Fault:2454 SA:0
+1101111011110110101000011110xx010
+Fault:2454 SA:1
+110111101111011010110x01x110xx010
+Fault:2455 SA:0
+1101111011110110101000011110xx010
+Fault:2455 SA:1
+110111101111011010110x01x110xx010
+Fault:2456 SA:0
+1101111011110110101000011101xx010
+Fault:2456 SA:1
+110111101111011010110x01x101xx010
+Fault:2457 SA:0
+1101111011110110101000011101xx010
+Fault:2457 SA:1
+110111101111011010110x01x101xx010
+Fault:2458 SA:0
+1101111011110110100000011100xx010
+Fault:2458 SA:1
+110111101111001010110x01x110xx010
+Fault:2459 SA:0
+1101111011110110100000011100xx010
+Fault:2459 SA:1
+110111101111001010110x01x110xx010
+Fault:2460 SA:0
+1101111011110110100000011010xx010
+Fault:2460 SA:1
+110111101110001010110x01x101xx010
+Fault:2461 SA:0
+1101111011110110100000011010xx010
+Fault:2461 SA:1
+110111101110001010110x01x101xx010
+Fault:2462 SA:0
+1101111001110110100000011111x01x1
+Fault:2462 SA:1
+110111101110001110110x01x110xx010
+Fault:2463 SA:0
+1101111001110110100000011111x0111
+Fault:2463 SA:1
+110111101110001110110x01x110xx010
+Fault:2464 SA:0
+1101111001110110101000011110x01x1
+Fault:2464 SA:1
+110111101110011110110x01x101xx010
+Fault:2465 SA:0
+1101111001110110101000011110x0111
+Fault:2465 SA:1
+110111101110011110110x01x101xx010
+Fault:2466 SA:0
+1101111011110110101000011000xx010
+Fault:2466 SA:1
+1101111011100110101101011101xx010
+Fault:2467 SA:0
+1111101010100101000111101111xx010
+Fault:2467 SA:1
+0101101000111101001101101100xx010
+Fault:2468 SA:0
+1111101010100101000111101111xx010
+Fault:2468 SA:1
+0101101000111101001101101100xx010
+Fault:2469 SA:0
+1111101010100101000111101100xx010
+Fault:2469 SA:1
+0101101000111101001101101111xx010
+Fault:2470 SA:0
+1111101010100101000111101100xx010
+Fault:2470 SA:1
+0101101000111101001101101111xx010
+Fault:2471 SA:0
+1111101010100101000110101110xx010
+Fault:2471 SA:1
+0101101000111101001100101101xx010
+Fault:2472 SA:0
+1111101010100101000110101110xx010
+Fault:2472 SA:1
+0101101000111101001100101101xx010
+Fault:2473 SA:0
+1111101010100101000110101101xx010
+Fault:2473 SA:1
+0101101000111101001100101110xx010
+Fault:2474 SA:0
+1111101010100101000101101101xx010
+Fault:2474 SA:1
+0101101000111101001111101110xx010
+Fault:2475 SA:0
+1111101010100101000100101111xx010
+Fault:2475 SA:1
+0101101000111101001110101100xx010
+Fault:2476 SA:0
+1111101010100101000100101100xx010
+Fault:2476 SA:1
+0101101000111101001110101111xx010
+Fault:2477 SA:0
+xxx1xx1x10xx11x10001xx100000xx110
+Fault:2477 SA:1
+xxx1xx1x00xx11x10011xx100x00xx110
+Fault:2478 SA:0
+1111101010100101011000011101xx010
+Fault:2478 SA:1
+Fault:2479 SA:0
+11111010001111010000010x1110xx010
+Fault:2479 SA:1
+0101101010111101000111101101xx010
+Fault:2480 SA:0
+11111010001111010000010x1110xx010
+Fault:2480 SA:1
+0101101010111101000111101101xx010
+Fault:2481 SA:0
+11111010001111010000000x1100xx010
+Fault:2481 SA:1
+0101101010111101000110101111xx010
+Fault:2482 SA:0
+11111010001111010000000x1100xx010
+Fault:2482 SA:1
+0101101010111101000110101111xx010
+Fault:2483 SA:0
+11111010001111010000110x1100xx010
+Fault:2483 SA:1
+0101101010111101000101101111xx010
+Fault:2484 SA:0
+11111010001111010000110x1100xx010
+Fault:2484 SA:1
+0101101010111101000101101111xx010
+Fault:2485 SA:0
+11111010001111010000100x1110xx010
+Fault:2485 SA:1
+0101101010111101000100101101xx010
+Fault:2486 SA:0
+0101101010100101000111101100xx010
+Fault:2486 SA:1
+1111101000111101001101101111xx010
+Fault:2487 SA:0
+0101101010100101000111101100xx010
+Fault:2487 SA:1
+1111101000111101001101101111xx010
+Fault:2488 SA:0
+0101101010100101000110101110xx010
+Fault:2488 SA:1
+1111101000111101001100101101xx010
+Fault:2489 SA:0
+0101101010100101000110101110xx010
+Fault:2489 SA:1
+1111101000111101001100101101xx010
+Fault:2490 SA:0
+0101101010100101000110101101xx010
+Fault:2490 SA:1
+1111101000111101001100101110xx010
+Fault:2491 SA:0
+0101101010100101000110101101xx010
+Fault:2491 SA:1
+1111101000111101001100101110xx010
+Fault:2492 SA:0
+0101101010100101000101101110xx010
+Fault:2492 SA:1
+1111101000111101001111101101xx010
+Fault:2493 SA:0
+0101101010100101000101101110xx010
+Fault:2493 SA:1
+1111101000111101001111101101xx010
+Fault:2494 SA:0
+0101101010100101000101101101xx010
+Fault:2494 SA:1
+1111101000111101001111101110xx010
+Fault:2495 SA:0
+0101101010100101000101101101xx010
+Fault:2495 SA:1
+1111101000111101001111101110xx010
+Fault:2496 SA:0
+0101101010100101000111101111xx010
+Fault:2496 SA:1
+1111101000111101001101101100xx010
+Fault:2497 SA:0
+0101101010100101000111101111xx010
+Fault:2497 SA:1
+1111101000111101001101101100xx010
+Fault:2498 SA:0
+0101101010100101000100101100xx010
+Fault:2498 SA:1
+Fault:2499 SA:0
+0101011000111101100010011100xx010
+Fault:2499 SA:1
+1111101010111101001110101101xx010
+Fault:2500 SA:0
+0101011000111101100010011100xx010
+Fault:2500 SA:1
+1111101010111101001110101101xx010
+Fault:2501 SA:0
+0101011000111101100011011101xx010
+Fault:2501 SA:1
+1111101010111101000111101101xx010
+Fault:2502 SA:0
+0101011000111101100011011101xx010
+Fault:2502 SA:1
+1111101010111101000111101101xx010
+Fault:2503 SA:0
+0101011000111101100001011100xx010
+Fault:2503 SA:1
+1111101010111101001101101101xx010
+Fault:2504 SA:0
+0101011000111101100001011100xx010
+Fault:2504 SA:1
+1111101010111101001101101101xx010
+Fault:2505 SA:0
+0101011000111101100011011110xx010
+Fault:2505 SA:1
+1111101010111101001111101111xx010
+Fault:2506 SA:0
+0101011000111101100011011110xx010
+Fault:2506 SA:1
+1111101010111101001111101111xx010
+Fault:2507 SA:0
+1101111011110110101000011110xx010
+Fault:2507 SA:1
+1101100001110110x110x0011101xx010
+Fault:2508 SA:0
+1101111011110110101000011110xx010
+Fault:2508 SA:1
+1101100001110110x110x0011101xx010
+Fault:2509 SA:0
+1101111011110110101000011101xx010
+Fault:2509 SA:1
+1101100101110110x110x0011101xx010
+Fault:2510 SA:0
+1101111011110110101000011101xx010
+Fault:2510 SA:1
+1101100101110110x110x0011101xx010
+Fault:2511 SA:0
+1101111011110110100000011100xx010
+Fault:2511 SA:1
+1101100011110110x110x0011101xx010
+Fault:2512 SA:0
+1101111011110110100000011100xx010
+Fault:2512 SA:1
+1101100011110110x110x0011101xx010
+Fault:2513 SA:0
+1101111011110110100000011010xx010
+Fault:2513 SA:1
+1101110111110110x110x0011101xx010
+Fault:2514 SA:0
+1101111011110110100000011010xx010
+Fault:2514 SA:1
+1101110111110110x110x0011101xx010
+Fault:2515 SA:0
+1101111011110110101000011000xx010
+Fault:2515 SA:1
+1101110101110110x110x0011101xx010
+Fault:2516 SA:0
+1101111011110010100000011110xx010
+Fault:2516 SA:1
+1100111101110110x110x0011101xx010
+Fault:2517 SA:0
+1101111011110010100000011000xx010
+Fault:2517 SA:1
+1100101001110110x110x0011101xx010
+Fault:2518 SA:0
+1101111011110010100000011011xx010
+Fault:2518 SA:1
+1100101101110110x110x0011101xx010
+Fault:2519 SA:0
+1101111011110010101000011010xx010
+Fault:2519 SA:1
+1100101011110110x110x0011101xx010
+Fault:2520 SA:0
+1101111011110010100100011010xx010
+Fault:2520 SA:1
+1100101001110110x111x0011111xx010
+Fault:2521 SA:0
+1100111101110110101000011111xx010
+Fault:2521 SA:1
+110111101110001110110x01x111xx010
+Fault:2522 SA:0
+1100111101110110101000011111xx010
+Fault:2522 SA:1
+110111101110001110110x01x111xx010
+Fault:2523 SA:0
+1100111101110110101000011100xx010
+Fault:2523 SA:1
+110111101110001110110x01x100xx010
+Fault:2524 SA:0
+1100111101110110101000011100xx010
+Fault:2524 SA:1
+110111101110001110110x01x100xx010
+Fault:2525 SA:0
+1100111101110110100000011101xx010
+Fault:2525 SA:1
+110111101110011110110x01x111xx010
+Fault:2526 SA:0
+1100111101110110100000011101xx010
+Fault:2526 SA:1
+110111101110011110110x01x111xx010
+Fault:2527 SA:0
+1100111101110110101000011010xx010
+Fault:2527 SA:1
+110111101111001110110x01x111xx010
+Fault:2528 SA:0
+1100111101110110101000011010xx010
+Fault:2528 SA:1
+110111101111001110110x01x111xx010
+Fault:2529 SA:0
+1100111101110110100000011011xx010
+Fault:2529 SA:1
+110111101111011110110x01x100xx010
+Fault:2530 SA:0
+1100111101110110100000011011xx010
+Fault:2530 SA:1
+110111101111011110110x01x100xx010
+Fault:2531 SA:0
+1100111101110110101000011001xx010
+Fault:2531 SA:1
+110111101111001110110x01x100xx010
+Fault:2532 SA:0
+1100111111110110100000011111xx010
+Fault:2532 SA:1
+110111101111011010110x01x100xx010
+Fault:2533 SA:0
+1100111111110110100000011001xx010
+Fault:2533 SA:1
+110111101110011010110x01x111xx010
+Fault:2534 SA:0
+1100111111110110100000011010xx010
+Fault:2534 SA:1
+110111101110011010110x01x100xx010
+Fault:2535 SA:0
+1100111111110110101000011011xx010
+Fault:2535 SA:1
+110111101110001010110x01x111xx010
+Fault:2536 SA:0
+1100111111110110110000011011xx010
+Fault:2536 SA:1
+110111101110011011110x01x101xx010
+Fault:2537 SA:0
+1101111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:2537 SA:1
+1101111011111111101000011110xx010
+Fault:2540 SA:0
+1101111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:2540 SA:1
+1101111011111111101000011000xx010
+Fault:2543 SA:0
+1101111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:2543 SA:1
+1101111011111111101000011011xx010
+Fault:2546 SA:0
+1101111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:2546 SA:1
+11011110111111111010000110000x111
+Fault:2549 SA:0
+1101111011xxxx1111xx0xx1xxxxxx1x0
+Fault:2549 SA:1
+1101111011111111101000011101x0111
+Fault:2552 SA:0
+1101111011xxxx1111xx0xx1xxxxxx1x0
+Fault:2552 SA:1
+1101111011111111101000011101xx010
+Fault:2555 SA:0
+1101111011xxxx1111xx0xx1xxxxxx1x0
+Fault:2555 SA:1
+1101111011111111101000011110x0111
+Fault:2558 SA:0
+1101111011111111101000011110xx010
+Fault:2558 SA:1
+0xxxxxxxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:2561 SA:0
+1101111011111111101000011000xx010
+Fault:2561 SA:1
+x0xxxxxxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:2564 SA:0
+1101111011111111101000011011xx010
+Fault:2564 SA:1
+xx0xxxxxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:2567 SA:0
+11011110111111111010000110000x1x1
+Fault:2567 SA:1
+xxx0xxxxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:2570 SA:0
+1101111011111111101000011101x01x1
+Fault:2570 SA:1
+xxxxxxxxx0xxxxxxx1xxxxx1xxxxxxxxx
+Fault:2573 SA:0
+1101111011111111101000011101xx010
+Fault:2573 SA:1
+xxxxxxxxxxxxxx0xx1xxxxx1xxxxxxxxx
+Fault:2576 SA:0
+1101111011111111101000011110x01x1
+Fault:2576 SA:1
+xxxxxxxxxxxxxxx0x1xxxxx1xxxxxxxxx
+Fault:2579 SA:0
+0100110111111111101000011101xx010
+Fault:2579 SA:1
+0xxxxxxxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:2580 SA:0
+1010111111111111100000010000xx010
+Fault:2580 SA:1
+x0xxxxxxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:2581 SA:0
+1101111011111111101000011011xx010
+Fault:2581 SA:1
+xx0xxxxxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:2582 SA:0
+1100111111001011100000011000xx010
+Fault:2582 SA:1
+xxx0xxxxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:2583 SA:0
+1100111100001111101000011000xx010
+Fault:2583 SA:1
+xxxxxxxxx0xxxxxxx1xxxxx1xxxxxxxxx
+Fault:2584 SA:0
+0000111110111101101000010010xx010
+Fault:2584 SA:1
+xxxxxxxxxxxxxx0xx1xxxxx1xxxxxxxxx
+Fault:2585 SA:0
+0000111111001000101001010001xx010
+Fault:2585 SA:1
+xxxxxxxxxxxxxxx0x1xxxxx1xxxxxxxxx
+Fault:2586 SA:0
+1101111011xxxx11111x0xx11111xx1x0
+Fault:2586 SA:1
+1101111011111111101000011110xx010
+Fault:2587 SA:0
+11111110xxxxxxxxx1xxxxx1xxxxxxxx0
+Fault:2587 SA:1
+1101111011111111101000011110xx010
+Fault:2588 SA:0
+1101111011xxxx11111x0xx11111xx1x0
+Fault:2588 SA:1
+1101111011111111101000011000xx010
+Fault:2589 SA:0
+11111110xxxxxxxxx1xxxxx1xxxxxxxx0
+Fault:2589 SA:1
+1101111011111111101000011000xx010
+Fault:2590 SA:0
+1101111011xxxx11111x0xx11111xx1x0
+Fault:2590 SA:1
+1101111011111111101000011011xx010
+Fault:2591 SA:0
+11111110xxxxxxxxx1xxxxx1xxxxxxxx0
+Fault:2591 SA:1
+1101111011111111101000011011xx010
+Fault:2592 SA:0
+1101111011xxxx11111x0xx11111xx1x0
+Fault:2592 SA:1
+11011110111111111010000110000x111
+Fault:2593 SA:0
+11111110xxxxxxxxx1xxxxx1xxxxxxxx0
+Fault:2593 SA:1
+11011110111111111010000110001x110
+Fault:2594 SA:0
+1101111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:2594 SA:1
+1101111011111011100000011110xx010
+Fault:2597 SA:0
+1101111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:2597 SA:1
+1101111011111011100000011101xx010
+Fault:2600 SA:0
+1101111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:2600 SA:1
+1101111011111011101000011100xx010
+Fault:2603 SA:0
+1101111011xxxx11x1xx0xx1xxxxxxxx0
+Fault:2603 SA:1
+1101111011111011100000011011xx010
+Fault:2606 SA:0
+1101111011xxxx1111xx0xx1xxxxxx1x0
+Fault:2606 SA:1
+1101111011111011101000011010xx010
+Fault:2609 SA:0
+1101111011xxxx11111x0xx11111xx1x0
+Fault:2609 SA:1
+1101111011111111101000011101x0111
+Fault:2610 SA:0
+xxxxxxxx11111011x1xxxxx1xxxxxxxx0
+Fault:2610 SA:1
+1101111011111111101000011101x1110
+Fault:2611 SA:0
+1101111011xxxx1111xx0xx1xxxxxx1x0
+Fault:2611 SA:1
+1101111011110110101000011110xx010
+Fault:2614 SA:0
+1101111011xxxx1111xx0xx1xxxxxx1x0
+Fault:2614 SA:1
+1101111011110110101000011101xx010
+Fault:2617 SA:0
+1101111011xxxx1111xx0xx1xxxxxx1x0
+Fault:2617 SA:1
+1101111011110110100000011100xx010
+Fault:2620 SA:0
+1101111011xxxx1111xx0xx1xxxxxx1x0
+Fault:2620 SA:1
+1101111011110110100000011010xx010
+Fault:2623 SA:0
+1101111011xxxx11111x0xx11111xx1x0
+Fault:2623 SA:1
+1101111011111111101000011101xx010
+Fault:2624 SA:0
+xxxxxxxx11111011x1xxxxx1xxxxxxxx0
+Fault:2624 SA:1
+1101111011111111101000011101xx010
+Fault:2625 SA:0
+1101111011xxxx11111x0xx11111xx1x0
+Fault:2625 SA:1
+1101111011111111101000011110x0111
+Fault:2626 SA:0
+xxxxxxxx11111011x1xxxxx1xxxxxxxx0
+Fault:2626 SA:1
+1101111011111111101000011110x1110
+Fault:2627 SA:0
+1101111011xxxx1111xx0xx1xxxxxxx10
+Fault:2627 SA:1
+1101111011111011100000011000xx010
+Fault:2628 SA:0
+1101111011xxxx1111xx0xx1xxxxxxx10
+Fault:2628 SA:1
+1101111011110110101000011000xx010
+Fault:2629 SA:0
+1101111011xxxx1111xx0xx1xxxxxxx10
+Fault:2629 SA:1
+1101111011110010100000011110xx010
+Fault:2630 SA:0
+1101111011xxxx1111xx0xx1xxxxxxx10
+Fault:2630 SA:1
+1101111011110010100000011000xx010
+Fault:2631 SA:0
+1101111011xxxx1111xx0xx1xxxxxxx10
+Fault:2631 SA:1
+1101111011110010100000011011xx010
+Fault:2632 SA:0
+1101111011xxxx1111xx0xx1xxxxxxx10
+Fault:2632 SA:1
+1101111011110010101000011010xx010
+Fault:2633 SA:0
+1101111011xxxx1111xx0xx1xxxxxxx10
+Fault:2633 SA:1
+1101111011110010100100011010xx010
+Fault:2634 SA:0
+110111101111011010x100011xxxxx010
+Fault:2634 SA:1
+1101111011110010110000011010xx010
+Fault:2635 SA:0
+1101111011111111101000011110xx010
+Fault:2635 SA:1
+1xxxxxxxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:2636 SA:0
+1101111011111111101000011000xx010
+Fault:2636 SA:1
+x1xxxxxxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:2637 SA:0
+1010111111111111100000010011xx010
+Fault:2637 SA:1
+xx1xxxxxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:2638 SA:0
+11011110111111111010000110000x1x1
+Fault:2638 SA:1
+xxx1xxxxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:2639 SA:0
+1101111011111011100000011110xx010
+Fault:2639 SA:1
+xxxx0xxxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:2642 SA:0
+1101111011111011100000011101xx010
+Fault:2642 SA:1
+xxxxx0xxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:2645 SA:0
+1101111011111011101000011100xx010
+Fault:2645 SA:1
+xxxxxx0xxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:2648 SA:0
+1101111011111011100000011011xx010
+Fault:2648 SA:1
+xxxxxxx0xxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:2651 SA:0
+1101111011111011101000011010xx010
+Fault:2651 SA:1
+xxxxxxxx0xxxxxxxx1xxxxx1xxxxxxxxx
+Fault:2654 SA:0
+1101111011111111101000011101x01x1
+Fault:2654 SA:1
+xxxxxxxxx1xxxxxxx1xxxxx1xxxxxxxxx
+Fault:2655 SA:0
+1101111011110110101000011110xx010
+Fault:2655 SA:1
+xxxxxxxxxx0xxxxxx1xxxxx1xxxxxxxxx
+Fault:2658 SA:0
+1101111011110110101000011101xx010
+Fault:2658 SA:1
+xxxxxxxxxxx0xxxxx1xxxxx1xxxxxxxxx
+Fault:2661 SA:0
+1101111011110110100000011100xx010
+Fault:2661 SA:1
+xxxxxxxxxxxx0xxxx1xxxxx1xxxxxxxxx
+Fault:2664 SA:0
+1101111011110110100000011010xx010
+Fault:2664 SA:1
+xxxxxxxxxxxxx0xxx1xxxxx1xxxxxxxxx
+Fault:2667 SA:0
+1101111011111111101000011101xx010
+Fault:2667 SA:1
+xxxxxxxxxxxxxx1xx1xxxxx1xxxxxxxxx
+Fault:2668 SA:0
+1101111011111111101000011110x01x1
+Fault:2668 SA:1
+xxxxxxxxxxxxxxx1x1xxxxx1xxxxxxxxx
+Fault:2669 SA:0
+0xxxxxxxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:2669 SA:1
+0101110011110111101000011010xx010
+Fault:2670 SA:0
+1xxxxxxxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:2670 SA:1
+1101111011111111101000011110xx010
+Fault:2671 SA:0
+x0xxxxxxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:2671 SA:1
+0001111011111111101000011110xx010
+Fault:2672 SA:0
+x1xxxxxxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:2672 SA:1
+1101111011111111101000011000xx010
+Fault:2673 SA:0
+xx0xxxxxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:2673 SA:1
+1101111011111111101000011011xx010
+Fault:2674 SA:0
+xx1xxxxxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:2674 SA:1
+1010111111111111100000010011xx010
+Fault:2675 SA:0
+xxx0xxxxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:2675 SA:1
+1100111011xxxx1110100x0x10000x1x1
+Fault:2676 SA:0
+xxx1xxxxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:2676 SA:1
+11011110111111111010000110000x1x1
+Fault:2677 SA:0
+1100011011110111101001011110xx010
+Fault:2677 SA:1
+xxxx0xxxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:2678 SA:0
+1100001111110011100000011001xx010
+Fault:2678 SA:1
+xxxxx0xxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:2679 SA:0
+1100100111110111101001011000xx010
+Fault:2679 SA:1
+xxxxxx0xxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:2680 SA:0
+1101111011111011100000011011xx010
+Fault:2680 SA:1
+xxxxxxx0xxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:2681 SA:0
+0000111101001011101011011110xx010
+Fault:2681 SA:1
+xxxxxxxx0xxxxxxxx1xxxxx1xxxxxxxxx
+Fault:2682 SA:0
+xxxxxxxxx0xxxxxxx1xxxxx1xxxxxxxxx
+Fault:2682 SA:1
+1101111000110111101000011101x01x1
+Fault:2683 SA:0
+xxxxxxxxx1xxxxxxx1xxxxx1xxxxxxxxx
+Fault:2683 SA:1
+1101111011111111101000011101x01x1
+Fault:2684 SA:0
+1101111011000110101000011101xx010
+Fault:2684 SA:1
+xxxxxxxxxx0xxxxxx1xxxxx1xxxxxxxxx
+Fault:2685 SA:0
+1101111011000110101000011110xx010
+Fault:2685 SA:1
+xxxxxxxxxxx0xxxxx1xxxxx1xxxxxxxxx
+Fault:2686 SA:0
+1101111011110110100000011100xx010
+Fault:2686 SA:1
+xxxxxxxxxxxx0xxxx1xxxxx1xxxxxxxxx
+Fault:2687 SA:0
+1101111011000010101001011011xx010
+Fault:2687 SA:1
+xxxxxxxxxxxxx0xxx1xxxxx1xxxxxxxxx
+Fault:2688 SA:0
+xxxxxxxxxxxxxx0xx1xxxxx1xxxxxxxxx
+Fault:2688 SA:1
+1101111010111101100000011111x01x1
+Fault:2689 SA:0
+xxxxxxxxxxxxxx1xx1xxxxx1xxxxxxxxx
+Fault:2689 SA:1
+1101111011111111101000011101xx010
+Fault:2690 SA:0
+xxxxxxxxxxxxxxx0x1xxxxx1xxxxxxxxx
+Fault:2690 SA:1
+1101111011111100101000011101xx010
+Fault:2691 SA:0
+xxxxxxxxxxxxxxx1x1xxxxx1xxxxxxxxx
+Fault:2691 SA:1
+1101111011111111101000011110x01x1
+Fault:2692 SA:0
+1101111011xxxx11111x0xx11111xx1x0
+Fault:2692 SA:1
+1101111011111011100000011110xx010
+Fault:2693 SA:0
+11111110xxxxxxxxx1xxxxx1xxxxxxxx0
+Fault:2693 SA:1
+1101111011111011100000011110xx010
+Fault:2694 SA:0
+1101111011xxxx11111x0xx11111xx1x0
+Fault:2694 SA:1
+1101111011111011100000011101xx010
+Fault:2695 SA:0
+11111110xxxxxxxxx1xxxxx1xxxxxxxx0
+Fault:2695 SA:1
+1101111011111011100000011101xx010
+Fault:2696 SA:0
+1101111011xxxx11111x0xx11111xx1x0
+Fault:2696 SA:1
+1101111011111011101000011100xx010
+Fault:2697 SA:0
+11111110xxxxxxxxx1xxxxx1xxxxxxxx0
+Fault:2697 SA:1
+1101111011111011101000011100xx010
+Fault:2698 SA:0
+1101111011xxxx11111x0xx11111xx1x0
+Fault:2698 SA:1
+1101111011111011100000011011xx010
+Fault:2699 SA:0
+11111110xxxxxxxxx1xxxxx1xxxxxxxx0
+Fault:2699 SA:1
+1101111011111011100000011011xx010
+Fault:2700 SA:0
+1101111011xxxx11111x0xx11111xx1x0
+Fault:2700 SA:1
+1101111011111011101000011010xx010
+Fault:2701 SA:0
+xxxxxxxx11111011x1xxxxx1xxxxxxxx0
+Fault:2701 SA:1
+1101111011111011101000011010xx010
+Fault:2702 SA:0
+1101111011xxxx11111x0xx11111xx1x0
+Fault:2702 SA:1
+1101111011110110101000011110xx010
+Fault:2703 SA:0
+xxxxxxxx11111011x1xxxxx1xxxxxxxx0
+Fault:2703 SA:1
+1101111011110110101000011110xx010
+Fault:2704 SA:0
+1101111011xxxx11111x0xx11111xx1x0
+Fault:2704 SA:1
+1101111011110110101000011101xx010
+Fault:2705 SA:0
+xxxxxxxx11111011x1xxxxx1xxxxxxxx0
+Fault:2705 SA:1
+1101111011110110101000011101xx010
+Fault:2706 SA:0
+1101111011xxxx11111x0xx11111xx1x0
+Fault:2706 SA:1
+1101111011110110100000011100xx010
+Fault:2707 SA:0
+xxxxxxxx11111011x1xxxxx1xxxxxxxx0
+Fault:2707 SA:1
+1101111011110110100000011100xx010
+Fault:2708 SA:0
+1101111011xxxx11111x0xx11111xx1x0
+Fault:2708 SA:1
+1101111011110110100000011010xx010
+Fault:2709 SA:0
+xxxxxxxx11111011x1xxxxx1xxxxxxxx0
+Fault:2709 SA:1
+1101111011110110100000011010xx010
+Fault:2710 SA:0
+1101111011xxxx1111xx0xx1xxxxxxx10
+Fault:2710 SA:1
+1101111011111011100000011000xx010
+Fault:2711 SA:0
+1101111011111011100000011110xx010
+Fault:2711 SA:1
+xxxx1xxxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:2712 SA:0
+1101111011111011100000011101xx010
+Fault:2712 SA:1
+xxxxx1xxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:2713 SA:0
+1101111011111011101000011100xx010
+Fault:2713 SA:1
+xxxxxx1xxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:2714 SA:0
+1100111111111111100000011010xx010
+Fault:2714 SA:1
+xxxxxxx1xxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:2715 SA:0
+1101111011111011101000011010xx010
+Fault:2715 SA:1
+xxxxxxxx1xxxxxxxx1xxxxx1xxxxxxxxx
+Fault:2716 SA:0
+1101111011110110101000011110xx010
+Fault:2716 SA:1
+xxxxxxxxxx1xxxxxx1xxxxx1xxxxxxxxx
+Fault:2717 SA:0
+1101111011110110101000011101xx010
+Fault:2717 SA:1
+xxxxxxxxxxx1xxxxx1xxxxx1xxxxxxxxx
+Fault:2718 SA:0
+1101111011011110101000011110xx010
+Fault:2718 SA:1
+xxxxxxxxxxxx1xxxx1xxxxx1xxxxxxxxx
+Fault:2719 SA:0
+1101111011110110100000011010xx010
+Fault:2719 SA:1
+xxxxxxxxxxxxx1xxx1xxxxx1xxxxxxxxx
+Fault:2720 SA:0
+0xxxxxxxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:2720 SA:1
+1xxxxxxxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:2721 SA:0
+x0xxxxxxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:2721 SA:1
+x1xxxxxxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:2722 SA:0
+xx0xxxxxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:2722 SA:1
+xx1xxxxxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:2723 SA:0
+xxx0xxxxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:2723 SA:1
+xxx1xxxxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:2724 SA:0
+xxxx0xxxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:2724 SA:1
+1101011111111011100000011011xx010
+Fault:2725 SA:0
+xxxx1xxxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:2725 SA:1
+1101111011111011100000011110xx010
+Fault:2726 SA:0
+xxxxx0xxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:2726 SA:1
+1101001011111011100000011110xx010
+Fault:2727 SA:0
+xxxxx1xxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:2727 SA:1
+1101111011111011100000011101xx010
+Fault:2728 SA:0
+xxxxxx0xxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:2728 SA:1
+1101100011111011100000011101xx010
+Fault:2729 SA:0
+xxxxxx1xxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:2729 SA:1
+1101111011111011101000011100xx010
+Fault:2730 SA:0
+xxxxxxx0xxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:2730 SA:1
+1101111011111011100000011011xx010
+Fault:2731 SA:0
+xxxxxxx1xxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:2731 SA:1
+1100111111111111100000011010xx010
+Fault:2732 SA:0
+xxxxxxxx0xxxxxxxx1xxxxx1xxxxxxxxx
+Fault:2732 SA:1
+1101111001111011100010011000xx010
+Fault:2733 SA:0
+xxxxxxxx1xxxxxxxx1xxxxx1xxxxxxxxx
+Fault:2733 SA:1
+1101111011111011101000011010xx010
+Fault:2734 SA:0
+xxxxxxxxx0xxxxxxx1xxxxx1xxxxxxxxx
+Fault:2734 SA:1
+xxxxxxxxx1xxxxxxx1xxxxx1xxxxxxxxx
+Fault:2735 SA:0
+xxxxxxxxxx0xxxxxx1xxxxx1xxxxxxxxx
+Fault:2735 SA:1
+1101111011000110101000011101xx010
+Fault:2736 SA:0
+xxxxxxxxxx1xxxxxx1xxxxx1xxxxxxxxx
+Fault:2736 SA:1
+1101111011110110101000011110xx010
+Fault:2737 SA:0
+xxxxxxxxxxx0xxxxx1xxxxx1xxxxxxxxx
+Fault:2737 SA:1
+1101111011000110101000011110xx010
+Fault:2738 SA:0
+xxxxxxxxxxx1xxxxx1xxxxx1xxxxxxxxx
+Fault:2738 SA:1
+1101111011110110101000011101xx010
+Fault:2739 SA:0
+xxxxxxxxxxxx0xxxx1xxxxx1xxxxxxxxx
+Fault:2739 SA:1
+1101111011110110100000011100xx010
+Fault:2740 SA:0
+xxxxxxxxxxxx1xxxx1xxxxx1xxxxxxxxx
+Fault:2740 SA:1
+1101111011011110101000011110xx010
+Fault:2741 SA:0
+xxxxxxxxxxxxx0xxx1xxxxx1xxxxxxxxx
+Fault:2741 SA:1
+1101111011110010101001011000xx010
+Fault:2742 SA:0
+xxxxxxxxxxxxx1xxx1xxxxx1xxxxxxxxx
+Fault:2742 SA:1
+1101111011110110100000011010xx010
+Fault:2743 SA:0
+xxxxxxxxxxxxxx0xx1xxxxx1xxxxxxxxx
+Fault:2743 SA:1
+xxxxxxxxxxxxxx1xx1xxxxx1xxxxxxxxx
+Fault:2744 SA:0
+xxxxxxxxxxxxxxx0x1xxxxx1xxxxxxxxx
+Fault:2744 SA:1
+xxxxxxxxxxxxxxx1x1xxxxx1xxxxxxxxx
+Fault:2745 SA:0
+1101111011111111101000011110xx010
+Fault:2745 SA:1
+11111110xxxxxxxxx1xxxxx1xxxxxxxx0
+Fault:2746 SA:0
+1101111011111011101000011010xx010
+Fault:2746 SA:1
+xxxxxxxx11111011x1xxxxx1xxxxxxxx0
+Fault:2747 SA:0
+1101111011xxxx11111x0xx11111xx1x0
+Fault:2747 SA:1
+1101111011111111101000011110xx010
+Fault:2750 SA:0
+1101111011xxxx11111x0xx11111xx1x0
+Fault:2750 SA:1
+1101111011111011101000011010xx010
+Fault:2753 SA:0
+1101110011xxxx1110xx0xx1xxxxxx0xx
+Fault:2753 SA:1
+0xxxxxxxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:2754 SA:0
+0101111011xxxx1110xx0xx1xxxxxx0xx
+Fault:2754 SA:1
+x0xxxxxxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:2755 SA:0
+1101111011111111101000011011xx010
+Fault:2755 SA:1
+xx0xxxxxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:2756 SA:0
+1101111011xxxx1100xx0xxxxxxxxxxxx
+Fault:2756 SA:1
+xxx0xxxxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:2757 SA:0
+xxxx0xxxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:2757 SA:1
+xxxx1xxxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:2758 SA:0
+xxxxx0xxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:2758 SA:1
+xxxxx1xxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:2759 SA:0
+xxxxxx0xxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:2759 SA:1
+xxxxxx1xxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:2760 SA:0
+xxxxxxx0xxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:2760 SA:1
+xxxxxxx1xxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:2761 SA:0
+xxxxxxxx0xxxxxxxx1xxxxx1xxxxxxxxx
+Fault:2761 SA:1
+xxxxxxxx1xxxxxxxx1xxxxx1xxxxxxxxx
+Fault:2762 SA:0
+1101111001xxxx1110xx0xx1xxxxxx0xx
+Fault:2762 SA:1
+xxxxxxxxx0xxxxxxx1xxxxx1xxxxxxxxx
+Fault:2763 SA:0
+xxxxxxxxxx0xxxxxx1xxxxx1xxxxxxxxx
+Fault:2763 SA:1
+xxxxxxxxxx1xxxxxx1xxxxx1xxxxxxxxx
+Fault:2764 SA:0
+xxxxxxxxxxx0xxxxx1xxxxx1xxxxxxxxx
+Fault:2764 SA:1
+xxxxxxxxxxx1xxxxx1xxxxx1xxxxxxxxx
+Fault:2765 SA:0
+xxxxxxxxxxxx0xxxx1xxxxx1xxxxxxxxx
+Fault:2765 SA:1
+xxxxxxxxxxxx1xxxx1xxxxx1xxxxxxxxx
+Fault:2766 SA:0
+xxxxxxxxxxxxx0xxx1xxxxx1xxxxxxxxx
+Fault:2766 SA:1
+xxxxxxxxxxxxx1xxx1xxxxx1xxxxxxxxx
+Fault:2767 SA:0
+1101111010xxxx1110xx0xx1xxxxxx0xx
+Fault:2767 SA:1
+xxxxxxxxxxxxxx0xx1xxxxx1xxxxxxxxx
+Fault:2768 SA:0
+1101111011xxxx0110xx0xx1xxxxxx0xx
+Fault:2768 SA:1
+xxxxxxxxxxxxxxx0x1xxxxx1xxxxxxxxx
+Fault:2769 SA:0
+1101111011110011111x00011111xx11x
+Fault:2769 SA:1
+11011110111111111000000111000x111
+Fault:2770 SA:0
+1101111011110011111x00011111xx11x
+Fault:2770 SA:1
+1101111011111011101000010010x0111
+Fault:2771 SA:0
+1101111011xxxx1111xx0xx1xxxxxxx10
+Fault:2771 SA:1
+1101111011111111101000011110xx010
+Fault:2772 SA:0
+1101111011xxxx1111xx0xx1xxxxxxx10
+Fault:2772 SA:1
+1101111011111011101000011010xx010
+Fault:2773 SA:0
+1101111011111111101000011110xx010
+Fault:2773 SA:1
+11111110xxxxxxxxx1xx1xx1xxxx1xxxx
+Fault:2776 SA:0
+1101111011111011101000011010xx010
+Fault:2776 SA:1
+xxxxxxxxxxxxxxxxx1xxxxx1xxxxx0xx1
+Fault:2779 SA:0
+1101111111xxxx1110xx0xx1xxxxxx0xx
+Fault:2779 SA:1
+xxxx0xxxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:2780 SA:0
+1101011011xxxx1110xx0xx1xxxxxx0xx
+Fault:2780 SA:1
+xxxxx0xxxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:2781 SA:0
+1101101011xxxx1110xx0xx1xxxxxx0xx
+Fault:2781 SA:1
+xxxxxx0xxxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:2782 SA:0
+1101111011111011100000011011xx010
+Fault:2782 SA:1
+xxxxxxx0xxxxxxxxx1xxxxx1xxxxxxxxx
+Fault:2783 SA:0
+1101111011xxxx1110xx1xx1xxxxxx0x0
+Fault:2783 SA:1
+xxxxxxxx0xxxxxxxx1xxxxx1xxxxxxxxx
+Fault:2784 SA:0
+110111101111011010x000x10xxxxx0xx
+Fault:2784 SA:1
+xxxxxxxxxx0xxxxxx1xxxxx1xxxxxxxxx
+Fault:2785 SA:0
+110111101101011010x000x11xxxxx0xx
+Fault:2785 SA:1
+xxxxxxxxxxx0xxxxx1xxxxx1xxxxxxxxx
+Fault:2786 SA:0
+1101111011110110100000011100xx010
+Fault:2786 SA:1
+xxxxxxxxxxxx0xxxx1xxxxx1xxxxxxxxx
+Fault:2787 SA:0
+110111101111011010x001x11xxxxx0x0
+Fault:2787 SA:1
+xxxxxxxxxxxxx0xxx1xxxxx1xxxxxxxxx
+Fault:2788 SA:0
+1101111011xxxx1111xx0xx1xxxxxxx10
+Fault:2788 SA:1
+1101111011111111101000011110xx010
+Fault:2789 SA:0
+11011110111111111000000111000x111
+Fault:2789 SA:1
+1101111011110011111x00011111xx11x
+Fault:2796 SA:0
+1110111111110011100010011010xx010
+Fault:2796 SA:1
+11111110xxxxxxxxx1xx1xx1xxxx1xxxx
+Fault:2797 SA:0
+1101111011111011101000011010xx010
+Fault:2797 SA:1
+xxxxxxxxxxxxxxxxx1xxxxx1xxxxx0xx1
+Fault:2798 SA:0
+1101111011111111101000011110xx010
+Fault:2798 SA:1
+11011110xxxxxxxxx1xxxxx1xxxxxxxx0
+Fault:2799 SA:0
+1101111011011011101000010100xx010
+Fault:2799 SA:1
+xxxxxxxx11111010x1xxxxx1xxxxxxxx0
+Fault:2800 SA:0
+xxx1xx1x00xx11x1xx11xx1xxxxxxx110
+Fault:2800 SA:1
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx1
+Fault:2801 SA:0
+11011110111111111000000111000x111
+Fault:2801 SA:1
+1101111011xxxx1111xx0xx1xxxxxx11x
+Fault:2802 SA:0
+11011110111111111000000111000x111
+Fault:2802 SA:1
+1110xxxxx1110110x1xxx0x11xxxxx11x
+Fault:2803 SA:0
+11011110111111111000000111000x111
+Fault:2803 SA:1
+1xxx110xx1110x11x1xxxxx1x1xxxx11x
+Fault:2804 SA:0
+1101111011111111100000011111xx110
+Fault:2804 SA:1
+x1xx1xx11x1xx111x1xxxxx1xx1xxx11x
+Fault:2805 SA:0
+1101111011111111100000011111xx110
+Fault:2805 SA:1
+xx1xx1x1x1x1xx1xx10xxxx1xxx1xx11x
+Fault:2806 SA:0
+1101111011111111101000011000xx110
+Fault:2806 SA:1
+xxx1xx1x00xx01x1x11xxx01xxxxxx11x
+Fault:2807 SA:0
+11111110xxxxxxxxx1xx1xx1xxxx1xxxx
+Fault:2807 SA:1
+1110111111110011100010011010xx010
+Fault:2808 SA:0
+11011110xxxxxxxxx1xxxxx1xxxxxxxx0
+Fault:2808 SA:1
+1101111011111111101000011110xx010
+Fault:2809 SA:0
+xxxxxxxxxxxxxxxxx1xxxxx1xxxxx0xx1
+Fault:2809 SA:1
+1101111011111011101000011010xx010
+Fault:2810 SA:0
+xxxxxxxx11111010x1xxxxx1xxxxxxxx0
+Fault:2810 SA:1
+1101111011011011101000010100xx010
+Fault:2811 SA:0
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx1
+Fault:2811 SA:1
+xxx1xx1x00xx11x1xx11xx1xxxxxxx100
+Fault:2812 SA:0
+1101111011xxxx111000xx0111000x111
+Fault:2812 SA:1
+1101111011xxxx110xxx0xxxxxxxxxx1x
+Fault:2815 SA:0
+1110xxxxx11101101000xx0x11000x111
+Fault:2815 SA:1
+1110xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:2818 SA:0
+x1xx1xx11x1xx1111000xx0x10100x111
+Fault:2818 SA:1
+x1xx1xx11x1xx111x0xxxxxxxx0xxxx1x
+Fault:2821 SA:0
+xx1xx1x1x1x1xx1x1000xx0x10010x111
+Fault:2821 SA:1
+xx1xx1x1x1x1xx1xxx0xxxxxxxx0xxx1x
+Fault:2824 SA:0
+xxx1xx1x00xx01x11010xx0x10000x111
+Fault:2824 SA:1
+xxx1xx1x00xx11x1xx01xx1xxxxxxxxx0
+Fault:2827 SA:0
+11111110xxxxxxxxx1xx1xx1xxxx1xxxx
+Fault:2827 SA:1
+11011110xxxxxxxxx1xxxxx1xxxxxxxx0
+Fault:2828 SA:0
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxx0xx1
+Fault:2828 SA:1
+xxxxxxxx11111010x1xxxxx1xxxxxxxx0
+Fault:2829 SA:0
+1xxx110xx1110x111000xx0x11000x111
+Fault:2829 SA:1
+1xxx110xx1110x110xxxxxxxx0xxxxx1x
+Fault:2832 SA:0
+1101111011xxxx111000xx0111000x111
+Fault:2832 SA:1
+1101111011xxxx110xxx0xxxxxxxxxx1x
+Fault:2833 SA:0
+1110xxxxx11101101000xx0x11000x111
+Fault:2833 SA:1
+1110xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:2834 SA:0
+x1xx1xx11x1xx1111000xx0x10100x111
+Fault:2834 SA:1
+x1xx1xx11x1xx111x0xxxxxxxx0xxxx1x
+Fault:2835 SA:0
+xx1xx1x1x1x1xx1x1000xx0x10010x111
+Fault:2835 SA:1
+xx1xx1x1x1x1xx1xxx0xxxxxxxx0xxx1x
+Fault:2836 SA:0
+xxx1xx1x00xx01x11010xx0x10000x111
+Fault:2836 SA:1
+xxx1xx1x00xx11x1xx01xx1xxxxxxxxx0
+Fault:2837 SA:0
+1101111011xxxx101000xx0111000x111
+Fault:2837 SA:1
+1101111011xxxx100xxx0xxxxxxxxxx1x
+Fault:2838 SA:0
+1111xxxxx11101101000xx0x11000x111
+Fault:2838 SA:1
+1111xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:2839 SA:0
+1xxx110xx1110x111000xx0x11000x111
+Fault:2839 SA:1
+1xxx110xx1110x110xxxxxxxx0xxxxx1x
+Fault:2840 SA:0
+x1xx1xx10x1xx1111000xx0x10100x111
+Fault:2840 SA:1
+x1xx1xx10x1xx111x0xxxxxxxx0xxxx1x
+Fault:2841 SA:0
+xx1xx1x0x1x1xx1x1000xx0x10010x111
+Fault:2841 SA:1
+xx1xx1x0x1x1xx1xxx0xxxxxxxx0xxx1x
+Fault:2842 SA:0
+xxx1xx1x10xx01x11010xx0x10000x111
+Fault:2842 SA:1
+xxx1xx1x10xx11x1xx01xx1xxxxxxxxx0
+Fault:2843 SA:0
+1101111011111111101000011110xx011
+Fault:2843 SA:1
+11111110xxxxxxxxx1xx1xx1xxxx1xxxx
+Fault:2846 SA:0
+1101111011111011101000011010xx010
+Fault:2846 SA:1
+xxxxxxxxxxxxxxxxx1xxxxx1xxxxx0xx1
+Fault:2849 SA:0
+1xxx110xx1111x111000xx0x11000x111
+Fault:2849 SA:1
+1xxx110xx1111x110xxxxxxxx0xxxxx1x
+Fault:2850 SA:0
+1101111011xxxx110xxx0xxxxxxxxxx1x
+Fault:2850 SA:1
+1101111011xxxx111000xx0111000x111
+Fault:2851 SA:0
+1110xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:2851 SA:1
+1110xxxxx11101101000xx0x11000x111
+Fault:2852 SA:0
+x1xx1xx11x1xx111x0xxxxxxxx0xxxx1x
+Fault:2852 SA:1
+x1xx1xx11x1xx1111000xx0x10100x111
+Fault:2853 SA:0
+xx1xx1x1x1x1xx1xxx0xxxxxxxx0xxx1x
+Fault:2853 SA:1
+xx1xx1x1x1x1xx1x1000xx0x10010x111
+Fault:2854 SA:0
+xxx1xx1x00xx11x1xx01xx1xxxxxxxxx0
+Fault:2854 SA:1
+xxx1xx1x00xx01x11010xx0x10000x111
+Fault:2855 SA:0
+1101111011111111101000011110xx000
+Fault:2855 SA:1
+11111110xxxxxxxxx1xx1xx1xxxx1xxxx
+Fault:2856 SA:0
+1101111011111011101000011010xx010
+Fault:2856 SA:1
+xxxxxxxx11111011x1xxx1x1xxxxx1xx1
+Fault:2857 SA:0
+1101111011xxxx100xxx0xxxxxxxxxx1x
+Fault:2857 SA:1
+1101111011xxxx101000xx0111000x111
+Fault:2858 SA:0
+1111xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:2858 SA:1
+1111xxxxx11101101000xx0x11000x111
+Fault:2859 SA:0
+x1xx1xx10x1xx111x0xxxxxxxx0xxxx1x
+Fault:2859 SA:1
+x1xx1xx10x1xx1111000xx0x10100x111
+Fault:2860 SA:0
+xx1xx1x0x1x1xx1xxx0xxxxxxxx0xxx1x
+Fault:2860 SA:1
+xx1xx1x0x1x1xx1x1000xx0x10010x111
+Fault:2861 SA:0
+xxx1xx1x10xx11x1xx01xx1xxxxxxxxx0
+Fault:2861 SA:1
+xxx1xx1x10xx01x11010xx0x10000x111
+Fault:2862 SA:0
+1xxx110xx1111x110xxxxxxxx0xxxxx1x
+Fault:2862 SA:1
+1xxx110xx1111x111000xx0x11000x111
+Fault:2863 SA:0
+1xxx110xx1110x110xxxxxxxx0xxxxx1x
+Fault:2863 SA:1
+1xxx110xx1110x111000xx0x11000x111
+Fault:2864 SA:0
+1101111011111111101000011110xx011
+Fault:2864 SA:1
+11111110xxxxxxxxx1xx0xx1xxxxxxxx1
+Fault:2865 SA:0
+Fault:2865 SA:1
+xxxxxxxxxxxxxxxxx1xxxxx1xxxxx0xx1
+Fault:2866 SA:0
+1101111011xxxx110xxx0xxxxxxxxxx1x
+Fault:2866 SA:1
+1101111011xxxx100xxx0xxxxxxxxxx1x
+Fault:2867 SA:0
+1110xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:2867 SA:1
+1111xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:2868 SA:0
+x1xx1xx11x1xx111x0xxxxxxxx0xxxx1x
+Fault:2868 SA:1
+x1xx1xx10x1xx111x0xxxxxxxx0xxxx1x
+Fault:2869 SA:0
+xx1xx1x1x1x1xx1xxx0xxxxxxxx0xxx1x
+Fault:2869 SA:1
+xx1xx1x0x1x1xx1xxx0xxxxxxxx0xxx1x
+Fault:2870 SA:0
+xxx1xx1x00xx11x1xx01xx1xxxxxxxxx0
+Fault:2870 SA:1
+xxx1xx1x10xx11x1xx01xx1xxxxxxxxx0
+Fault:2871 SA:0
+11111110xxxxxxxxx1xx1xx1xxxx1xxxx
+Fault:2871 SA:1
+1101111011111111101000011110xx000
+Fault:2872 SA:0
+11111110xxxxxxxxx1xx0xx1xxxxxxxx1
+Fault:2872 SA:1
+1101111011111111101000011110xx011
+Fault:2873 SA:0
+xxxxxxxx11111011x1xxx1x1xxxxx1xx1
+Fault:2873 SA:1
+1101111011111011101000011010xx010
+Fault:2874 SA:0
+xxxxxxxxxxxxxxxxx1xxxxx1xxxxx0xx1
+Fault:2874 SA:1
+Fault:2875 SA:0
+1xxx110xx1110x110xxxxxxxx0xxxxx1x
+Fault:2875 SA:1
+1xxx110xx1111x110xxxxxxxx0xxxxx1x
+Fault:2876 SA:0
+1101111011xxxx100xxx0xxxxxxxxxx1x
+Fault:2876 SA:1
+1101111011xxxx110xxx0xxxxxxxxxx1x
+Fault:2877 SA:0
+1111xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:2877 SA:1
+1110xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:2878 SA:0
+x1xx1xx10x1xx111x0xxxxxxxx0xxxx1x
+Fault:2878 SA:1
+x1xx1xx11x1xx111x0xxxxxxxx0xxxx1x
+Fault:2879 SA:0
+xx1xx1x0x1x1xx1xxx0xxxxxxxx0xxx1x
+Fault:2879 SA:1
+xx1xx1x1x1x1xx1xxx0xxxxxxxx0xxx1x
+Fault:2880 SA:0
+xxx1xx1x10xx11x1xx01xx1xxxxxxxxx0
+Fault:2880 SA:1
+xxx1xx1x00xx11x1xx01xx1xxxxxxxxx0
+Fault:2881 SA:0
+11111110xxxxxxxxx1xx1xx1xxxx1xxxx
+Fault:2881 SA:1
+11111110xxxxxxxxxxxx0xxxxxxxxxxx1
+Fault:2882 SA:0
+xxxxxxxx11111011x1xxx1x1xxxxx1xxx
+Fault:2882 SA:1
+xxxxxxxxxxxxxxxxxxxxx0xxxxxxx0xx1
+Fault:2883 SA:0
+1xxx110xx1111x110xxxxxxxx0xxxxx1x
+Fault:2883 SA:1
+1xxx110xx1110x110xxxxxxxx0xxxxx1x
+Fault:2886 SA:0
+1101111011xxxx100xxx0xxxxxxxxxx1x
+Fault:2886 SA:1
+1101111011xxxx110xxx0xxxxxxxxxxxx
+Fault:2887 SA:0
+1111xxxxx1110110xxxxx0xx0xxxxxx1x
+Fault:2887 SA:1
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx01
+Fault:2888 SA:0
+x1xx1xx10x1xx111x0xxxxxxxx0xxxx1x
+Fault:2888 SA:1
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx01
+Fault:2889 SA:0
+xx1xx1x0x1x1xx1xxx0xxxxxxxx0xxx1x
+Fault:2889 SA:1
+xx1xx1x1x1x1xx1xxx0xxxxxxxx0xxxxx
+Fault:2890 SA:0
+xxx1xx1x10xx11x1xx01xx1xxxxxxxx10
+Fault:2890 SA:1
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx01
+Fault:2891 SA:0
+1101111011111111101000011110xx011
+Fault:2891 SA:1
+11111110xxxxxxxxx1xx1xx1xxxx1xxxx
+Fault:2892 SA:0
+1101111011111011101000011010xx010
+Fault:2892 SA:1
+xxxxxxxx11111011x1xxx1x1xxxxx1xx1
+Fault:2893 SA:0
+1xxx110xx1111x110xxxxxxxx0xxxxx1x
+Fault:2893 SA:1
+1xxx110xx1110x110xxxxxxxx0xxxxx1x
+Fault:2894 SA:0
+0xxx110xx1111x110xxxxxxxx0xxxxx1x
+Fault:2894 SA:1
+0xxx110xx1110x110xxxxxxxx0xxxxx1x
+Fault:2895 SA:0
+1xxx110xx1110x110xxxxxxxx0xxxxx1x
+Fault:2895 SA:1
+1xxx110xx1111x110xxxxxxxx0xxxxx1x
+Fault:2896 SA:0
+0xxx110xx1110x110xxxxxxxx0xxxxx1x
+Fault:2896 SA:1
+0xxx110xx1111x110xxxxxxxx0xxxxx1x
+Fault:2897 SA:0
+1xxx110xx1110x110xxxxxxxx0xxxxx1x
+Fault:2897 SA:1
+0xxx110xx1110x110xxxxxxxx0xxxxx1x
+Fault:2898 SA:0
+1xxx110xx1111x110xxxxxxxx0xxxxx1x
+Fault:2898 SA:1
+1xxx110xx1110x110xxxxxxxx0xxxxx1x
+Fault:2899 SA:0
+1xxx110xx1111x110xxxxxxxx0xxxxx1x
+Fault:2899 SA:1
+1xxx110xx1110x110xxxxxxxx0xxxxxxx
+Total SAF: 3816
+SAF Success: 3790
+SAF Failure: 9
+SAF Timeout: 17
+SAF Coverage: 99.32%

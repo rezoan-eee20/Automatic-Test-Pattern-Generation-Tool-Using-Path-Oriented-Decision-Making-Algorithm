@@ -1,0 +1,73 @@
+Fault:1 SA:0
+101xx
+Fault:1 SA:1
+001xx
+Fault:2 SA:0
+x10xx
+Fault:2 SA:1
+x00xx
+Fault:3 SA:0
+1011x
+Fault:3 SA:1
+1001x
+Fault:6 SA:0
+x1111
+Fault:6 SA:1
+x1101
+Fault:7 SA:0
+x00x1
+Fault:7 SA:1
+x00x0
+Fault:8 SA:0
+101xx
+Fault:8 SA:1
+100xx
+Fault:9 SA:0
+x1111
+Fault:9 SA:1
+x101x
+Fault:10 SA:0
+00xxx
+Fault:10 SA:1
+101xx
+Fault:11 SA:0
+x10xx
+Fault:11 SA:1
+x1111
+Fault:14 SA:0
+x10xx
+Fault:14 SA:1
+x111x
+Fault:15 SA:0
+x00x1
+Fault:15 SA:1
+xx111
+Fault:16 SA:0
+00xxx
+Fault:16 SA:1
+x10xx
+Fault:19 SA:0
+xx11x
+Fault:19 SA:1
+x00x1
+Fault:20 SA:0
+00xxx
+Fault:20 SA:1
+x10xx
+Fault:21 SA:0
+x011x
+Fault:21 SA:1
+x10x0
+Fault:22 SA:0
+1x1xx
+Fault:22 SA:1
+00xxx
+Fault:23 SA:0
+x10xx
+Fault:23 SA:1
+x011x
+Total SAF: 34
+SAF Success: 34
+SAF Failure: 0
+SAF Timeout: 0
+SAF Coverage: 100.00%
